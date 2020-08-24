@@ -1,0 +1,67 @@
+# Kodi Media Center language file
+# Addon Name: Keymap Editor
+# Addon id: script.keymap
+# Addon Provider: takoi|pkscout
+msgid ""
+msgstr ""
+"Project-Id-Version: XBMC Addons\n"
+"Report-Msgid-Bugs-To: pkscout@kodi.tv\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#30000"
+msgid "Keymap Editor"
+msgstr ""
+
+msgctxt "#30001"
+msgid ""
+msgstr ""
+
+msgctxt "#30002"
+msgid "Press the key you want to assign now"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Edit"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Reset to default"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Save"
+msgstr ""
+
+msgctxt "#30006"
+msgid "Discard changes?"
+msgstr ""
+
+msgctxt "#30007"
+msgid "Select Window to manage shortcuts"
+msgstr ""
+
+msgctxt "#30008"
+msgid "Select action category"
+msgstr ""
+
+msgctxt "#30009"
+msgid "Select the action to assign a key"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Timeout in %.0f seconds..."
+msgstr ""
+
+msgctxt "#30011"
+msgid "Edit key"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Remove"
+msgstr ""

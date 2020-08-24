@@ -15,12 +15,12 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-import xbmcaddon
+from kodi_six import xbmcaddon
 from threading import Timer
-from collections_backport import OrderedDict
-from xbmcgui import Dialog, WindowXMLDialog
-from actions import ACTIONS, WINDOWS
-from utils import tr
+from collections import OrderedDict
+from kodi_six.xbmcgui import Dialog, WindowXMLDialog
+from resources.lib.actions import ACTIONS, WINDOWS
+from resources.lib.utils import tr
 
 
 class Editor(object):
@@ -32,17 +32,17 @@ class Editor(object):
     def start(self):
         while True:
             # Select context menu
-            idx = Dialog().select(tr(30007), WINDOWS.values())
+            idx = Dialog().select(tr(30007), list(WINDOWS.values()))
             if idx == -1:
                 break
-            window = WINDOWS.keys()[idx]
+            window = list(WINDOWS.keys())[idx]
 
             while True:
                 # Select category menu
-                idx = Dialog().select(tr(30008), ACTIONS.keys())
+                idx = Dialog().select(tr(30008), list(ACTIONS.keys()))
                 if idx == -1:
                     break
-                category = ACTIONS.keys()[idx]
+                category = list(ACTIONS.keys())[idx]
 
                 while True:
                     # Select action menu
@@ -87,7 +87,7 @@ class Editor(object):
                 if a in actions.keys():
                     actions[a] = k
         names = ACTIONS[category]
-        return [(action, key, names[action]) for action, key in actions.iteritems()]
+        return [(action, key, names[action]) for action, key in actions.items()]
 
 
 class KeyListener(WindowXMLDialog):

@@ -25,8 +25,6 @@ _actions = [
     "pagedown"          , "Page Down",
     "select"            , "Select Item",
     "highlight"         , "Highlight Item",
-    #"parentdir"         , "NAV_BACK",       # backward compatibility
-    #"close"             , "NAV_BACK", # backwards compatibility
     "parentfolder"      , "Parent Directory",
     "back"              , "Back",
     "previousmenu"      , "Previous Menu",
@@ -111,8 +109,6 @@ _actions = [
     "subtitledelayminus", "Delay Minus",
     "subtitledelayplus" , "Delay Plus",
     "subtitlealign"     , "Align",
-    #"subtitleshiftup"   , "SUBTITLE_VSHIFT_UP", #?
-    #"subtitleshiftdown" , "SUBTITLE_VSHIFT_DOWN", #?
   ]],
 
   ["PVR", [
@@ -133,8 +129,6 @@ _actions = [
     "rename"            , "Rename item",
     "scanitem"          , "Scan item",
     "togglewatched"     , "Toggle watched status",
-    #"increaserating"    , "INCREASE_RATING", #unused
-    #"decreaserating"    , "DECREASE_RATING", #unused
   ]],
 
   ["System", [
@@ -190,63 +184,6 @@ _actions = [
     "lockpreset"        , "Lock current visualisation preset ",
     "randompreset"      , "Switch to a new random preset",
   ]],
-
-  #["Analog", [
-  #  "scrollup"          , "SCROLL_UP",
-  #  "scrolldown"        , "SCROLL_DOWN",
-  #  "cursorleft"        , "CURSOR_LEFT",
-  #  "cursorright"       , "CURSOR_RIGHT",
-  #  "analogmove"        , "ANALOG_MOVE",
-  #  "analogfastforward" , "ANALOG_FORWARD",
-  #  "analogrewind"      , "ANALOG_REWIND",
-  #  "analogseekforward" , "ANALOG_SEEK_FORWARD",
-  #  "analogseekback"    , "ANALOG_SEEK_BACK",
-  #  "leftclick"         , "MOUSE_LEFT_CLICK",
-  #  "rightclick"        , "MOUSE_RIGHT_CLICK",
-  #  "middleclick"       , "MOUSE_MIDDLE_CLICK",
-  #  "doubleclick"       , "MOUSE_DOUBLE_CLICK",
-  #  "wheelup"           , "MOUSE_WHEEL_UP",
-  #  "wheeldown"         , "MOUSE_WHEEL_DOWN",
-  #  "mousedrag"         , "MOUSE_DRAG",
-  #  "mousemove"         , "MOUSE_MOVE",
-  #]]
-
-  #"verticalshiftup"   , "VSHIFT_UP",
-  #"verticalshiftdown" , "VSHIFT_DOWN",
-  #"increasevisrating" , "VIS_RATE_PRESET_PLUS",
-  #"decreasevisrating" , "VIS_RATE_PRESET_MINUS",
-  #"nextscene"         , "NEXT_SCENE",
-  #"previousscene"     , "PREV_SCENE",
-  #"jumpsms2"          , "JUMP_SMS2",
-  #"jumpsms3"          , "JUMP_SMS3",
-  #"jumpsms4"          , "JUMP_SMS4",
-  #"jumpsms5"          , "JUMP_SMS5",
-  #"jumpsms6"          , "JUMP_SMS6",
-  #"jumpsms7"          , "JUMP_SMS7",
-  #"jumpsms8"          , "JUMP_SMS8",
-  #"jumpsms9"          , "JUMP_SMS9",
-  #"filter"            , "FILTER",
-  #"filterclear"       , "FILTER_CLEAR",
-  #"filtersms2"        , "FILTER_SMS2",
-  #"filtersms3"        , "FILTER_SMS3",
-  #"filtersms4"        , "FILTER_SMS4",
-  #"filtersms5"        , "FILTER_SMS5",
-  #"filtersms6"        , "FILTER_SMS6",
-  #"filtersms7"        , "FILTER_SMS7",
-  #"filtersms8"        , "FILTER_SMS8",
-  #"filtersms9"        , "FILTER_SMS9",
-  #"guiprofile"        , "GUIPROFILE_BEGIN",
-  #"volampup"          , "VOLAMP_UP",
-  #"volampdown"        , "VOLAMP_DOWN",
-  #"mplayerosd"        , "SHOW_MPLAYER_OSD", #?
-  #"hidesubmenu"       , "OSD_HIDESUBMENU", #depricated
-  #"osdleft"           , "OSD_SHOW_LEFT",
-  #"osdright"          , "OSD_SHOW_RIGHT",
-  #"osdup"             , "OSD_SHOW_UP",
-  #"osddown"           , "OSD_SHOW_DOWN",
-  #"osdselect"         , "OSD_SHOW_SELECT",
-  #"osdvalueplus"      , "OSD_SHOW_VALUE_PLUS",
-  #"osdvalueminus"     , "OSD_SHOW_VALUE_MIN",
 ]
 
 
@@ -365,9 +302,9 @@ _windows = [
   "slideshow"                , "Slideshow"
 ]
 
-from collections_backport import OrderedDict
-from utils import rpc
-import xbmc
+from collections import OrderedDict
+from resources.lib.utils import rpc
+from kodi_six import xbmc
 
 
 def action_dict(actions, action_names):

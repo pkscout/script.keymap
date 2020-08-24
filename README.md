@@ -1,2 +1,2 @@
 # script.keymap
-Working repo for kodi-addon-keymap-editor
+A keymap editor for Kodi

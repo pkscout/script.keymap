@@ -19,11 +19,11 @@ import os
 import sys
 import shutil
 import traceback
-import xbmc
-import utils
-from xbmcgui import Dialog
-from editor import Editor
-from utils import tr
+from kodi_six import xbmc
+import resources.lib.utils as utils
+from kodi_six.xbmcgui import Dialog
+from resources.lib.editor import Editor
+from resources.lib.utils import tr
 
 
 default = xbmc.translatePath('special://xbmc/system/keymaps/keyboard.xml')
@@ -39,7 +39,7 @@ def setup_keymap_folder():
         for name in os.listdir(userdata):
             if name.endswith('.xml') and name != os.path.basename(gen_file):
                 src = os.path.join(userdata, name)
-                for i in xrange(100):
+                for i in range(100):
                     dst = os.path.join(userdata, "%s.bak.%d" % (name, i))
                     if os.path.exists(dst):
                         continue
@@ -96,6 +96,3 @@ def main():
             break
 
     sys.modules.clear()
-
-if __name__ == "__main__":
-    main()

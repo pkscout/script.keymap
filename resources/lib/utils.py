@@ -17,8 +17,8 @@
 
 import xml.etree.ElementTree as ET
 import json
-import xbmc
-import xbmcaddon
+from kodi_six import xbmc
+from kodi_six import xbmcaddon
 
 tr = xbmcaddon.Addon().getLocalizedString
 
