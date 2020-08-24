@@ -34,18 +34,6 @@ gen_file = os.path.join(userdata, 'gen.xml')
 def setup_keymap_folder():
     if not os.path.exists(userdata):
         os.makedirs(userdata)
-    else:
-        #make sure there are no user defined keymaps
-        for name in os.listdir(userdata):
-            if name.endswith('.xml') and name != os.path.basename(gen_file):
-                src = os.path.join(userdata, name)
-                for i in range(100):
-                    dst = os.path.join(userdata, "%s.bak.%d" % (name, i))
-                    if os.path.exists(dst):
-                        continue
-                    shutil.move(src, dst)
-                    #successfully renamed
-                    break
 
 
 def main():
@@ -83,6 +71,17 @@ def main():
             confirm_discard = bool(userkeymap)
             userkeymap = []
         elif idx == 2:
+            #backup any user defined keymaps
+            for name in os.listdir(userdata):
+                if name.endswith('.xml') and name != os.path.basename(gen_file):
+                    src = os.path.join(userdata, name)
+                    for i in range(100):
+                        dst = os.path.join(userdata, "%s.bak.%d" % (name, i))
+                        if os.path.exists(dst):
+                            continue
+                        shutil.move(src, dst)
+                        #successfully renamed
+                        break
             # save
             if os.path.exists(gen_file):
                 shutil.copyfile(gen_file, gen_file + ".old")
