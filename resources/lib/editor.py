@@ -25,6 +25,7 @@ from resources.lib.utils import tr
 
 class Editor(object):
     def __init__(self, defaultkeymap, userkeymap):
+        """Create the editor object."""
         self.defaultkeymap = defaultkeymap
         self.userkeymap = userkeymap
         self.dirty = False
@@ -99,6 +100,7 @@ class KeyListener(WindowXMLDialog):
         return super(KeyListener, cls).__new__(cls, file_name, "")
 
     def __init__(self):
+        """Initialize key variable."""
         self.key = None
 
     def onInit(self):

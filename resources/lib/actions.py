@@ -30,7 +30,7 @@ _actions = [
     "previousmenu"      , "Previous Menu",
     "info"              , "Show Info",
     "contextmenu"       , "Context Menu",
-    "menu"              , "Menu",    
+    "menu"              , "Menu",
     "firstpage"         , "First Page",
     "lastpage"          , "Last Page",
     "nextletter"        , "Next Letter",
@@ -304,11 +304,10 @@ _windows = [
 
 from collections import OrderedDict
 from resources.lib.utils import rpc
-from kodi_six import xbmc
 
 
 def action_dict(actions, action_names):
-    """Create dict of action->name sorted by name"""
+    """Create dict of action->name sorted by name."""
     return OrderedDict(sorted(zip(actions, action_names), key=lambda t: t[1]))
 
 
@@ -333,7 +332,7 @@ def _get_activate_window_actions():
 
 
 def _get_action_dict():
-    """ Map actions to 'category name'->'action id'->'action name' dict"""
+    """Map actions to 'category name'->'action id'->'action name' dict."""
     d = OrderedDict()
     for elem in _actions:
         category = elem[0]
