@@ -1,6 +1,7 @@
 v1.1.0
 - Added support for v19 Matrix
 - Updates for better support in v18 Leia
+- Fix so script only backups user defined keymaps if trying to save new keymap file
 
 v1.0.10
 - Added support for v17 Krypton
