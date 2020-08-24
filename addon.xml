@@ -7,6 +7,12 @@
 	</requires>
 	<extension point="xbmc.python.script" library="default.py"/>
 	<extension point="xbmc.addon.metadata">
+		<news>
+v1.1.0
+- Added support for v19 Matrix
+- Fix so script only backups user defined keymaps if trying to save new keymap file
+- Moved all text into language file for easier internationalization
+		</news>
 		<summary lang="en_gb">An editor for keymap files</summary>
 		<description lang="en_gb">Keymap Editor is a GUI for configuring mappings for remotes, keyboard and other inputs supported by xbmc. Note: existing user defined key mappings will be renamed to .bak.</description>
 		<platform>all</platform>
