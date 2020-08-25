@@ -16,8 +16,8 @@ v1.1.2
 		<assets>
         	<icon>icon.png</icon>
         </assets>
-		<summary lang="en_gb">An editor for keymap files</summary>
-		<description lang="en_gb">Keymap Editor is a GUI for configuring mappings for remotes, keyboard and other inputs supported by xbmc. Note: existing user defined key mappings will be renamed to .bak.</description>
+		<summary lang="en_GB">An editor for keymap files</summary>
+		<description lang="en_GB">Keymap Editor is a GUI for configuring mappings for remotes, keyboard and other inputs supported by xbmc. Note: existing user defined key mappings will be renamed to .bak.</description>
 		<platform>all</platform>
 		<license>GPL-3.0-only</license>
 		<forum>http://forum.xbmc.org/showthread.php?tid=168767</forum>
