@@ -20,9 +20,7 @@ msgctxt "#30000"
 msgid "Keymap Editor"
 msgstr ""
 
-msgctxt "#30001"
-msgid ""
-msgstr ""
+# emptry string 30001
 
 msgctxt "#30002"
 msgid "Press the key you want to assign now"
@@ -488,7 +486,7 @@ msgctxt "#30410"
 msgid "Volume Amplification"
 msgstr ""
 
-# empty strings from id 30408 to 30499
+# empty strings from id 30411 to 30499
 
 # Pictures
 
@@ -600,7 +598,7 @@ msgctxt "#30609"
 msgid "Shift Subtitle Down"
 msgstr ""
 
-# empty strings from id 30608 to 30699
+# empty strings from id 30610 to 30699
 
 # PVR
 
@@ -700,7 +698,7 @@ msgctxt "#30811"
 msgid "Set Rating"
 msgstr ""
 
-# empty strings from id 30809 to 30899
+# empty strings from id 30812 to 30899
 
 # System
 
@@ -709,7 +707,7 @@ msgid "Toggle Fullscreen"
 msgstr ""
 
 msgctxt "#30901"
-msgid "Minimize"
+msgid "Minimise"
 msgstr ""
 
 msgctxt "#30902"
@@ -752,7 +750,7 @@ msgctxt "#30911"
 msgid "Toggle Font"
 msgstr ""
 
-# empty strings from id 30909 to 30999
+# empty strings from id 30912 to 30999
 
 # Virtual Keyboard
 
@@ -901,7 +899,7 @@ msgid "Previous visualisation preset"
 msgstr ""
 
 msgctxt "#31117"
-msgid "Lock current visualisation preset "
+msgid "Lock current visualisation preset"
 msgstr ""
 
 msgctxt "#31118"
@@ -1033,11 +1031,11 @@ msgid "Login Screen"
 msgstr ""
 
 msgctxt "#31230"
-msgid "Filebrowser"
+msgid "File Browser"
 msgstr ""
 
 msgctxt "#31231"
-msgid "Networksetup"
+msgid "Network Setup"
 msgstr ""
 
 msgctxt "#31232"
@@ -1065,7 +1063,7 @@ msgid "Media filter"
 msgstr ""
 
 msgctxt "#31238"
-msgid "Vis. Preset List"
+msgid "Visualisation Preset List"
 msgstr ""
 
 msgctxt "#31239"
@@ -1104,9 +1102,7 @@ msgctxt "#31247"
 msgid "Addon Info"
 msgstr ""
 
-msgctxt "#31248"
-msgid "Music Library"
-msgstr ""
+# empty string 31248
 
 msgctxt "#31249"
 msgid "Music Playlist"
@@ -1123,12 +1119,6 @@ msgstr ""
 msgctxt "#31252"
 msgid "Song Info"
 msgstr ""
-
-
-
-
-
-
 
 msgctxt "#31253"
 msgid "Movie Info"
@@ -1147,7 +1137,7 @@ msgid "Video OSD"
 msgstr ""
 
 msgctxt "#31257"
-msgid "CMS Settings"
+msgid "Colour Management Settings"
 msgstr ""
 
 msgctxt "#31258"
