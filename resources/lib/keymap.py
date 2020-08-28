@@ -94,4 +94,4 @@ def main():
         else:
             break
 
-    sys.modules.clear()
+    # sys.modules.clear()
