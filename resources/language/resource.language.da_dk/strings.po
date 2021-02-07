@@ -7,17 +7,20 @@ msgstr ""
 "Project-Id-Version: XBMC Addons\n"
 "Report-Msgid-Bugs-To: pkscout@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2021-02-07 11:28+0000\n"
+"Last-Translator: Christian Gade <gade@kodi.tv>\n"
+"Language-Team: Danish <https://kodi.weblate.cloud/projects/kodi-add-ons-scripts/script-keymap/da_dk/>\n"
 "Language: da_dk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.4.2\n"
 
 # Text Messages
 msgctxt "#30000"
 msgid "Keymap Editor"
-msgstr ""
+msgstr "Keymap Editor"
 
 msgctxt "#30001"
 msgid "Failed to remove old keymap file"
@@ -29,19 +32,19 @@ msgstr ""
 
 msgctxt "#30003"
 msgid "Edit"
-msgstr ""
+msgstr "Rediger"
 
 msgctxt "#30004"
 msgid "Reset to default"
-msgstr ""
+msgstr "Nulstil til standard"
 
 msgctxt "#30005"
 msgid "Save"
-msgstr ""
+msgstr "Gem"
 
 msgctxt "#30006"
 msgid "Discard changes?"
-msgstr ""
+msgstr "Kasser ændringer?"
 
 msgctxt "#30007"
 msgid "Select Window to manage shortcuts"
@@ -53,7 +56,7 @@ msgstr ""
 
 msgctxt "#30009"
 msgid "Select the action to assign a key"
-msgstr ""
+msgstr "Vælg den handling der tildeles en tast"
 
 msgctxt "#30010"
 msgid "Timeout in %.0f seconds..."
@@ -61,127 +64,127 @@ msgstr ""
 
 msgctxt "#30011"
 msgid "Edit key"
-msgstr ""
+msgstr "Rediger tast"
 
 msgctxt "#30012"
 msgid "Remove"
-msgstr ""
+msgstr "Fjern"
 
 # empty strings from id 30013 to 30099
 # Window names
 msgctxt "#30100"
 msgid "Global"
-msgstr ""
+msgstr "Global"
 
 msgctxt "#30101"
 msgid "Fullscreen Video"
-msgstr ""
+msgstr "Video i fuld skærm"
 
 msgctxt "#30102"
 msgid "Fullscreen Live TV"
-msgstr ""
+msgstr "Live tv i fuld skærm"
 
 msgctxt "#30103"
 msgid "Fullscreen Radio"
-msgstr ""
+msgstr "Radio i fuld skærm"
 
 msgctxt "#30104"
 msgid "Fullscreen Game"
-msgstr ""
+msgstr "Spil i fuld skærm"
 
 msgctxt "#30105"
 msgid "Home"
-msgstr ""
+msgstr "Hjem"
 
 msgctxt "#30106"
 msgid "Programs"
-msgstr ""
+msgstr "Programmer"
 
 msgctxt "#30107"
 msgid "Videos"
-msgstr ""
+msgstr "Videoer"
 
 msgctxt "#30108"
 msgid "Music"
-msgstr ""
+msgstr "Musik"
 
 msgctxt "#30109"
 msgid "Pictures"
-msgstr ""
+msgstr "Billeder"
 
 msgctxt "#30110"
 msgid "PVR"
-msgstr ""
+msgstr "PVR"
 
 msgctxt "#30111"
 msgid "Filemanager"
-msgstr ""
+msgstr "Filhåndtering"
 
 msgctxt "#30112"
 msgid "Virtual Keyboard"
-msgstr ""
+msgstr "Virtuelt tastatur"
 
 msgctxt "#30113"
 msgid "Player Controls"
-msgstr ""
+msgstr "Afspilningsstyring"
 
 msgctxt "#30114"
 msgid "Seek bar"
-msgstr ""
+msgstr "Søgebar"
 
 msgctxt "#30115"
 msgid "Music OSD"
-msgstr ""
+msgstr "Musik OSD"
 
 msgctxt "#30116"
 msgid "Video OSD Settings"
-msgstr ""
+msgstr "Video OSD-indstillinger"
 
 msgctxt "#30117"
 msgid "Audio OSD Settings"
-msgstr ""
+msgstr "Lyd OSD-indstillinger"
 
 msgctxt "#30118"
 msgid "Visualisation"
-msgstr ""
+msgstr "Visualisering"
 
 msgctxt "#30119"
 msgid "Slideshow"
-msgstr ""
+msgstr "Diasshow"
 
 # empty strings from id 30120 to 30199
 # Navigation
 msgctxt "#30200"
 msgid "Move Left"
-msgstr ""
+msgstr "Flyt til venstre"
 
 msgctxt "#30201"
 msgid "Move Right"
-msgstr ""
+msgstr "Flyt til højre"
 
 msgctxt "#30202"
 msgid "Move Up"
-msgstr ""
+msgstr "Flyt op"
 
 msgctxt "#30203"
 msgid "Move Down"
-msgstr ""
+msgstr "Flyt ned"
 
 msgctxt "#30204"
 msgid "Page Up"
-msgstr ""
+msgstr "Side op"
 
 msgctxt "#30205"
 msgid "Page Down"
-msgstr ""
+msgstr "Side ned"
 
 msgctxt "#30206"
 msgid "Select Item"
-msgstr ""
+msgstr "Vælg emne"
 
 msgctxt "#30207"
 msgid "Highlight Item"
-msgstr ""
+msgstr "Fremhæv emne"
 
 msgctxt "#30208"
 msgid "Parent Directory"
@@ -189,89 +192,89 @@ msgstr ""
 
 msgctxt "#30209"
 msgid "Back"
-msgstr ""
+msgstr "Tilbage"
 
 msgctxt "#30210"
 msgid "Previous Menu"
-msgstr ""
+msgstr "Forrige menu"
 
 msgctxt "#30211"
 msgid "Show Info"
-msgstr ""
+msgstr "Vis info"
 
 msgctxt "#30212"
 msgid "Context Menu"
-msgstr ""
+msgstr "Kontekstmenu"
 
 msgctxt "#30213"
 msgid "Menu"
-msgstr ""
+msgstr "Menu"
 
 msgctxt "#30214"
 msgid "First Page"
-msgstr ""
+msgstr "Første side"
 
 msgctxt "#30215"
 msgid "Last Page"
-msgstr ""
+msgstr "Sidste side"
 
 msgctxt "#30216"
 msgid "Next Letter"
-msgstr ""
+msgstr "Næste bogstav"
 
 msgctxt "#30217"
 msgid "Previous Letter"
-msgstr ""
+msgstr "Forrige bogstav"
 
 msgctxt "#30218"
 msgid "Scroll Up"
-msgstr ""
+msgstr "Rul op"
 
 msgctxt "#30219"
 msgid "Scroll Down"
-msgstr ""
+msgstr "Rul ned"
 
 msgctxt "#30220"
 msgid "Cursor Left"
-msgstr ""
+msgstr "Venstre markør"
 
 msgctxt "#30221"
 msgid "Cursor Right"
-msgstr ""
+msgstr "Højre markør"
 
 # empty strings from id 30222 to 30299
 # Playback
 msgctxt "#30300"
 msgid "Play"
-msgstr ""
+msgstr "Afspil"
 
 msgctxt "#30301"
 msgid "Pause"
-msgstr ""
+msgstr "Pause"
 
 msgctxt "#30302"
 msgid "Play/Pause"
-msgstr ""
+msgstr "Afspil/Pause"
 
 msgctxt "#30303"
 msgid "Stop"
-msgstr ""
+msgstr "Stop"
 
 msgctxt "#30304"
 msgid "Next"
-msgstr ""
+msgstr "Næste"
 
 msgctxt "#30305"
 msgid "Previous"
-msgstr ""
+msgstr "Forrige"
 
 msgctxt "#30306"
 msgid "Fast Forward"
-msgstr ""
+msgstr "Spol frem"
 
 msgctxt "#30307"
 msgid "Rewind"
-msgstr ""
+msgstr "Spol tilbage"
 
 msgctxt "#30308"
 msgid "Small Step Back"
@@ -303,27 +306,27 @@ msgstr ""
 
 msgctxt "#30315"
 msgid "Show OSD"
-msgstr ""
+msgstr "Vis OSD"
 
 msgctxt "#30316"
 msgid "Show current play time"
-msgstr ""
+msgstr "Vis nuværende afspilningstid"
 
 msgctxt "#30317"
 msgid "Show Playlist"
-msgstr ""
+msgstr "Vis playliste"
 
 msgctxt "#30318"
 msgid "Toggle Fullscreen"
-msgstr ""
+msgstr "Skift til fuld skærm"
 
 msgctxt "#30319"
 msgid "Change Aspect Ratio"
-msgstr ""
+msgstr "Ændring af billedformat"
 
 msgctxt "#30320"
 msgid "Go to DVD Video Menu"
-msgstr ""
+msgstr "Gå til DVD videomenu"
 
 msgctxt "#30321"
 msgid "Toggle Repeat"
@@ -331,15 +334,15 @@ msgstr ""
 
 msgctxt "#30322"
 msgid "Repeat One"
-msgstr ""
+msgstr "Gentag én"
 
 msgctxt "#30323"
 msgid "Repeat All"
-msgstr ""
+msgstr "Gentag alle"
 
 msgctxt "#30324"
 msgid "Repeat Off"
-msgstr ""
+msgstr "Gentag fra"
 
 msgctxt "#30325"
 msgid "Toggle Random"
@@ -347,27 +350,27 @@ msgstr ""
 
 msgctxt "#30326"
 msgid "Random On"
-msgstr ""
+msgstr "Random til"
 
 msgctxt "#30327"
 msgid "Random Off"
-msgstr ""
+msgstr "Random fra"
 
 msgctxt "#30328"
 msgid "Playback Speed Faster"
-msgstr ""
+msgstr "Hurtigere afspilningshastighed"
 
 msgctxt "#30329"
 msgid "Playback Speed Slower"
-msgstr ""
+msgstr "Langsommere afspilningshastighed"
 
 msgctxt "#30330"
 msgid "Create Bookmark"
-msgstr ""
+msgstr "Opret bogmærke"
 
 msgctxt "#30331"
 msgid "Create Episode Bookmark"
-msgstr ""
+msgstr "Opret bogmærke for episode"
 
 msgctxt "#30332"
 msgid "Toggle 3D/Stereoscopic mode"
@@ -375,19 +378,19 @@ msgstr ""
 
 msgctxt "#30333"
 msgid "Switch Player"
-msgstr ""
+msgstr "Skift afspiller"
 
 msgctxt "#30334"
 msgid "Play Next"
-msgstr ""
+msgstr "Afspil næste"
 
 msgctxt "#30335"
 msgid "Select Program"
-msgstr ""
+msgstr "Vælg program"
 
 msgctxt "#30336"
 msgid "Select Resolution"
-msgstr ""
+msgstr "Vælg opløsning"
 
 msgctxt "#30337"
 msgid "Shift Video Up"
@@ -399,15 +402,15 @@ msgstr ""
 
 msgctxt "#30339"
 msgid "Show Time"
-msgstr ""
+msgstr "Vis tid"
 
 msgctxt "#30340"
 msgid "Next Scene"
-msgstr ""
+msgstr "Næste scene"
 
 msgctxt "#30341"
 msgid "Previous Scene"
-msgstr ""
+msgstr "Forrige scene"
 
 msgctxt "#30342"
 msgid "Next Video Stream"
