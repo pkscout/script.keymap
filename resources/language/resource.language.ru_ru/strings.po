@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: XBMC Addons\n"
 "Report-Msgid-Bugs-To: pkscout@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2021-03-29 04:06+0000\n"
+"PO-Revision-Date: 2021-04-06 19:29+0000\n"
 "Last-Translator: Dmitry Petrov <dimakrm361@gmail.com>\n"
 "Language-Team: Russian <https://kodi.weblate.cloud/projects/kodi-add-ons-scripts/script-keymap/ru_ru/>\n"
 "Language: ru_ru\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.5.2\n"
+"X-Generator: Weblate 4.5.3\n"
 
 # Text Messages
 msgctxt "#30000"
@@ -94,35 +94,35 @@ msgstr "Игра в полном экране"
 
 msgctxt "#30105"
 msgid "Home"
-msgstr ""
+msgstr "Главное меню"
 
 msgctxt "#30106"
 msgid "Programs"
-msgstr ""
+msgstr "Программы"
 
 msgctxt "#30107"
 msgid "Videos"
-msgstr ""
+msgstr "Видео"
 
 msgctxt "#30108"
 msgid "Music"
-msgstr ""
+msgstr "Музыка"
 
 msgctxt "#30109"
 msgid "Pictures"
-msgstr ""
+msgstr "Фото"
 
 msgctxt "#30110"
 msgid "PVR"
-msgstr ""
+msgstr "PVR"
 
 msgctxt "#30111"
 msgid "Filemanager"
-msgstr ""
+msgstr "Менеджер файлов"
 
 msgctxt "#30112"
 msgid "Virtual Keyboard"
-msgstr ""
+msgstr "Виртуальная клавиатура"
 
 msgctxt "#30113"
 msgid "Player Controls"
@@ -130,295 +130,296 @@ msgstr ""
 
 msgctxt "#30114"
 msgid "Seek bar"
-msgstr ""
+msgstr "Полоса перемотки"
 
 msgctxt "#30115"
 msgid "Music OSD"
-msgstr ""
+msgstr "Экранное меню музыки"
 
 msgctxt "#30116"
 msgid "Video OSD Settings"
-msgstr ""
+msgstr "Настройки видео OSD"
 
 msgctxt "#30117"
 msgid "Audio OSD Settings"
-msgstr ""
+msgstr "Настройки аудио OSD"
 
 msgctxt "#30118"
 msgid "Visualisation"
-msgstr ""
+msgstr "Визуализация"
 
 msgctxt "#30119"
 msgid "Slideshow"
-msgstr ""
+msgstr "Слайд-шоу"
 
 # empty strings from id 30120 to 30199
 # Navigation
 msgctxt "#30200"
 msgid "Move Left"
-msgstr ""
+msgstr "Переместить влево"
 
 msgctxt "#30201"
 msgid "Move Right"
-msgstr ""
+msgstr "Переместить вправо"
 
 msgctxt "#30202"
 msgid "Move Up"
-msgstr ""
+msgstr "Переместить вверх"
 
 msgctxt "#30203"
 msgid "Move Down"
-msgstr ""
+msgstr "Переместить вниз"
 
 msgctxt "#30204"
 msgid "Page Up"
-msgstr ""
+msgstr "Страница вверх"
 
 msgctxt "#30205"
 msgid "Page Down"
-msgstr ""
+msgstr "Страница вниз"
 
 msgctxt "#30206"
 msgid "Select Item"
-msgstr ""
+msgstr "Выбрать элемент"
 
 msgctxt "#30207"
 msgid "Highlight Item"
-msgstr ""
+msgstr "Отметить элемент"
 
 msgctxt "#30208"
 msgid "Parent Directory"
-msgstr ""
+msgstr "Родительская папка"
 
 msgctxt "#30209"
 msgid "Back"
-msgstr ""
+msgstr "Назад"
 
 msgctxt "#30210"
 msgid "Previous Menu"
-msgstr ""
+msgstr "Прошлое меню"
 
 msgctxt "#30211"
 msgid "Show Info"
-msgstr ""
+msgstr "Показать информацию"
 
 msgctxt "#30212"
 msgid "Context Menu"
-msgstr ""
+msgstr "Контекстное меню"
 
 msgctxt "#30213"
 msgid "Menu"
-msgstr ""
+msgstr "Меню"
 
 msgctxt "#30214"
 msgid "First Page"
-msgstr ""
+msgstr "Первая страница"
 
 msgctxt "#30215"
 msgid "Last Page"
-msgstr ""
+msgstr "Последняя страница"
 
 msgctxt "#30216"
 msgid "Next Letter"
-msgstr ""
+msgstr "Следующая буква"
 
 msgctxt "#30217"
 msgid "Previous Letter"
-msgstr ""
+msgstr "Предыдущая буква"
 
 msgctxt "#30218"
 msgid "Scroll Up"
-msgstr ""
+msgstr "Прокрутка вверх"
 
 msgctxt "#30219"
 msgid "Scroll Down"
-msgstr ""
+msgstr "Прокрутка вниз"
 
 msgctxt "#30220"
 msgid "Cursor Left"
-msgstr ""
+msgstr "Курсор влево"
 
 msgctxt "#30221"
 msgid "Cursor Right"
-msgstr ""
+msgstr "Курсор вправо"
 
 # empty strings from id 30222 to 30299
 # Playback
 msgctxt "#30300"
 msgid "Play"
-msgstr ""
+msgstr "Воспроизвести"
 
 msgctxt "#30301"
 msgid "Pause"
-msgstr ""
+msgstr "Пауза"
 
 msgctxt "#30302"
 msgid "Play/Pause"
-msgstr ""
+msgstr "Воспроизвести/Пауза"
 
 msgctxt "#30303"
 msgid "Stop"
-msgstr ""
+msgstr "Стоп"
 
 msgctxt "#30304"
 msgid "Next"
-msgstr ""
+msgstr "Далее"
 
 msgctxt "#30305"
 msgid "Previous"
-msgstr ""
+msgstr "Предыдущее"
 
+#, fuzzy
 msgctxt "#30306"
 msgid "Fast Forward"
-msgstr ""
+msgstr "Перемотка вперед"
 
 msgctxt "#30307"
 msgid "Rewind"
-msgstr ""
+msgstr "Перемотка назад"
 
 msgctxt "#30308"
 msgid "Small Step Back"
-msgstr ""
+msgstr "Короткий шаг назад"
 
 msgctxt "#30309"
 msgid "Step Forward"
-msgstr ""
+msgstr "Шаг вперёд"
 
 msgctxt "#30310"
 msgid "Step Back"
-msgstr ""
+msgstr "Шаг назад"
 
 msgctxt "#30311"
 msgid "Big Step Forward"
-msgstr ""
+msgstr "Большой шаг вперёд"
 
 msgctxt "#30312"
 msgid "Big Step Back"
-msgstr ""
+msgstr "Большой шаг назад"
 
 msgctxt "#30313"
 msgid "Next Chapter or Big Step Forward"
-msgstr ""
+msgstr "Следующая глава или большой шаг вперёд"
 
 msgctxt "#30314"
 msgid "Previous Chapter or Big Step Back"
-msgstr ""
+msgstr "Предыдущая глава или большой шаг назад"
 
 msgctxt "#30315"
 msgid "Show OSD"
-msgstr ""
+msgstr "Показать OSD"
 
 msgctxt "#30316"
 msgid "Show current play time"
-msgstr ""
+msgstr "Показать текущее время"
 
 msgctxt "#30317"
 msgid "Show Playlist"
-msgstr ""
+msgstr "Показать плейлист"
 
 msgctxt "#30318"
 msgid "Toggle Fullscreen"
-msgstr ""
+msgstr "Переключить полный экран"
 
 msgctxt "#30319"
 msgid "Change Aspect Ratio"
-msgstr ""
+msgstr "Изменить соотношение сторон"
 
 msgctxt "#30320"
 msgid "Go to DVD Video Menu"
-msgstr ""
+msgstr "Перейти к меню DVD видео"
 
 msgctxt "#30321"
 msgid "Toggle Repeat"
-msgstr ""
+msgstr "Переключить повтор"
 
 msgctxt "#30322"
 msgid "Repeat One"
-msgstr ""
+msgstr "Повтор: один трек"
 
 msgctxt "#30323"
 msgid "Repeat All"
-msgstr ""
+msgstr "Повтор: все треки"
 
 msgctxt "#30324"
 msgid "Repeat Off"
-msgstr ""
+msgstr "Повтор: выкл."
 
 msgctxt "#30325"
 msgid "Toggle Random"
-msgstr ""
+msgstr "Переключить перемешивание"
 
 msgctxt "#30326"
 msgid "Random On"
-msgstr ""
+msgstr "Перемешивание включено"
 
 msgctxt "#30327"
 msgid "Random Off"
-msgstr ""
+msgstr "Перемешивание выключено"
 
 msgctxt "#30328"
 msgid "Playback Speed Faster"
-msgstr ""
+msgstr "Ускорить воспроизведение"
 
 msgctxt "#30329"
 msgid "Playback Speed Slower"
-msgstr ""
+msgstr "Замедлить воспроизведение"
 
 msgctxt "#30330"
 msgid "Create Bookmark"
-msgstr ""
+msgstr "Создать закладку"
 
 msgctxt "#30331"
 msgid "Create Episode Bookmark"
-msgstr ""
+msgstr "Создать закладку эпизода"
 
 msgctxt "#30332"
 msgid "Toggle 3D/Stereoscopic mode"
-msgstr ""
+msgstr "Переключить 3D/Стереоскопический режим"
 
 msgctxt "#30333"
 msgid "Switch Player"
-msgstr ""
+msgstr "Переключить проигрыватель"
 
 msgctxt "#30334"
 msgid "Play Next"
-msgstr ""
+msgstr "Воспроизвести следующий"
 
 msgctxt "#30335"
 msgid "Select Program"
-msgstr ""
+msgstr "Выбрать программу"
 
 msgctxt "#30336"
 msgid "Select Resolution"
-msgstr ""
+msgstr "Выберите разрешение"
 
 msgctxt "#30337"
 msgid "Shift Video Up"
-msgstr ""
+msgstr "Сместить видео вверх"
 
 msgctxt "#30338"
 msgid "Shift Video Down"
-msgstr ""
+msgstr "Сместить видео вниз"
 
 msgctxt "#30339"
 msgid "Show Time"
-msgstr ""
+msgstr "Показать время"
 
 msgctxt "#30340"
 msgid "Next Scene"
-msgstr ""
+msgstr "Следующая сцена"
 
 msgctxt "#30341"
 msgid "Previous Scene"
-msgstr ""
+msgstr "Предыдущая сцена"
 
 msgctxt "#30342"
 msgid "Next Video Stream"
-msgstr ""
+msgstr "Следующая трансляция"
 
 msgctxt "#30343"
 msgid "Toggle HDHR"
-msgstr ""
+msgstr "Переключить HDHR"
 
 msgctxt "#30344"
 msgid "Cycle 3D Mode"
@@ -434,37 +435,37 @@ msgstr ""
 
 msgctxt "#30347"
 msgid "3D Mono"
-msgstr ""
+msgstr "3D Моно"
 
 # empty strings from id 30348 to 30399
 # Audio
 msgctxt "#30400"
 msgid "Mute"
-msgstr ""
+msgstr "Без звука"
 
 msgctxt "#30401"
 msgid "Volume Up"
-msgstr ""
+msgstr "Увеличить громкость"
 
 msgctxt "#30402"
 msgid "Volume Down"
-msgstr ""
+msgstr "Уменьшить громкость"
 
 msgctxt "#30403"
 msgid "Next Language"
-msgstr ""
+msgstr "Следующий язык"
 
 msgctxt "#30404"
 msgid "Delay"
-msgstr ""
+msgstr "Задержка"
 
 msgctxt "#30405"
 msgid "Delay Minus"
-msgstr ""
+msgstr "Задержка минус"
 
 msgctxt "#30406"
 msgid "Delay Plus"
-msgstr ""
+msgstr "Задержка плюс"
 
 msgctxt "#30407"
 msgid "Toggle Digital/Analog"
