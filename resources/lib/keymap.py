@@ -32,6 +32,7 @@ gen_file = os.path.join(userdata, 'gen.xml')
 
 KODIMONITOR = xbmc.Monitor()
 
+
 def setup_keymap_folder():
     if not os.path.exists(userdata):
         os.makedirs(userdata)
@@ -44,7 +45,7 @@ def main():
     except Exception:
         traceback.print_exc()
         utils.rpc('GUI.ShowNotification', title=tr(30000),
-            message=tr(30001), image='error')
+                  message=tr(30001), image='error')
         return
 
     defaultkeymap = utils.read_keymap(default)
@@ -72,7 +73,7 @@ def main():
             confirm_discard = bool(userkeymap)
             userkeymap = []
         elif idx == 2:
-            #backup any user defined keymaps
+            # backup any user defined keymaps
             for name in os.listdir(userdata):
                 if name.endswith('.xml') and name != os.path.basename(gen_file):
                     src = os.path.join(userdata, name)
@@ -81,7 +82,7 @@ def main():
                         if os.path.exists(dst):
                             continue
                         shutil.move(src, dst)
-                        #successfully renamed
+                        # successfully renamed
                         break
             # save
             if os.path.exists(gen_file):

@@ -24,6 +24,7 @@ from resources.lib.utils import tr
 
 KODIMONITOR = xbmc.Monitor()
 
+
 class Editor(object):
     def __init__(self, defaultkeymap, userkeymap):
         """Create the editor object."""
@@ -49,7 +50,8 @@ class Editor(object):
                 while not KODIMONITOR.abortRequested():
                     # Select action menu
                     current_keymap = self._current_keymap(window, category)
-                    labels = ["%s - %s" % (name, key) for _, key, name in current_keymap]
+                    labels = ["%s - %s" % (name, key)
+                              for _, key, name in current_keymap]
                     idx = Dialog().select(tr(30009), labels)
                     if idx == -1:
                         break
@@ -79,7 +81,8 @@ class Editor(object):
                             self.dirty = True
 
     def _current_keymap(self, window, category):
-        actions = OrderedDict([(action, "") for action in ACTIONS[category].keys()])
+        actions = OrderedDict([(action, "")
+                              for action in ACTIONS[category].keys()])
         for w, a, k in self.defaultkeymap:
             if w == window:
                 if a in actions.keys():
@@ -96,8 +99,10 @@ class KeyListener(WindowXMLDialog):
     TIMEOUT = 5
 
     def __new__(cls):
-        gui_api = tuple(map(int, xbmcaddon.Addon('xbmc.gui').getAddonInfo('version').split('.')))
-        file_name = "DialogNotification.xml" if gui_api >= (5, 11, 0) else "DialogKaiToast.xml"
+        gui_api = tuple(map(int, xbmcaddon.Addon(
+            'xbmc.gui').getAddonInfo('version').split('.')))
+        file_name = "DialogNotification.xml" if gui_api >= (
+            5, 11, 0) else "DialogKaiToast.xml"
         return super(KeyListener, cls).__new__(cls, file_name, "")
 
     def __init__(self):
