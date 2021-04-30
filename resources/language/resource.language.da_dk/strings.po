@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: XBMC Addons\n"
 "Report-Msgid-Bugs-To: pkscout@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2021-02-07 11:28+0000\n"
+"PO-Revision-Date: 2021-04-30 10:02+0000\n"
 "Last-Translator: Christian Gade <gade@kodi.tv>\n"
 "Language-Team: Danish <https://kodi.weblate.cloud/projects/kodi-add-ons-scripts/script-keymap/da_dk/>\n"
 "Language: da_dk\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.4.2\n"
+"X-Generator: Weblate 4.6\n"
 
 # Text Messages
 msgctxt "#30000"
@@ -440,7 +440,7 @@ msgstr ""
 # Audio
 msgctxt "#30400"
 msgid "Mute"
-msgstr ""
+msgstr "Lydløs"
 
 msgctxt "#30401"
 msgid "Volume Up"
@@ -456,7 +456,7 @@ msgstr ""
 
 msgctxt "#30404"
 msgid "Delay"
-msgstr ""
+msgstr "Forsinkelse"
 
 msgctxt "#30405"
 msgid "Delay Minus"
@@ -480,83 +480,83 @@ msgstr ""
 
 msgctxt "#30410"
 msgid "Volume Amplification"
-msgstr ""
+msgstr "Lydforstærkning"
 
 # empty strings from id 30411 to 30499
 # Pictures
 msgctxt "#30500"
 msgid "Next Picture"
-msgstr ""
+msgstr "Næste billede"
 
 msgctxt "#30501"
 msgid "Previous Picture"
-msgstr ""
+msgstr "Forrige billede"
 
 msgctxt "#30502"
 msgid "Rotate Picture"
-msgstr ""
+msgstr "Roter billede"
 
 msgctxt "#30503"
 msgid "Rotate Picture CCW"
-msgstr ""
+msgstr "Roter billede mod uret"
 
 msgctxt "#30504"
 msgid "Zoom Out"
-msgstr ""
+msgstr "Zoom ud"
 
 msgctxt "#30505"
 msgid "Zoom In "
-msgstr ""
+msgstr "Zoom ind "
 
 msgctxt "#30506"
 msgid "Zoom level Normal"
-msgstr ""
+msgstr "Zoom-niveau Normal"
 
 msgctxt "#30507"
 msgid "Zoom level 1"
-msgstr ""
+msgstr "Zoom-niveau 1"
 
 msgctxt "#30508"
 msgid "Zoom level 2"
-msgstr ""
+msgstr "Zoom-niveau 2"
 
 msgctxt "#30509"
 msgid "Zoom level 3"
-msgstr ""
+msgstr "Zoom-niveau 3"
 
 msgctxt "#30510"
 msgid "Zoom level 4"
-msgstr ""
+msgstr "Zoom-niveau 4"
 
 msgctxt "#30511"
 msgid "Zoom level 5"
-msgstr ""
+msgstr "Zoom-niveau 5"
 
 msgctxt "#30512"
 msgid "Zoom level 6"
-msgstr ""
+msgstr "Zoom-niveau 6"
 
 msgctxt "#30513"
 msgid "Zoom level 7"
-msgstr ""
+msgstr "Zoom-niveau 7"
 
 msgctxt "#30514"
 msgid "Zoom level 8"
-msgstr ""
+msgstr "Zoom-niveau 8"
 
 msgctxt "#30515"
 msgid "Zoom level 9"
-msgstr ""
+msgstr "Zoom-niveau 9"
 
 # empty strings from id 30516 to 30599
 # Subtitle
 msgctxt "#30600"
 msgid "Show Subtitles"
-msgstr ""
+msgstr "Vis undertekster"
 
 msgctxt "#30601"
 msgid "Next Subtitle"
-msgstr ""
+msgstr "Næste undertekst"
 
 msgctxt "#30602"
 msgid "Browse Subtitle"
@@ -564,11 +564,11 @@ msgstr ""
 
 msgctxt "#30603"
 msgid "Cycle Subtitle"
-msgstr ""
+msgstr "Skift mellem undertekster"
 
 msgctxt "#30604"
 msgid "Delay"
-msgstr ""
+msgstr "Forsinkelse"
 
 msgctxt "#30605"
 msgid "Delay Minus"
@@ -594,23 +594,23 @@ msgstr ""
 # PVR
 msgctxt "#30700"
 msgid "Channel Up"
-msgstr ""
+msgstr "Kanal op"
 
 msgctxt "#30701"
 msgid "Channel Down"
-msgstr ""
+msgstr "Kanal ned"
 
 msgctxt "#30702"
 msgid "Previous channel group"
-msgstr ""
+msgstr "Forrige kanalgruppe"
 
 msgctxt "#30703"
 msgid "Next channel group"
-msgstr ""
+msgstr "Næste kanalgruppe"
 
 msgctxt "#30704"
 msgid "PVR Play"
-msgstr ""
+msgstr "PVR afspil"
 
 msgctxt "#30705"
 msgid "PVR Play TV"
@@ -622,7 +622,7 @@ msgstr ""
 
 msgctxt "#30707"
 msgid "Record"
-msgstr ""
+msgstr "Optag"
 
 msgctxt "#30708"
 msgid "Toggle Commskip"
@@ -640,35 +640,35 @@ msgstr ""
 # Item Actions
 msgctxt "#30800"
 msgid "Queue item"
-msgstr ""
+msgstr "Føj til kø"
 
 msgctxt "#30801"
 msgid "Delete item"
-msgstr ""
+msgstr "Slet emne"
 
 msgctxt "#30802"
 msgid "Copy item"
-msgstr ""
+msgstr "Kopier emne"
 
 msgctxt "#30803"
 msgid "Move item"
-msgstr ""
+msgstr "Flyt emne"
 
 msgctxt "#30804"
 msgid "Move item up"
-msgstr ""
+msgstr "Flyt emne op"
 
 msgctxt "#30805"
 msgid "Move item down"
-msgstr ""
+msgstr "Flyt emne ned"
 
 msgctxt "#30806"
 msgid "Rename item"
-msgstr ""
+msgstr "Omdøb emne"
 
 msgctxt "#30807"
 msgid "Scan item"
-msgstr ""
+msgstr "Skan emne"
 
 msgctxt "#30808"
 msgid "Toggle Watched"
@@ -690,35 +690,35 @@ msgstr ""
 # System
 msgctxt "#30900"
 msgid "Toggle Fullscreen"
-msgstr ""
+msgstr "Skift til fuld skærm"
 
 msgctxt "#30901"
 msgid "Minimise"
-msgstr ""
+msgstr "Minimer"
 
 msgctxt "#30902"
 msgid "Shutdown"
-msgstr ""
+msgstr "Luk ned"
 
 msgctxt "#30903"
 msgid "Reboot"
-msgstr ""
+msgstr "Genstart"
 
 msgctxt "#30904"
 msgid "Hibernate"
-msgstr ""
+msgstr "Dvale"
 
 msgctxt "#30905"
 msgid "Suspend"
-msgstr ""
+msgstr "Slumre"
 
 msgctxt "#30906"
 msgid "Restart Kodi"
-msgstr ""
+msgstr "Genstart Kodi"
 
 msgctxt "#30907"
 msgid "Log off"
-msgstr ""
+msgstr "Log af"
 
 msgctxt "#30908"
 msgid "Quit Kodi"
@@ -744,55 +744,55 @@ msgstr ""
 
 msgctxt "#31001"
 msgid "Shift"
-msgstr ""
+msgstr "Skift"
 
 msgctxt "#31002"
 msgid "Symbols"
-msgstr ""
+msgstr "Symboler"
 
 msgctxt "#31003"
 msgid "Backspace"
-msgstr ""
+msgstr "Tilbage"
 
 msgctxt "#31004"
 msgid "0"
-msgstr ""
+msgstr "0"
 
 msgctxt "#31005"
 msgid "1"
-msgstr ""
+msgstr "1"
 
 msgctxt "#31006"
 msgid "2"
-msgstr ""
+msgstr "2"
 
 msgctxt "#31007"
 msgid "3"
-msgstr ""
+msgstr "3"
 
 msgctxt "#31008"
 msgid "4"
-msgstr ""
+msgstr "4"
 
 msgctxt "#31009"
 msgid "5"
-msgstr ""
+msgstr "5"
 
 msgctxt "#31010"
 msgid "6"
-msgstr ""
+msgstr "6"
 
 msgctxt "#31011"
 msgid "7"
-msgstr ""
+msgstr "7"
 
 msgctxt "#31012"
 msgid "8"
-msgstr ""
+msgstr "8"
 
 msgctxt "#31013"
 msgid "9"
-msgstr ""
+msgstr "9"
 
 msgctxt "#31014"
 msgid "Teletext Red"
@@ -830,7 +830,7 @@ msgstr ""
 
 msgctxt "#31104"
 msgid "Player Process Info"
-msgstr ""
+msgstr "Procesinformation for afspilning"
 
 msgctxt "#31105"
 msgid "Player debug"
@@ -870,7 +870,7 @@ msgstr ""
 
 msgctxt "#31114"
 msgid "Show visualisation preset list"
-msgstr ""
+msgstr "Liste med forudindstillinger til visualisering"
 
 msgctxt "#31115"
 msgid "Next visualisation preset"
@@ -892,11 +892,11 @@ msgstr ""
 # Activate Window
 msgctxt "#31200"
 msgid "Settings"
-msgstr ""
+msgstr "Indstillinger"
 
 msgctxt "#31201"
 msgid "Player Settings"
-msgstr ""
+msgstr "Indstillinger for afspiller"
 
 msgctxt "#31202"
 msgid "Programs Settings"
@@ -904,23 +904,23 @@ msgstr ""
 
 msgctxt "#31203"
 msgid "Information Provider Settings"
-msgstr ""
+msgstr "Indstillinger for informationsleverandør"
 
 msgctxt "#31204"
 msgid "Interface Settings"
-msgstr ""
+msgstr "Grænsefladens indstillinger"
 
 msgctxt "#31205"
 msgid "System Settings"
-msgstr ""
+msgstr "Systemindstillinger"
 
 msgctxt "#31206"
 msgid "Media Settings"
-msgstr ""
+msgstr "Medieindstillinger"
 
 msgctxt "#31207"
 msgid "Service Settings"
-msgstr ""
+msgstr "Indstillinger for tjenester"
 
 msgctxt "#31208"
 msgid "Appearance Settings"
@@ -928,7 +928,7 @@ msgstr ""
 
 msgctxt "#31209"
 msgid "Peripherals Settings"
-msgstr ""
+msgstr "Indstillinger for eksterne enheder"
 
 msgctxt "#31210"
 msgid "Library Export Settings"
@@ -940,23 +940,23 @@ msgstr ""
 
 msgctxt "#31212"
 msgid "PVR Recording Settings"
-msgstr ""
+msgstr "PVR optagelsesindstillinger"
 
 msgctxt "#31213"
 msgid "Game Settings"
-msgstr ""
+msgstr "Spilindstillinger"
 
 msgctxt "#31214"
 msgid "Advanced Game Settings"
-msgstr ""
+msgstr "Avancerede spilindstillinger"
 
 msgctxt "#31215"
 msgid "Game Controllers"
-msgstr ""
+msgstr "Controllere til spil"
 
 msgctxt "#31216"
 msgid "Game Video Filters"
-msgstr ""
+msgstr "Videofilter for spil"
 
 msgctxt "#31217"
 msgid "Game Video Rotation"
@@ -968,19 +968,19 @@ msgstr ""
 
 msgctxt "#31219"
 msgid "Skin Settings"
-msgstr ""
+msgstr "Skinindstillinger"
 
 msgctxt "#31220"
 msgid "Addon Browser"
-msgstr ""
+msgstr "Add-on katalog"
 
 msgctxt "#31221"
 msgid "Addon Settings"
-msgstr ""
+msgstr "Indstillinger til add-ons"
 
 msgctxt "#31222"
 msgid "Profile Settings"
-msgstr ""
+msgstr "Profilindstillinger"
 
 msgctxt "#31223"
 msgid "Lock Settings"
@@ -988,19 +988,19 @@ msgstr ""
 
 msgctxt "#31224"
 msgid "Content Settings"
-msgstr ""
+msgstr "Indstillinger for indholdstype"
 
 msgctxt "#31225"
 msgid "Profiles"
-msgstr ""
+msgstr "Profiler"
 
 msgctxt "#31226"
 msgid "System info"
-msgstr ""
+msgstr "Systeminfo"
 
 msgctxt "#31227"
 msgid "Test Pattern"
-msgstr ""
+msgstr "Testmønster"
 
 msgctxt "#31228"
 msgid "Screen Calibration"
@@ -1008,19 +1008,19 @@ msgstr ""
 
 msgctxt "#31229"
 msgid "Login Screen"
-msgstr ""
+msgstr "Loginskærm"
 
 msgctxt "#31230"
 msgid "File Browser"
-msgstr ""
+msgstr "Filbrowser"
 
 msgctxt "#31231"
 msgid "Network Setup"
-msgstr ""
+msgstr "Netværksopsætning"
 
 msgctxt "#31232"
 msgid "Access Points"
-msgstr ""
+msgstr "Adgangspunkter"
 
 msgctxt "#31233"
 msgid "Mediasource Dialog"
@@ -1028,76 +1028,76 @@ msgstr ""
 
 msgctxt "#31234"
 msgid "Start"
-msgstr ""
+msgstr "Start"
 
 msgctxt "#31235"
 msgid "Favourites"
-msgstr ""
+msgstr "Favoritter"
 
 msgctxt "#31236"
 msgid "Context Menu"
-msgstr ""
+msgstr "Kontekstmenu"
 
 msgctxt "#31237"
 msgid "Media filter"
-msgstr ""
+msgstr "Mediefilter"
 
 msgctxt "#31238"
 msgid "Visualisation Preset List"
-msgstr ""
+msgstr "Liste med forudindstillinger til visualisering"
 
 msgctxt "#31239"
 msgid "Smart Playlist Editor"
-msgstr ""
+msgstr "Redigering af smart playliste"
 
 msgctxt "#31240"
 msgid "Smart Playlist Rule"
-msgstr ""
+msgstr "Regel for smart playliste"
 
 msgctxt "#31241"
 msgid "Shutdown Menu"
-msgstr ""
+msgstr "Nedlukningsmenu"
 
 msgctxt "#31242"
 msgid "Fullscreen Info"
-msgstr ""
+msgstr "Fuldskærmsinformation"
 
 msgctxt "#31243"
 msgid "Subtitle Search"
-msgstr ""
+msgstr "Undertekstsøgning"
 
 msgctxt "#31244"
 msgid "Weather"
-msgstr ""
+msgstr "Vejr"
 
 msgctxt "#31245"
 msgid "Screensaver"
-msgstr ""
+msgstr "Pauseskærm"
 
 msgctxt "#31246"
 msgid "Picture Info"
-msgstr ""
+msgstr "Billedeinformation"
 
 msgctxt "#31247"
 msgid "Addon Info"
-msgstr ""
+msgstr "Add-on information"
 
 # empty string 31248
 msgctxt "#31249"
 msgid "Music Playlist"
-msgstr ""
+msgstr "Musikplayliste"
 
 msgctxt "#31250"
 msgid "Music Playlist Editor"
-msgstr ""
+msgstr "Redigering af musikplayliste"
 
 msgctxt "#31251"
 msgid "Music Info"
-msgstr ""
+msgstr "Musikinformation"
 
 msgctxt "#31252"
 msgid "Song Info"
-msgstr ""
+msgstr "Sanginformation"
 
 msgctxt "#31253"
 msgid "Movie Info"
@@ -1105,15 +1105,15 @@ msgstr ""
 
 msgctxt "#31254"
 msgid "Player Process Info"
-msgstr ""
+msgstr "Procesinformation for afspilning"
 
 msgctxt "#31255"
 msgid "Video Menu"
-msgstr ""
+msgstr "Videomenu"
 
 msgctxt "#31256"
 msgid "Video OSD"
-msgstr ""
+msgstr "Video OSD"
 
 msgctxt "#31257"
 msgid "Colour Management Settings"
@@ -1121,7 +1121,7 @@ msgstr ""
 
 msgctxt "#31258"
 msgid "Subtitle Settings"
-msgstr ""
+msgstr "Undertekstindstillinger"
 
 msgctxt "#31259"
 msgid "Video Time Seek"
@@ -1129,35 +1129,35 @@ msgstr ""
 
 msgctxt "#31260"
 msgid "Video Bookmarks"
-msgstr ""
+msgstr "Video-bogmærker"
 
 msgctxt "#31261"
 msgid "Video Playlist"
-msgstr ""
+msgstr "Videoplayliste"
 
 msgctxt "#31262"
 msgid "PVR Guide Info"
-msgstr ""
+msgstr "PVR guideinformation"
 
 msgctxt "#31263"
 msgid "PVR Recording Info"
-msgstr ""
+msgstr "PVR optagelsesinformation"
 
 msgctxt "#31264"
 msgid "PVR Timer Setting"
-msgstr ""
+msgstr "PVR timerindstillinger"
 
 msgctxt "#31265"
 msgid "PVR Group Manager"
-msgstr ""
+msgstr "PVR gruppehåndtering"
 
 msgctxt "#31266"
 msgid "PVR Channel Manager"
-msgstr ""
+msgstr "PVR kanalhåndtering"
 
 msgctxt "#31267"
 msgid "PVR Guide Search"
-msgstr ""
+msgstr "PVR guidesøgning"
 
 msgctxt "#31268"
 msgid "PVR Channel Scan"
@@ -1165,107 +1165,107 @@ msgstr ""
 
 msgctxt "#31269"
 msgid "PVR Update Progress"
-msgstr ""
+msgstr "Fremskridt for PVR-opdatering"
 
 msgctxt "#31270"
 msgid "PVR OSD Channels"
-msgstr ""
+msgstr "PVR OSD-kanaler"
 
 msgctxt "#31271"
 msgid "PVR OSD Guide"
-msgstr ""
+msgstr "PVR OSD-guide"
 
 msgctxt "#31272"
 msgid "TV Channels"
-msgstr ""
+msgstr "TV-kanaler"
 
 msgctxt "#31273"
 msgid "TV Recordings"
-msgstr ""
+msgstr "TV-optagelser"
 
 msgctxt "#31274"
 msgid "TV Guide"
-msgstr ""
+msgstr "TV-guide"
 
 msgctxt "#31275"
 msgid "TV Timers"
-msgstr ""
+msgstr "TV-timere"
 
 msgctxt "#31276"
 msgid "TV Search"
-msgstr ""
+msgstr "TV-søgning"
 
 msgctxt "#31277"
 msgid "Radio Channels"
-msgstr ""
+msgstr "Radiokanaler"
 
 msgctxt "#31278"
 msgid "Radio Recordings"
-msgstr ""
+msgstr "Radio-optagelser"
 
 msgctxt "#31279"
 msgid "Radio Guide"
-msgstr ""
+msgstr "Radioguide"
 
 msgctxt "#31280"
 msgid "Radio Timers"
-msgstr ""
+msgstr "Radiotimere"
 
 msgctxt "#31281"
 msgid "Radio Timer Rules"
-msgstr ""
+msgstr "Regler for radio-timeroptagelser"
 
 msgctxt "#31282"
 msgid "Radio Search"
-msgstr ""
+msgstr "Radiosøgning"
 
 msgctxt "#31283"
 msgid "RDS Info"
-msgstr ""
+msgstr "RDS-information"
 
 msgctxt "#31284"
 msgid "Movies"
-msgstr ""
+msgstr "Film"
 
 msgctxt "#31285"
 msgid "Movie Titles"
-msgstr ""
+msgstr "Filmtitler"
 
 msgctxt "#31286"
 msgid "TV Shows"
-msgstr ""
+msgstr "TV-serier"
 
 msgctxt "#31287"
 msgid "TV Show Titles"
-msgstr ""
+msgstr "TV-serietitler"
 
 msgctxt "#31288"
 msgid "Music Videos"
-msgstr ""
+msgstr "Musikvideoer"
 
 msgctxt "#31289"
 msgid "Recently Added Movies"
-msgstr ""
+msgstr "Senest tilføjede film"
 
 msgctxt "#31290"
 msgid "Recently Added Episodes"
-msgstr ""
+msgstr "Senest tilføjede afsnit"
 
 msgctxt "#31291"
 msgid "Recently Added Music Videos"
-msgstr ""
+msgstr "Senest tilføjede musikvideoer"
 
 msgctxt "#31292"
 msgid "Games"
-msgstr ""
+msgstr "Spil"
 
 msgctxt "#31293"
 msgid "Games OSD"
-msgstr ""
+msgstr "Spil OSD"
 
 msgctxt "#31294"
 msgid "Game Pad Input"
-msgstr ""
+msgstr "Gamepad input"
 
 msgctxt "#31295"
 msgid "Game Volume"
