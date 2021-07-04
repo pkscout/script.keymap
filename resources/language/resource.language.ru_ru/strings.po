@@ -7,15 +7,15 @@ msgstr ""
 "Project-Id-Version: XBMC Addons\n"
 "Report-Msgid-Bugs-To: pkscout@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2021-04-30 10:02+0000\n"
-"Last-Translator: Christian Gade <gade@kodi.tv>\n"
+"PO-Revision-Date: 2021-07-04 15:29+0000\n"
+"Last-Translator: vdkbsd <valexgus@gmail.com>\n"
 "Language-Team: Russian <https://kodi.weblate.cloud/projects/kodi-add-ons-scripts/script-keymap/ru_ru/>\n"
 "Language: ru_ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.6\n"
+"X-Generator: Weblate 4.7.1\n"
 
 # Text Messages
 msgctxt "#30000"
@@ -468,15 +468,15 @@ msgstr "Задержка плюс"
 
 msgctxt "#30407"
 msgid "Toggle Digital/Analog"
-msgstr ""
+msgstr "Переключение цифровой/аналоговый"
 
 msgctxt "#30408"
 msgid "Volume Amp Up"
-msgstr ""
+msgstr "Увеличить усиление громкости"
 
 msgctxt "#30409"
 msgid "Volume Amp Down"
-msgstr ""
+msgstr "Уменьшить усиление громкости"
 
 msgctxt "#30410"
 msgid "Volume Amplification"
@@ -486,81 +486,81 @@ msgstr "Усиление громкости"
 # Pictures
 msgctxt "#30500"
 msgid "Next Picture"
-msgstr ""
+msgstr "Следующее изображение"
 
 msgctxt "#30501"
 msgid "Previous Picture"
-msgstr ""
+msgstr "Предыдущее изображение"
 
 msgctxt "#30502"
 msgid "Rotate Picture"
-msgstr ""
+msgstr "Повернуть изображение"
 
 msgctxt "#30503"
 msgid "Rotate Picture CCW"
-msgstr ""
+msgstr "Поворот изображения налево"
 
 msgctxt "#30504"
 msgid "Zoom Out"
-msgstr ""
+msgstr "Уменьшить масштаб"
 
 msgctxt "#30505"
 msgid "Zoom In "
-msgstr ""
+msgstr "Увеличить масштаб "
 
 msgctxt "#30506"
 msgid "Zoom level Normal"
-msgstr ""
+msgstr "Нормальный уровень масштабирования"
 
 msgctxt "#30507"
 msgid "Zoom level 1"
-msgstr ""
+msgstr "Уровень масштабирования 1"
 
 msgctxt "#30508"
 msgid "Zoom level 2"
-msgstr ""
+msgstr "Уровень масштабирования 2"
 
 msgctxt "#30509"
 msgid "Zoom level 3"
-msgstr ""
+msgstr "Уровень масштабирования 3"
 
 msgctxt "#30510"
 msgid "Zoom level 4"
-msgstr ""
+msgstr "Уровень масштабирования 4"
 
 msgctxt "#30511"
 msgid "Zoom level 5"
-msgstr ""
+msgstr "Уровень масштабирования 5"
 
 msgctxt "#30512"
 msgid "Zoom level 6"
-msgstr ""
+msgstr "Уровень масштабирования 6"
 
 msgctxt "#30513"
 msgid "Zoom level 7"
-msgstr ""
+msgstr "Уровень масштабирования 7"
 
 msgctxt "#30514"
 msgid "Zoom level 8"
-msgstr ""
+msgstr "Уровень масштабирования 8"
 
 msgctxt "#30515"
 msgid "Zoom level 9"
-msgstr ""
+msgstr "Уровень масштабирования 9"
 
 # empty strings from id 30516 to 30599
 # Subtitle
 msgctxt "#30600"
 msgid "Show Subtitles"
-msgstr ""
+msgstr "Показать субтитры"
 
 msgctxt "#30601"
 msgid "Next Subtitle"
-msgstr ""
+msgstr "Следующие субтитры"
 
 msgctxt "#30602"
 msgid "Browse Subtitle"
-msgstr ""
+msgstr "Поиск субтитров"
 
 msgctxt "#30603"
 msgid "Cycle Subtitle"
@@ -568,7 +568,7 @@ msgstr ""
 
 msgctxt "#30604"
 msgid "Delay"
-msgstr ""
+msgstr "Задержка"
 
 msgctxt "#30605"
 msgid "Delay Minus"
@@ -580,33 +580,33 @@ msgstr "Задержка плюс"
 
 msgctxt "#30607"
 msgid "Align"
-msgstr ""
+msgstr "Выравнивание"
 
 msgctxt "#30608"
 msgid "Shift Subtitle Up"
-msgstr ""
+msgstr "Смещение субтитров вверх"
 
 msgctxt "#30609"
 msgid "Shift Subtitle Down"
-msgstr ""
+msgstr "Смещение субтитров вниз"
 
 # empty strings from id 30610 to 30699
 # PVR
 msgctxt "#30700"
 msgid "Channel Up"
-msgstr ""
+msgstr "Канал вверх"
 
 msgctxt "#30701"
 msgid "Channel Down"
-msgstr ""
+msgstr "Канал вниз"
 
 msgctxt "#30702"
 msgid "Previous channel group"
-msgstr ""
+msgstr "Предыдущая группа каналов"
 
 msgctxt "#30703"
 msgid "Next channel group"
-msgstr ""
+msgstr "Следующая группа каналов"
 
 msgctxt "#30704"
 msgid "PVR Play"
@@ -644,11 +644,11 @@ msgstr "Добавить в плейлист"
 
 msgctxt "#30801"
 msgid "Delete item"
-msgstr ""
+msgstr "Удалить объект"
 
 msgctxt "#30802"
 msgid "Copy item"
-msgstr ""
+msgstr "Копировать объект"
 
 msgctxt "#30803"
 msgid "Move item"
@@ -656,15 +656,15 @@ msgstr "Переместить объект"
 
 msgctxt "#30804"
 msgid "Move item up"
-msgstr ""
+msgstr "Переместить объект вверх"
 
 msgctxt "#30805"
 msgid "Move item down"
-msgstr ""
+msgstr "Переместить объект вниз"
 
 msgctxt "#30806"
 msgid "Rename item"
-msgstr ""
+msgstr "Переименовать объект"
 
 msgctxt "#30807"
 msgid "Scan item"
@@ -672,25 +672,25 @@ msgstr ""
 
 msgctxt "#30808"
 msgid "Toggle Watched"
-msgstr ""
+msgstr "Переключение: просмотрено/не просмотрено"
 
 msgctxt "#30809"
 msgid "Increase Rating"
-msgstr ""
+msgstr "Повысить рейтинг"
 
 msgctxt "#30810"
 msgid "Decrease Rating"
-msgstr ""
+msgstr "Снизить рейтинг"
 
 msgctxt "#30811"
 msgid "Set Rating"
-msgstr ""
+msgstr "Установить рейтинг"
 
 # empty strings from id 30812 to 30899
 # System
 msgctxt "#30900"
 msgid "Toggle Fullscreen"
-msgstr "Переключить полный экран"
+msgstr "Переключить в полноэкранный режим"
 
 msgctxt "#30901"
 msgid "Minimise"
@@ -714,7 +714,7 @@ msgstr "В ждущий режим"
 
 msgctxt "#30906"
 msgid "Restart Kodi"
-msgstr ""
+msgstr "Перезапустить Kodi"
 
 msgctxt "#30907"
 msgid "Log off"
@@ -722,19 +722,19 @@ msgstr "Выход"
 
 msgctxt "#30908"
 msgid "Quit Kodi"
-msgstr ""
+msgstr "Выйти из Kodi"
 
 msgctxt "#30909"
 msgid "Reset Settings"
-msgstr ""
+msgstr "Сброс настроек"
 
 msgctxt "#30910"
 msgid "Change Settings Level"
-msgstr ""
+msgstr "Изменить уровень настроек"
 
 msgctxt "#30911"
 msgid "Toggle Font"
-msgstr ""
+msgstr "Переключение шрифта"
 
 # empty strings from id 30912 to 30999
 # Virtual Keyboard
@@ -814,19 +814,19 @@ msgstr ""
 # Other
 msgctxt "#31100"
 msgid "Update Video Library"
-msgstr ""
+msgstr "Обновление видеотеки"
 
 msgctxt "#31101"
 msgid "Update Music Library"
-msgstr ""
+msgstr "Обновление музыкальной медиатеки"
 
 msgctxt "#31102"
 msgid "Clean Video Library"
-msgstr ""
+msgstr "Очистить видеотеку"
 
 msgctxt "#31103"
 msgid "Clean Music Library"
-msgstr ""
+msgstr "Очистить музыкальную медиатеку"
 
 msgctxt "#31104"
 msgid "Player Process Info"
@@ -834,15 +834,15 @@ msgstr "Сведения о проигрывателе"
 
 msgctxt "#31105"
 msgid "Player debug"
-msgstr ""
+msgstr "Отладка проигрывателя"
 
 msgctxt "#31106"
 msgid "Take screenshot"
-msgstr ""
+msgstr "Сделать скриншот"
 
 msgctxt "#31107"
 msgid "Reload Keymaps"
-msgstr ""
+msgstr "Перезагрузить раскладку клавиатуры"
 
 msgctxt "#31108"
 msgid "Increase PAR"
@@ -854,7 +854,7 @@ msgstr ""
 
 msgctxt "#31110"
 msgid "Change resolution"
-msgstr ""
+msgstr "Изменить разрешение"
 
 msgctxt "#31111"
 msgid "Next calibration"
@@ -866,27 +866,27 @@ msgstr ""
 
 msgctxt "#31113"
 msgid "Show current visualisation preset"
-msgstr ""
+msgstr "Показать текущую предустановку визуализации"
 
 msgctxt "#31114"
 msgid "Show visualisation preset list"
-msgstr ""
+msgstr "Показать список предустановок визуализации"
 
 msgctxt "#31115"
 msgid "Next visualisation preset"
-msgstr ""
+msgstr "Следующая предустановка визуализации"
 
 msgctxt "#31116"
 msgid "Previous visualisation preset"
-msgstr ""
+msgstr "Предыдущая предустановка визуализации"
 
 msgctxt "#31117"
 msgid "Lock current visualisation preset"
-msgstr ""
+msgstr "Блокировка текущей предустановки визуализации"
 
 msgctxt "#31118"
 msgid "Switch to a new random preset"
-msgstr ""
+msgstr "Переключение на новую случайную предустановку"
 
 # empty strings from id 31119 to 31199
 # Activate Window
@@ -900,7 +900,7 @@ msgstr "Настройки проигрывателя"
 
 msgctxt "#31202"
 msgid "Programs Settings"
-msgstr ""
+msgstr "Настройки программ"
 
 msgctxt "#31203"
 msgid "Information Provider Settings"
@@ -924,7 +924,7 @@ msgstr "Сервисные настройки"
 
 msgctxt "#31208"
 msgid "Appearance Settings"
-msgstr ""
+msgstr "Настройки внешнего вида"
 
 msgctxt "#31209"
 msgid "Peripherals Settings"
@@ -932,11 +932,11 @@ msgstr "Настройки периферийных устройств"
 
 msgctxt "#31210"
 msgid "Library Export Settings"
-msgstr ""
+msgstr "Настройки экспорта медиатеки"
 
 msgctxt "#31211"
 msgid "PVR Settings"
-msgstr ""
+msgstr "Настройки PVR"
 
 msgctxt "#31212"
 msgid "PVR Recording Settings"
@@ -944,11 +944,11 @@ msgstr "PVR настройки записи"
 
 msgctxt "#31213"
 msgid "Game Settings"
-msgstr ""
+msgstr "Параметры игры"
 
 msgctxt "#31214"
 msgid "Advanced Game Settings"
-msgstr ""
+msgstr "Расширенные настройки игры"
 
 msgctxt "#31215"
 msgid "Game Controllers"
@@ -956,7 +956,7 @@ msgstr "Игровые контроллеры"
 
 msgctxt "#31216"
 msgid "Game Video Filters"
-msgstr ""
+msgstr "Игровые видеофильтры"
 
 msgctxt "#31217"
 msgid "Game Video Rotation"
@@ -1004,7 +1004,7 @@ msgstr ""
 
 msgctxt "#31228"
 msgid "Screen Calibration"
-msgstr ""
+msgstr "Калибровка экрана"
 
 msgctxt "#31229"
 msgid "Login Screen"
@@ -1101,7 +1101,7 @@ msgstr "Информация о песне"
 
 msgctxt "#31253"
 msgid "Movie Info"
-msgstr ""
+msgstr "Информация о фильме"
 
 msgctxt "#31254"
 msgid "Player Process Info"
@@ -1117,7 +1117,7 @@ msgstr "Отображение информации в режиме Видео"
 
 msgctxt "#31257"
 msgid "Colour Management Settings"
-msgstr ""
+msgstr "Параметры управления цветом"
 
 msgctxt "#31258"
 msgid "Subtitle Settings"
@@ -1229,7 +1229,7 @@ msgstr "Фильмы"
 
 msgctxt "#31285"
 msgid "Movie Titles"
-msgstr ""
+msgstr "Названия фильмов"
 
 msgctxt "#31286"
 msgid "TV Shows"
@@ -1237,7 +1237,7 @@ msgstr "Сериалы"
 
 msgctxt "#31287"
 msgid "TV Show Titles"
-msgstr ""
+msgstr "Названия сериалов"
 
 msgctxt "#31288"
 msgid "Music Videos"
@@ -1261,7 +1261,7 @@ msgstr "Игры"
 
 msgctxt "#31293"
 msgid "Games OSD"
-msgstr ""
+msgstr "Экранное меню игр"
 
 msgctxt "#31294"
 msgid "Game Pad Input"
@@ -1269,4 +1269,4 @@ msgstr ""
 
 msgctxt "#31295"
 msgid "Game Volume"
-msgstr ""
+msgstr "Уровень громкости игры"
