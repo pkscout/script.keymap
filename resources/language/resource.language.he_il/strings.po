@@ -15,6 +15,14 @@ msgstr ""
 "Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && "
 "n % 10 == 0) ? 2 : 3));\n"
 
+msgctxt "Addon Summary"
+msgid "An editor for keymap files"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Keymap Editor is a GUI for configuring mappings for remotes, keyboard and other inputs supported by Kodi. Note: existing user defined key mappings will be renamed to .bak."
+msgstr ""
+
 # Text Messages
 msgctxt "#30000"
 msgid "Keymap Editor"
