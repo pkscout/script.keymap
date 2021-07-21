@@ -5,9 +5,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: XBMC Addons\n"
-"Report-Msgid-Bugs-To: pkscout@kodi.tv\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2021-07-04 15:29+0000\n"
+"PO-Revision-Date: 2021-07-21 22:29+0000\n"
 "Last-Translator: vdkbsd <valexgus@gmail.com>\n"
 "Language-Team: Russian <https://kodi.weblate.cloud/projects/kodi-add-ons-scripts/script-keymap/ru_ru/>\n"
 "Language: ru_ru\n"
@@ -15,15 +15,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.7.1\n"
+"X-Generator: Weblate 4.7.2\n"
 
 msgctxt "Addon Summary"
 msgid "An editor for keymap files"
-msgstr ""
+msgstr "Редактор файлов раскладки клавиатуры"
 
 msgctxt "Addon Description"
 msgid "Keymap Editor is a GUI for configuring mappings for remotes, keyboard and other inputs supported by Kodi. Note: existing user defined key mappings will be renamed to .bak."
-msgstr ""
+msgstr "Keymap Editor - это графический интерфейс для настройки привязки клавиш пультов, клавиатуры и других устройств ввода, поддерживаемых Kodi. Примечание: существующие пользовательские привязки клавиш будут переименованы в .bak."
 
 # Text Messages
 msgctxt "#30000"
@@ -430,15 +430,15 @@ msgstr "Переключить HDHR"
 
 msgctxt "#30344"
 msgid "Cycle 3D Mode"
-msgstr ""
+msgstr "Выбрать 3D-режим"
 
 msgctxt "#30345"
 msgid "Next 3D Mode"
-msgstr ""
+msgstr "Следующий 3D-режим"
 
 msgctxt "#30346"
 msgid "Previous 3D Mode"
-msgstr ""
+msgstr "Предыдущий 3D-режим"
 
 msgctxt "#30347"
 msgid "3D Mono"
@@ -572,7 +572,7 @@ msgstr "Поиск субтитров"
 
 msgctxt "#30603"
 msgid "Cycle Subtitle"
-msgstr ""
+msgstr "Выбор субтитров"
 
 msgctxt "#30604"
 msgid "Delay"
@@ -618,15 +618,15 @@ msgstr "Следующая группа каналов"
 
 msgctxt "#30704"
 msgid "PVR Play"
-msgstr ""
+msgstr "Воспроизвести PVR"
 
 msgctxt "#30705"
 msgid "PVR Play TV"
-msgstr ""
+msgstr "Воспроизвести PVR ТВ"
 
 msgctxt "#30706"
 msgid "PVR Play Radio"
-msgstr ""
+msgstr "Воспроизвести PVR радио"
 
 msgctxt "#30707"
 msgid "Record"
@@ -638,7 +638,7 @@ msgstr ""
 
 msgctxt "#30709"
 msgid "PVR Show Timer Rule"
-msgstr ""
+msgstr "Правило таймера просмотра PVR"
 
 msgctxt "#30710"
 msgid "Channel Number Separator"
@@ -676,7 +676,7 @@ msgstr "Переименовать объект"
 
 msgctxt "#30807"
 msgid "Scan item"
-msgstr ""
+msgstr "Сканировать объект"
 
 msgctxt "#30808"
 msgid "Toggle Watched"
@@ -752,11 +752,11 @@ msgstr ""
 
 msgctxt "#31001"
 msgid "Shift"
-msgstr "Сдвиг"
+msgstr ""
 
 msgctxt "#31002"
 msgid "Symbols"
-msgstr "Симв."
+msgstr "Символы"
 
 msgctxt "#31003"
 msgid "Backspace"
@@ -804,19 +804,19 @@ msgstr "9"
 
 msgctxt "#31014"
 msgid "Teletext Red"
-msgstr ""
+msgstr "Телетекст – красный"
 
 msgctxt "#31015"
 msgid "Teletext Green"
-msgstr ""
+msgstr "Телетекст – зелёный"
 
 msgctxt "#31016"
 msgid "Teletext Yellow"
-msgstr ""
+msgstr "Телетекст – жёлтый"
 
 msgctxt "#31017"
 msgid "Teletext Blue"
-msgstr ""
+msgstr "Телетекст – синий"
 
 # empty strings from id 31018 to 31099
 # Other
@@ -854,11 +854,11 @@ msgstr "Перезагрузить раскладку клавиатуры"
 
 msgctxt "#31108"
 msgid "Increase PAR"
-msgstr ""
+msgstr "Увеличение PAR"
 
 msgctxt "#31109"
 msgid "Decrease PAR"
-msgstr ""
+msgstr "Уменьшение ПАР"
 
 msgctxt "#31110"
 msgid "Change resolution"
@@ -866,11 +866,11 @@ msgstr "Изменить разрешение"
 
 msgctxt "#31111"
 msgid "Next calibration"
-msgstr ""
+msgstr "Следующая калибровка"
 
 msgctxt "#31112"
 msgid "Reset calibration"
-msgstr ""
+msgstr "Сброс настроек калибровки"
 
 msgctxt "#31113"
 msgid "Show current visualisation preset"
@@ -968,11 +968,11 @@ msgstr "Игровые видеофильтры"
 
 msgctxt "#31217"
 msgid "Game Video Rotation"
-msgstr ""
+msgstr "Вращение игрового видео"
 
 msgctxt "#31218"
 msgid "Game View Mode"
-msgstr ""
+msgstr "Режим просмотра игры"
 
 msgctxt "#31219"
 msgid "Skin Settings"
@@ -1008,7 +1008,7 @@ msgstr "Сведения о системе"
 
 msgctxt "#31227"
 msgid "Test Pattern"
-msgstr ""
+msgstr "Тестовый шаблон"
 
 msgctxt "#31228"
 msgid "Screen Calibration"
@@ -1032,7 +1032,7 @@ msgstr "Точки доступа"
 
 msgctxt "#31233"
 msgid "Mediasource Dialog"
-msgstr ""
+msgstr "Диалоговое окно источников мультимедиа"
 
 msgctxt "#31234"
 msgid "Start"
@@ -1229,7 +1229,7 @@ msgstr "Поиск радио"
 
 msgctxt "#31283"
 msgid "RDS Info"
-msgstr ""
+msgstr "Информация RDS"
 
 msgctxt "#31284"
 msgid "Movies"
