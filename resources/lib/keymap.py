@@ -19,15 +19,15 @@ import os
 import sys
 import shutil
 import traceback
-from kodi_six import xbmc
+from kodi_six import xbmc, xbmcvfs
 import resources.lib.utils as utils
 from kodi_six.xbmcgui import Dialog
 from resources.lib.editor import Editor
 from resources.lib.utils import tr
 
 
-default = xbmc.translatePath('special://xbmc/system/keymaps/keyboard.xml')
-userdata = xbmc.translatePath('special://userdata/keymaps')
+default = xbmcvfs.translatePath('special://xbmc/system/keymaps/keyboard.xml')
+userdata = xbmcvfs.translatePath('special://userdata/keymaps')
 gen_file = os.path.join(userdata, 'gen.xml')
 
 KODIMONITOR = xbmc.Monitor()
