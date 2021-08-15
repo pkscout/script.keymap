@@ -19,9 +19,10 @@ import os
 import sys
 import shutil
 import traceback
-from kodi_six import xbmc, xbmcvfs
+import xbmc
+import xbmcvfs
 import resources.lib.utils as utils
-from kodi_six.xbmcgui import Dialog
+from xbmcgui import Dialog
 from resources.lib.editor import Editor
 from resources.lib.utils import tr
 

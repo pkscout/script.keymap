@@ -15,10 +15,11 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-from kodi_six import xbmc, xbmcaddon
+import xbmc
+import xbmcaddon
 from threading import Timer
 from collections import OrderedDict
-from kodi_six.xbmcgui import Dialog, WindowXMLDialog
+from xbmcgui import Dialog, WindowXMLDialog
 from resources.lib.actions import ACTIONS, WINDOWS
 from resources.lib.utils import tr
 

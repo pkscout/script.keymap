@@ -18,8 +18,8 @@
 import defusedxml.ElementTree as ET
 import xml.etree.ElementTree as UET
 import json
-from kodi_six import xbmc
-from kodi_six import xbmcaddon
+import xbmc
+import xbmcaddon
 
 tr = xbmcaddon.Addon().getLocalizedString
 
