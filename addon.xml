@@ -21,9 +21,13 @@ v1.1.3
 		<source>https://github.com/tamland/xbmc-keymap-editor</source>
 		<summary lang="de_DE">Ein Editor für Keymap-Dateien</summary>
 		<summary lang="en_GB">An editor for keymap files</summary>
+		<summary lang="hu_HU">Távvezérlő fájlok kezelője</summary>
+		<summary lang="ko_KR">키맵 파일용 편집기</summary>
 		<summary lang="ru_RU">Редактор файлов раскладки клавиатуры</summary>
 		<description lang="de_DE">Keymap Editor ist eine grafische Oberfläche zum Konfigurieren von Tasten-Mappings für Fernbedienungen, Tastaturen und anderen von Kodi unterstützten Eingabegeräten. Hinweis: Existierende benutzerdefinierte Tasten-Mappings werden umbenannt zu .bak.</description>
 		<description lang="en_GB">Keymap Editor is a GUI for configuring mappings for remotes, keyboard and other inputs supported by Kodi. Note: existing user defined key mappings will be renamed to .bak.</description>
+		<description lang="hu_HU">A Keymap Editor egy grafikus felhasználói felület a távvezérlők, a billentyűzet és a Kodi által támogatott egyéb bemenetek konfigurálásához. Megjegyzés: a meglévő, felhasználó által definiált keymap fájlok át lesznek nevezve .bak -ra.</description>
+		<description lang="ko_KR">키맵 편집기는 Kodi에서 지원하는 리모컨, 키보드 및 기타 입력에 대한 매핑을 구성하기 위한 GUI입니다. 참고: 기존 사용자 정의 키 매핑은 .bak으로 이름이 바뀝니다.</description>
 		<description lang="ru_RU">Keymap Editor - это графический интерфейс для настройки привязки клавиш пультов, клавиатуры и других устройств ввода, поддерживаемых Kodi. Примечание: существующие пользовательские привязки клавиш будут переименованы в .bak.</description>
 	</extension>
 </addon>
