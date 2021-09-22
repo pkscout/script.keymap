@@ -44,7 +44,7 @@ msgstr "Bearbeiten"
 
 msgctxt "#30004"
 msgid "Reset to default"
-msgstr "Auf Standardwert zurücksetzen"
+msgstr "Auf Standard zurücksetzen"
 
 msgctxt "#30005"
 msgid "Save"
