@@ -7,1271 +7,1274 @@ msgstr ""
 "Project-Id-Version: XBMC Addons\n"
 "Report-Msgid-Bugs-To: pkscout@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2021-09-08 06:30+0000\n"
+"Last-Translator: Minho Park <parkmino@gmail.com>\n"
+"Language-Team: Korean <https://kodi.weblate.cloud/projects/kodi-add-ons-scripts/script-keymap/ko_kr/>\n"
 "Language: ko_kr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.8\n"
 
 msgctxt "Addon Summary"
 msgid "An editor for keymap files"
-msgstr ""
+msgstr "키맵 파일용 편집기"
 
 msgctxt "Addon Description"
 msgid "Keymap Editor is a GUI for configuring mappings for remotes, keyboard and other inputs supported by Kodi. Note: existing user defined key mappings will be renamed to .bak."
-msgstr ""
+msgstr "키맵 편집기는 Kodi에서 지원하는 리모컨, 키보드 및 기타 입력에 대한 매핑을 구성하기 위한 GUI입니다. 참고: 기존 사용자 정의 키 매핑은 .bak으로 이름이 바뀝니다."
 
 # Text Messages
 msgctxt "#30000"
 msgid "Keymap Editor"
-msgstr ""
+msgstr "키맵 편집기"
 
 msgctxt "#30001"
 msgid "Failed to remove old keymap file"
-msgstr ""
+msgstr "이전 키맵 파일을 제거하지 못함"
 
 msgctxt "#30002"
 msgid "Press the key you want to assign now"
-msgstr ""
+msgstr "지금 할당하려는 키를 누름"
 
 msgctxt "#30003"
 msgid "Edit"
-msgstr ""
+msgstr "편집"
 
 msgctxt "#30004"
 msgid "Reset to default"
-msgstr ""
+msgstr "기본값으로 재설정"
 
 msgctxt "#30005"
 msgid "Save"
-msgstr ""
+msgstr "저장"
 
 msgctxt "#30006"
 msgid "Discard changes?"
-msgstr ""
+msgstr "변경 사항을 취소할까요?"
 
 msgctxt "#30007"
 msgid "Select Window to manage shortcuts"
-msgstr ""
+msgstr "창을 선택하여 바로 가기 관리"
 
 msgctxt "#30008"
 msgid "Select action category"
-msgstr ""
+msgstr "작업 카테고리 선택"
 
 msgctxt "#30009"
 msgid "Select the action to assign a key"
-msgstr ""
+msgstr "키를 할당할 작업 선택"
 
 msgctxt "#30010"
 msgid "Timeout in %.0f seconds..."
-msgstr ""
+msgstr "%.0f초 후의 시간 초과..."
 
 msgctxt "#30011"
 msgid "Edit key"
-msgstr ""
+msgstr "키 수정"
 
 msgctxt "#30012"
 msgid "Remove"
-msgstr ""
+msgstr "지움"
 
 # empty strings from id 30013 to 30099
 # Window names
 msgctxt "#30100"
 msgid "Global"
-msgstr ""
+msgstr "글로벌"
 
 msgctxt "#30101"
 msgid "Fullscreen Video"
-msgstr ""
+msgstr "전체 화면 비디오"
 
 msgctxt "#30102"
 msgid "Fullscreen Live TV"
-msgstr ""
+msgstr "전체 화면 라이브 TV"
 
 msgctxt "#30103"
 msgid "Fullscreen Radio"
-msgstr ""
+msgstr "전체 화면 라디오"
 
 msgctxt "#30104"
 msgid "Fullscreen Game"
-msgstr ""
+msgstr "전체 화면 게임"
 
 msgctxt "#30105"
 msgid "Home"
-msgstr ""
+msgstr "홈"
 
 msgctxt "#30106"
 msgid "Programs"
-msgstr ""
+msgstr "프로그램"
 
 msgctxt "#30107"
 msgid "Videos"
-msgstr ""
+msgstr "비디오"
 
 msgctxt "#30108"
 msgid "Music"
-msgstr ""
+msgstr "음악"
 
 msgctxt "#30109"
 msgid "Pictures"
-msgstr ""
+msgstr "사진"
 
 msgctxt "#30110"
 msgid "PVR"
-msgstr ""
+msgstr "PVR"
 
 msgctxt "#30111"
 msgid "Filemanager"
-msgstr ""
+msgstr "파일 관리자"
 
 msgctxt "#30112"
 msgid "Virtual Keyboard"
-msgstr ""
+msgstr "가상 키보드"
 
 msgctxt "#30113"
 msgid "Player Controls"
-msgstr ""
+msgstr "플레이어 컨트롤"
 
 msgctxt "#30114"
 msgid "Seek bar"
-msgstr ""
+msgstr "탐색 바"
 
 msgctxt "#30115"
 msgid "Music OSD"
-msgstr ""
+msgstr "음악 OSD"
 
 msgctxt "#30116"
 msgid "Video OSD Settings"
-msgstr ""
+msgstr "비디오 OSD 설정"
 
 msgctxt "#30117"
 msgid "Audio OSD Settings"
-msgstr ""
+msgstr "오디오 OSD 설정"
 
 msgctxt "#30118"
 msgid "Visualisation"
-msgstr ""
+msgstr "시각화"
 
 msgctxt "#30119"
 msgid "Slideshow"
-msgstr ""
+msgstr "슬라이드쇼"
 
 # empty strings from id 30120 to 30199
 # Navigation
 msgctxt "#30200"
 msgid "Move Left"
-msgstr ""
+msgstr "왼쪽으로 이동"
 
 msgctxt "#30201"
 msgid "Move Right"
-msgstr ""
+msgstr "오른쪽으로 이동"
 
 msgctxt "#30202"
 msgid "Move Up"
-msgstr ""
+msgstr "위로 이동"
 
 msgctxt "#30203"
 msgid "Move Down"
-msgstr ""
+msgstr "아래로 이동"
 
 msgctxt "#30204"
 msgid "Page Up"
-msgstr ""
+msgstr "위 페이지로"
 
 msgctxt "#30205"
 msgid "Page Down"
-msgstr ""
+msgstr "아래 페이지로"
 
 msgctxt "#30206"
 msgid "Select Item"
-msgstr ""
+msgstr "항목 선택"
 
 msgctxt "#30207"
 msgid "Highlight Item"
-msgstr ""
+msgstr "항목 강조"
 
 msgctxt "#30208"
 msgid "Parent Directory"
-msgstr ""
+msgstr "상위 디렉토리"
 
 msgctxt "#30209"
 msgid "Back"
-msgstr ""
+msgstr "뒤로"
 
 msgctxt "#30210"
 msgid "Previous Menu"
-msgstr ""
+msgstr "이전 메뉴"
 
 msgctxt "#30211"
 msgid "Show Info"
-msgstr ""
+msgstr "정보 보기"
 
 msgctxt "#30212"
 msgid "Context Menu"
-msgstr ""
+msgstr "컨텍스트 메뉴"
 
 msgctxt "#30213"
 msgid "Menu"
-msgstr ""
+msgstr "메뉴"
 
 msgctxt "#30214"
 msgid "First Page"
-msgstr ""
+msgstr "첫 페이지"
 
 msgctxt "#30215"
 msgid "Last Page"
-msgstr ""
+msgstr "마지막 페이지"
 
 msgctxt "#30216"
 msgid "Next Letter"
-msgstr ""
+msgstr "다음 문자"
 
 msgctxt "#30217"
 msgid "Previous Letter"
-msgstr ""
+msgstr "이전 문자"
 
 msgctxt "#30218"
 msgid "Scroll Up"
-msgstr ""
+msgstr "위로 스크롤"
 
 msgctxt "#30219"
 msgid "Scroll Down"
-msgstr ""
+msgstr "아래로 스크롤"
 
 msgctxt "#30220"
 msgid "Cursor Left"
-msgstr ""
+msgstr "커서 왼쪽"
 
 msgctxt "#30221"
 msgid "Cursor Right"
-msgstr ""
+msgstr "커서 오른쪽"
 
 # empty strings from id 30222 to 30299
 # Playback
 msgctxt "#30300"
 msgid "Play"
-msgstr ""
+msgstr "재생"
 
 msgctxt "#30301"
 msgid "Pause"
-msgstr ""
+msgstr "일시 정지"
 
 msgctxt "#30302"
 msgid "Play/Pause"
-msgstr ""
+msgstr "재생/일시정지"
 
 msgctxt "#30303"
 msgid "Stop"
-msgstr ""
+msgstr "중지"
 
 msgctxt "#30304"
 msgid "Next"
-msgstr ""
+msgstr "다음"
 
 msgctxt "#30305"
 msgid "Previous"
-msgstr ""
+msgstr "이전"
 
 msgctxt "#30306"
 msgid "Fast Forward"
-msgstr ""
+msgstr "빨리 감기"
 
 msgctxt "#30307"
 msgid "Rewind"
-msgstr ""
+msgstr "되감기"
 
 msgctxt "#30308"
 msgid "Small Step Back"
-msgstr ""
+msgstr "작은 단계 뒤로"
 
 msgctxt "#30309"
 msgid "Step Forward"
-msgstr ""
+msgstr "단계 앞으로"
 
 msgctxt "#30310"
 msgid "Step Back"
-msgstr ""
+msgstr "단계 뒤로"
 
 msgctxt "#30311"
 msgid "Big Step Forward"
-msgstr ""
+msgstr "큰 단계 앞으로"
 
 msgctxt "#30312"
 msgid "Big Step Back"
-msgstr ""
+msgstr "큰 단계 뒤로"
 
 msgctxt "#30313"
 msgid "Next Chapter or Big Step Forward"
-msgstr ""
+msgstr "다음 장 또는 큰 단계 뒤로"
 
 msgctxt "#30314"
 msgid "Previous Chapter or Big Step Back"
-msgstr ""
+msgstr "이전 장 또는 큰 단계 뒤로"
 
 msgctxt "#30315"
 msgid "Show OSD"
-msgstr ""
+msgstr "OSD 보기"
 
 msgctxt "#30316"
 msgid "Show current play time"
-msgstr ""
+msgstr "현재 재생 시간 보기"
 
 msgctxt "#30317"
 msgid "Show Playlist"
-msgstr ""
+msgstr "재생 목록 보기"
 
 msgctxt "#30318"
 msgid "Toggle Fullscreen"
-msgstr ""
+msgstr "전체 화면 전환"
 
 msgctxt "#30319"
 msgid "Change Aspect Ratio"
-msgstr ""
+msgstr "종횡비 변경"
 
 msgctxt "#30320"
 msgid "Go to DVD Video Menu"
-msgstr ""
+msgstr "DVD 비디오 메뉴로 이동"
 
 msgctxt "#30321"
 msgid "Toggle Repeat"
-msgstr ""
+msgstr "반복 전환"
 
 msgctxt "#30322"
 msgid "Repeat One"
-msgstr ""
+msgstr "하나 반복"
 
 msgctxt "#30323"
 msgid "Repeat All"
-msgstr ""
+msgstr "모두 반복"
 
 msgctxt "#30324"
 msgid "Repeat Off"
-msgstr ""
+msgstr "반복 끄기"
 
 msgctxt "#30325"
 msgid "Toggle Random"
-msgstr ""
+msgstr "무작위 전환"
 
 msgctxt "#30326"
 msgid "Random On"
-msgstr ""
+msgstr "무작위 켜기"
 
 msgctxt "#30327"
 msgid "Random Off"
-msgstr ""
+msgstr "무작위 끄기"
 
 msgctxt "#30328"
 msgid "Playback Speed Faster"
-msgstr ""
+msgstr "더 빠른 재생 속도"
 
 msgctxt "#30329"
 msgid "Playback Speed Slower"
-msgstr ""
+msgstr "더 느린 재생 속도"
 
 msgctxt "#30330"
 msgid "Create Bookmark"
-msgstr ""
+msgstr "북마크 생성"
 
 msgctxt "#30331"
 msgid "Create Episode Bookmark"
-msgstr ""
+msgstr "에피소드 책갈피 만들기"
 
 msgctxt "#30332"
 msgid "Toggle 3D/Stereoscopic mode"
-msgstr ""
+msgstr "3D/입체 모드 전환"
 
 msgctxt "#30333"
 msgid "Switch Player"
-msgstr ""
+msgstr "플레이어 전환"
 
 msgctxt "#30334"
 msgid "Play Next"
-msgstr ""
+msgstr "다음 재생"
 
 msgctxt "#30335"
 msgid "Select Program"
-msgstr ""
+msgstr "프로그램 선택"
 
 msgctxt "#30336"
 msgid "Select Resolution"
-msgstr ""
+msgstr "해상도 선택"
 
 msgctxt "#30337"
 msgid "Shift Video Up"
-msgstr ""
+msgstr "비디오를 위로 이동"
 
 msgctxt "#30338"
 msgid "Shift Video Down"
-msgstr ""
+msgstr "비디오를 아래로 이동"
 
 msgctxt "#30339"
 msgid "Show Time"
-msgstr ""
+msgstr "쇼 시간"
 
 msgctxt "#30340"
 msgid "Next Scene"
-msgstr ""
+msgstr "다음 장면"
 
 msgctxt "#30341"
 msgid "Previous Scene"
-msgstr ""
+msgstr "이전 장면"
 
 msgctxt "#30342"
 msgid "Next Video Stream"
-msgstr ""
+msgstr "다음 비디오 스트림"
 
 msgctxt "#30343"
 msgid "Toggle HDHR"
-msgstr ""
+msgstr "HDHR 전환"
 
 msgctxt "#30344"
 msgid "Cycle 3D Mode"
-msgstr ""
+msgstr "3D 모드 순환"
 
 msgctxt "#30345"
 msgid "Next 3D Mode"
-msgstr ""
+msgstr "다음 3D 모드"
 
 msgctxt "#30346"
 msgid "Previous 3D Mode"
-msgstr ""
+msgstr "이전 3D 모드"
 
 msgctxt "#30347"
 msgid "3D Mono"
-msgstr ""
+msgstr "3D 모노"
 
 # empty strings from id 30348 to 30399
 # Audio
 msgctxt "#30400"
 msgid "Mute"
-msgstr ""
+msgstr "조용히"
 
 msgctxt "#30401"
 msgid "Volume Up"
-msgstr ""
+msgstr "소리 크게"
 
 msgctxt "#30402"
 msgid "Volume Down"
-msgstr ""
+msgstr "소리 작게"
 
 msgctxt "#30403"
 msgid "Next Language"
-msgstr ""
+msgstr "다음 언어"
 
 msgctxt "#30404"
 msgid "Delay"
-msgstr ""
+msgstr "지연"
 
 msgctxt "#30405"
 msgid "Delay Minus"
-msgstr ""
+msgstr "마이너스 지연"
 
 msgctxt "#30406"
 msgid "Delay Plus"
-msgstr ""
+msgstr "플러스 딜레이"
 
 msgctxt "#30407"
 msgid "Toggle Digital/Analog"
-msgstr ""
+msgstr "디지털/아날로그 전환"
 
 msgctxt "#30408"
 msgid "Volume Amp Up"
-msgstr ""
+msgstr "소리 증폭 증가"
 
 msgctxt "#30409"
 msgid "Volume Amp Down"
-msgstr ""
+msgstr "소리 증폭 감소"
 
 msgctxt "#30410"
 msgid "Volume Amplification"
-msgstr ""
+msgstr "소리 증폭"
 
 # empty strings from id 30411 to 30499
 # Pictures
 msgctxt "#30500"
 msgid "Next Picture"
-msgstr ""
+msgstr "다음 사진"
 
 msgctxt "#30501"
 msgid "Previous Picture"
-msgstr ""
+msgstr "이전 사진"
 
 msgctxt "#30502"
 msgid "Rotate Picture"
-msgstr ""
+msgstr "사진 돌리기"
 
 msgctxt "#30503"
 msgid "Rotate Picture CCW"
-msgstr ""
+msgstr "사진을 반 시계 방향으로 돌리기"
 
 msgctxt "#30504"
 msgid "Zoom Out"
-msgstr ""
+msgstr "축소"
 
 msgctxt "#30505"
 msgid "Zoom In "
-msgstr ""
+msgstr "확대 "
 
 msgctxt "#30506"
 msgid "Zoom level Normal"
-msgstr ""
+msgstr "줌 레벨 일반"
 
 msgctxt "#30507"
 msgid "Zoom level 1"
-msgstr ""
+msgstr "줌 레벨 1"
 
 msgctxt "#30508"
 msgid "Zoom level 2"
-msgstr ""
+msgstr "줌 레벨 2"
 
 msgctxt "#30509"
 msgid "Zoom level 3"
-msgstr ""
+msgstr "줌 레벨 3"
 
 msgctxt "#30510"
 msgid "Zoom level 4"
-msgstr ""
+msgstr "줌 레벨 4"
 
 msgctxt "#30511"
 msgid "Zoom level 5"
-msgstr ""
+msgstr "줌 레벨 5"
 
 msgctxt "#30512"
 msgid "Zoom level 6"
-msgstr ""
+msgstr "줌 레벨 6"
 
 msgctxt "#30513"
 msgid "Zoom level 7"
-msgstr ""
+msgstr "줌 레벨 7"
 
 msgctxt "#30514"
 msgid "Zoom level 8"
-msgstr ""
+msgstr "줌 레벨 8"
 
 msgctxt "#30515"
 msgid "Zoom level 9"
-msgstr ""
+msgstr "줌 레벨 9"
 
 # empty strings from id 30516 to 30599
 # Subtitle
 msgctxt "#30600"
 msgid "Show Subtitles"
-msgstr ""
+msgstr "자막 보기"
 
 msgctxt "#30601"
 msgid "Next Subtitle"
-msgstr ""
+msgstr "다음 자막"
 
 msgctxt "#30602"
 msgid "Browse Subtitle"
-msgstr ""
+msgstr "자막 찾아보기"
 
 msgctxt "#30603"
 msgid "Cycle Subtitle"
-msgstr ""
+msgstr "자막 순환"
 
 msgctxt "#30604"
 msgid "Delay"
-msgstr ""
+msgstr "지연"
 
 msgctxt "#30605"
 msgid "Delay Minus"
-msgstr ""
+msgstr "마이너스 지연"
 
 msgctxt "#30606"
 msgid "Delay Plus"
-msgstr ""
+msgstr "플러스 지연"
 
 msgctxt "#30607"
 msgid "Align"
-msgstr ""
+msgstr "맞추기"
 
 msgctxt "#30608"
 msgid "Shift Subtitle Up"
-msgstr ""
+msgstr "자막 위로 이동"
 
 msgctxt "#30609"
 msgid "Shift Subtitle Down"
-msgstr ""
+msgstr "자막을 아래로 이동"
 
 # empty strings from id 30610 to 30699
 # PVR
 msgctxt "#30700"
 msgid "Channel Up"
-msgstr ""
+msgstr "채널 위로"
 
 msgctxt "#30701"
 msgid "Channel Down"
-msgstr ""
+msgstr "채널 아래로"
 
 msgctxt "#30702"
 msgid "Previous channel group"
-msgstr ""
+msgstr "이전 채널 묶음"
 
 msgctxt "#30703"
 msgid "Next channel group"
-msgstr ""
+msgstr "다음 채널 묶음"
 
 msgctxt "#30704"
 msgid "PVR Play"
-msgstr ""
+msgstr "PVR 재생"
 
 msgctxt "#30705"
 msgid "PVR Play TV"
-msgstr ""
+msgstr "PVR TV 재생"
 
 msgctxt "#30706"
 msgid "PVR Play Radio"
-msgstr ""
+msgstr "PVR Radio 재생"
 
 msgctxt "#30707"
 msgid "Record"
-msgstr ""
+msgstr "녹화"
 
 msgctxt "#30708"
 msgid "Toggle Commskip"
-msgstr ""
+msgstr "통신 건너뛰기 전환"
 
 msgctxt "#30709"
 msgid "PVR Show Timer Rule"
-msgstr ""
+msgstr "PVR 쇼 타이머 규칙"
 
 msgctxt "#30710"
 msgid "Channel Number Separator"
-msgstr ""
+msgstr "채널 번호 구분자"
 
 # empty strings from id 30711 to 30799
 # Item Actions
 msgctxt "#30800"
 msgid "Queue item"
-msgstr ""
+msgstr "대기열 항목"
 
 msgctxt "#30801"
 msgid "Delete item"
-msgstr ""
+msgstr "항목 삭제"
 
 msgctxt "#30802"
 msgid "Copy item"
-msgstr ""
+msgstr "항목 복사"
 
 msgctxt "#30803"
 msgid "Move item"
-msgstr ""
+msgstr "항목 이동"
 
 msgctxt "#30804"
 msgid "Move item up"
-msgstr ""
+msgstr "항목을 위로 이동"
 
 msgctxt "#30805"
 msgid "Move item down"
-msgstr ""
+msgstr "항목을 아래로 이동"
 
 msgctxt "#30806"
 msgid "Rename item"
-msgstr ""
+msgstr "항목 이름 바꾸기"
 
 msgctxt "#30807"
 msgid "Scan item"
-msgstr ""
+msgstr "항목 스캔"
 
 msgctxt "#30808"
 msgid "Toggle Watched"
-msgstr ""
+msgstr "시청 전환"
 
 msgctxt "#30809"
 msgid "Increase Rating"
-msgstr ""
+msgstr "평점 올리기"
 
 msgctxt "#30810"
 msgid "Decrease Rating"
-msgstr ""
+msgstr "평점 내리기"
 
 msgctxt "#30811"
 msgid "Set Rating"
-msgstr ""
+msgstr "평점 설정"
 
 # empty strings from id 30812 to 30899
 # System
 msgctxt "#30900"
 msgid "Toggle Fullscreen"
-msgstr ""
+msgstr "전체 화면 전환"
 
 msgctxt "#30901"
 msgid "Minimise"
-msgstr ""
+msgstr "최소화"
 
 msgctxt "#30902"
 msgid "Shutdown"
-msgstr ""
+msgstr "종료"
 
 msgctxt "#30903"
 msgid "Reboot"
-msgstr ""
+msgstr "다시 시작"
 
 msgctxt "#30904"
 msgid "Hibernate"
-msgstr ""
+msgstr "최대 절전 모드"
 
 msgctxt "#30905"
 msgid "Suspend"
-msgstr ""
+msgstr "대기"
 
 msgctxt "#30906"
 msgid "Restart Kodi"
-msgstr ""
+msgstr "Kodi 다시 시작"
 
 msgctxt "#30907"
 msgid "Log off"
-msgstr ""
+msgstr "로그 오프"
 
 msgctxt "#30908"
 msgid "Quit Kodi"
-msgstr ""
+msgstr "Kodi 종료"
 
 msgctxt "#30909"
 msgid "Reset Settings"
-msgstr ""
+msgstr "설정 초기화"
 
 msgctxt "#30910"
 msgid "Change Settings Level"
-msgstr ""
+msgstr "설정 수준 변경"
 
 msgctxt "#30911"
 msgid "Toggle Font"
-msgstr ""
+msgstr "글꼴 전환"
 
 # empty strings from id 30912 to 30999
 # Virtual Keyboard
 msgctxt "#31000"
 msgid "Enter"
-msgstr ""
+msgstr "입력"
 
 msgctxt "#31001"
 msgid "Shift"
-msgstr ""
+msgstr "시프트"
 
 msgctxt "#31002"
 msgid "Symbols"
-msgstr ""
+msgstr "기호"
 
 msgctxt "#31003"
 msgid "Backspace"
-msgstr ""
+msgstr "백스페이스"
 
 msgctxt "#31004"
 msgid "0"
-msgstr ""
+msgstr "0"
 
 msgctxt "#31005"
 msgid "1"
-msgstr ""
+msgstr "1"
 
 msgctxt "#31006"
 msgid "2"
-msgstr ""
+msgstr "2"
 
 msgctxt "#31007"
 msgid "3"
-msgstr ""
+msgstr "3"
 
 msgctxt "#31008"
 msgid "4"
-msgstr ""
+msgstr "4"
 
 msgctxt "#31009"
 msgid "5"
-msgstr ""
+msgstr "5"
 
 msgctxt "#31010"
 msgid "6"
-msgstr ""
+msgstr "6"
 
 msgctxt "#31011"
 msgid "7"
-msgstr ""
+msgstr "7"
 
 msgctxt "#31012"
 msgid "8"
-msgstr ""
+msgstr "8"
 
 msgctxt "#31013"
 msgid "9"
-msgstr ""
+msgstr "9"
 
 msgctxt "#31014"
 msgid "Teletext Red"
-msgstr ""
+msgstr "문자 메시지 빨간색"
 
 msgctxt "#31015"
 msgid "Teletext Green"
-msgstr ""
+msgstr "문자 메시지 녹색"
 
 msgctxt "#31016"
 msgid "Teletext Yellow"
-msgstr ""
+msgstr "문자 메시지 노란색"
 
 msgctxt "#31017"
 msgid "Teletext Blue"
-msgstr ""
+msgstr "문자 메시지 파란색"
 
 # empty strings from id 31018 to 31099
 # Other
 msgctxt "#31100"
 msgid "Update Video Library"
-msgstr ""
+msgstr "비디오 라이브러리 업데이트"
 
 msgctxt "#31101"
 msgid "Update Music Library"
-msgstr ""
+msgstr "음악 라이브러리 업데이트"
 
 msgctxt "#31102"
 msgid "Clean Video Library"
-msgstr ""
+msgstr "비디오 라이브러리 정리"
 
 msgctxt "#31103"
 msgid "Clean Music Library"
-msgstr ""
+msgstr "음악 라이브러리 정리"
 
 msgctxt "#31104"
 msgid "Player Process Info"
-msgstr ""
+msgstr "플레이어 프로세스 정보"
 
 msgctxt "#31105"
 msgid "Player debug"
-msgstr ""
+msgstr "플레이어 디버그"
 
 msgctxt "#31106"
 msgid "Take screenshot"
-msgstr ""
+msgstr "스크린 샷 찍기"
 
 msgctxt "#31107"
 msgid "Reload Keymaps"
-msgstr ""
+msgstr "키맵 다시 읽기"
 
 msgctxt "#31108"
 msgid "Increase PAR"
-msgstr ""
+msgstr "PAR 증가"
 
 msgctxt "#31109"
 msgid "Decrease PAR"
-msgstr ""
+msgstr "PAR 감소"
 
 msgctxt "#31110"
 msgid "Change resolution"
-msgstr ""
+msgstr "해상도 변경"
 
 msgctxt "#31111"
 msgid "Next calibration"
-msgstr ""
+msgstr "다음 보정"
 
 msgctxt "#31112"
 msgid "Reset calibration"
-msgstr ""
+msgstr "보정 재설정"
 
 msgctxt "#31113"
 msgid "Show current visualisation preset"
-msgstr ""
+msgstr "현재 시각화 사전 설정 보기"
 
 msgctxt "#31114"
 msgid "Show visualisation preset list"
-msgstr ""
+msgstr "시각화 사전 설정 목록 보기"
 
 msgctxt "#31115"
 msgid "Next visualisation preset"
-msgstr ""
+msgstr "다음 시각화 사전 설정"
 
 msgctxt "#31116"
 msgid "Previous visualisation preset"
-msgstr ""
+msgstr "이전 시각화 사전 설정"
 
 msgctxt "#31117"
 msgid "Lock current visualisation preset"
-msgstr ""
+msgstr "현재 시각화 사전 설정 잠금"
 
 msgctxt "#31118"
 msgid "Switch to a new random preset"
-msgstr ""
+msgstr "새 임의 사전 설정으로 전환"
 
 # empty strings from id 31119 to 31199
 # Activate Window
 msgctxt "#31200"
 msgid "Settings"
-msgstr ""
+msgstr "설정"
 
 msgctxt "#31201"
 msgid "Player Settings"
-msgstr ""
+msgstr "플레이어 설정"
 
 msgctxt "#31202"
 msgid "Programs Settings"
-msgstr ""
+msgstr "프로그램 설정"
 
 msgctxt "#31203"
 msgid "Information Provider Settings"
-msgstr ""
+msgstr "정보 제공자 설정"
 
 msgctxt "#31204"
 msgid "Interface Settings"
-msgstr ""
+msgstr "인터페이스 설정"
 
 msgctxt "#31205"
 msgid "System Settings"
-msgstr ""
+msgstr "시스템 설정"
 
 msgctxt "#31206"
 msgid "Media Settings"
-msgstr ""
+msgstr "미디어 설정"
 
 msgctxt "#31207"
 msgid "Service Settings"
-msgstr ""
+msgstr "서비스 설정"
 
 msgctxt "#31208"
 msgid "Appearance Settings"
-msgstr ""
+msgstr "모양 설정"
 
 msgctxt "#31209"
 msgid "Peripherals Settings"
-msgstr ""
+msgstr "주변기기 설정"
 
 msgctxt "#31210"
 msgid "Library Export Settings"
-msgstr ""
+msgstr "라이브러리 내보내기 설정"
 
 msgctxt "#31211"
 msgid "PVR Settings"
-msgstr ""
+msgstr "PVR 설정"
 
 msgctxt "#31212"
 msgid "PVR Recording Settings"
-msgstr ""
+msgstr "PVR 녹화 설정"
 
 msgctxt "#31213"
 msgid "Game Settings"
-msgstr ""
+msgstr "게임 설정"
 
 msgctxt "#31214"
 msgid "Advanced Game Settings"
-msgstr ""
+msgstr "고급 게임 설정"
 
 msgctxt "#31215"
 msgid "Game Controllers"
-msgstr ""
+msgstr "게임 컨트롤러"
 
 msgctxt "#31216"
 msgid "Game Video Filters"
-msgstr ""
+msgstr "개임 비디오 필터"
 
 msgctxt "#31217"
 msgid "Game Video Rotation"
-msgstr ""
+msgstr "게임 비디오 회전"
 
 msgctxt "#31218"
 msgid "Game View Mode"
-msgstr ""
+msgstr "게임 보기 모드"
 
 msgctxt "#31219"
 msgid "Skin Settings"
-msgstr ""
+msgstr "스킨 설정"
 
 msgctxt "#31220"
 msgid "Addon Browser"
-msgstr ""
+msgstr "애드온 브라우저"
 
 msgctxt "#31221"
 msgid "Addon Settings"
-msgstr ""
+msgstr "애드온 설정"
 
 msgctxt "#31222"
 msgid "Profile Settings"
-msgstr ""
+msgstr "프로파일 설정"
 
 msgctxt "#31223"
 msgid "Lock Settings"
-msgstr ""
+msgstr "잠금 설정"
 
 msgctxt "#31224"
 msgid "Content Settings"
-msgstr ""
+msgstr "콘텐츠 설정"
 
 msgctxt "#31225"
 msgid "Profiles"
-msgstr ""
+msgstr "프로파일"
 
 msgctxt "#31226"
 msgid "System info"
-msgstr ""
+msgstr "시스템 정보"
 
 msgctxt "#31227"
 msgid "Test Pattern"
-msgstr ""
+msgstr "테스트 패턴"
 
 msgctxt "#31228"
 msgid "Screen Calibration"
-msgstr ""
+msgstr "화면 보정"
 
 msgctxt "#31229"
 msgid "Login Screen"
-msgstr ""
+msgstr "로그인 화면"
 
 msgctxt "#31230"
 msgid "File Browser"
-msgstr ""
+msgstr "파일 탐색기"
 
 msgctxt "#31231"
 msgid "Network Setup"
-msgstr ""
+msgstr "네트워크 설정"
 
 msgctxt "#31232"
 msgid "Access Points"
-msgstr ""
+msgstr "액세스 포인트"
 
 msgctxt "#31233"
 msgid "Mediasource Dialog"
-msgstr ""
+msgstr "미디어 소스 대화 상자"
 
 msgctxt "#31234"
 msgid "Start"
-msgstr ""
+msgstr "시작"
 
 msgctxt "#31235"
 msgid "Favourites"
-msgstr ""
+msgstr "즐겨찾기"
 
 msgctxt "#31236"
 msgid "Context Menu"
-msgstr ""
+msgstr "컨텍스트 메뉴"
 
 msgctxt "#31237"
 msgid "Media filter"
-msgstr ""
+msgstr "미디어 필터"
 
 msgctxt "#31238"
 msgid "Visualisation Preset List"
-msgstr ""
+msgstr "시각화 사전 설정 목록"
 
 msgctxt "#31239"
 msgid "Smart Playlist Editor"
-msgstr ""
+msgstr "스마트 재생 목록 편집기"
 
 msgctxt "#31240"
 msgid "Smart Playlist Rule"
-msgstr ""
+msgstr "스마트 재생 목록 규칙"
 
 msgctxt "#31241"
 msgid "Shutdown Menu"
-msgstr ""
+msgstr "종료 메뉴"
 
 msgctxt "#31242"
 msgid "Fullscreen Info"
-msgstr ""
+msgstr "전체 화면 정보"
 
 msgctxt "#31243"
 msgid "Subtitle Search"
-msgstr ""
+msgstr "자막 검색"
 
 msgctxt "#31244"
 msgid "Weather"
-msgstr ""
+msgstr "날씨"
 
 msgctxt "#31245"
 msgid "Screensaver"
-msgstr ""
+msgstr "화면 보호기"
 
 msgctxt "#31246"
 msgid "Picture Info"
-msgstr ""
+msgstr "사진 정보"
 
 msgctxt "#31247"
 msgid "Addon Info"
-msgstr ""
+msgstr "애드온 정보"
 
 # empty string 31248
 msgctxt "#31249"
 msgid "Music Playlist"
-msgstr ""
+msgstr "음악 재생 목록"
 
 msgctxt "#31250"
 msgid "Music Playlist Editor"
-msgstr ""
+msgstr "음악 재생 목록 편집기"
 
 msgctxt "#31251"
 msgid "Music Info"
-msgstr ""
+msgstr "음악 정보"
 
 msgctxt "#31252"
 msgid "Song Info"
-msgstr ""
+msgstr "노래 정보"
 
 msgctxt "#31253"
 msgid "Movie Info"
-msgstr ""
+msgstr "영화 정보"
 
 msgctxt "#31254"
 msgid "Player Process Info"
-msgstr ""
+msgstr "플레이어 프로세스 정보"
 
 msgctxt "#31255"
 msgid "Video Menu"
-msgstr ""
+msgstr "비디오 메뉴"
 
 msgctxt "#31256"
 msgid "Video OSD"
-msgstr ""
+msgstr "비디오 OSD"
 
 msgctxt "#31257"
 msgid "Colour Management Settings"
-msgstr ""
+msgstr "색상 관리 설정"
 
 msgctxt "#31258"
 msgid "Subtitle Settings"
-msgstr ""
+msgstr "자막 설정"
 
 msgctxt "#31259"
 msgid "Video Time Seek"
-msgstr ""
+msgstr "비디오 시간 탐색"
 
 msgctxt "#31260"
 msgid "Video Bookmarks"
-msgstr ""
+msgstr "비디오 북마크"
 
 msgctxt "#31261"
 msgid "Video Playlist"
-msgstr ""
+msgstr "비디오 재생 목록"
 
 msgctxt "#31262"
 msgid "PVR Guide Info"
-msgstr ""
+msgstr "PVR 가이드 정보"
 
 msgctxt "#31263"
 msgid "PVR Recording Info"
-msgstr ""
+msgstr "PVR 녹화 정보"
 
 msgctxt "#31264"
 msgid "PVR Timer Setting"
-msgstr ""
+msgstr "PVR 타이머 설정"
 
 msgctxt "#31265"
 msgid "PVR Group Manager"
-msgstr ""
+msgstr "PVR 그룹 관리자"
 
 msgctxt "#31266"
 msgid "PVR Channel Manager"
-msgstr ""
+msgstr "PVR 채널 매니저"
 
 msgctxt "#31267"
 msgid "PVR Guide Search"
-msgstr ""
+msgstr "PVR 가이드 검색"
 
 msgctxt "#31268"
 msgid "PVR Channel Scan"
-msgstr ""
+msgstr "PVR 채널 스캔"
 
 msgctxt "#31269"
 msgid "PVR Update Progress"
-msgstr ""
+msgstr "PVR 업데이트 진행 상황"
 
 msgctxt "#31270"
 msgid "PVR OSD Channels"
-msgstr ""
+msgstr "PVR OSD 채널"
 
 msgctxt "#31271"
 msgid "PVR OSD Guide"
-msgstr ""
+msgstr "PVR OSD 가이드"
 
 msgctxt "#31272"
 msgid "TV Channels"
-msgstr ""
+msgstr "TV 채널"
 
 msgctxt "#31273"
 msgid "TV Recordings"
-msgstr ""
+msgstr "TV 녹화"
 
 msgctxt "#31274"
 msgid "TV Guide"
-msgstr ""
+msgstr "TV 가이드"
 
 msgctxt "#31275"
 msgid "TV Timers"
-msgstr ""
+msgstr "TV 타이머"
 
 msgctxt "#31276"
 msgid "TV Search"
-msgstr ""
+msgstr "TV 검색"
 
 msgctxt "#31277"
 msgid "Radio Channels"
-msgstr ""
+msgstr "라디오 채널"
 
 msgctxt "#31278"
 msgid "Radio Recordings"
-msgstr ""
+msgstr "라디오 녹음"
 
 msgctxt "#31279"
 msgid "Radio Guide"
-msgstr ""
+msgstr "라디오 가이드"
 
 msgctxt "#31280"
 msgid "Radio Timers"
-msgstr ""
+msgstr "라디오 타이머"
 
 msgctxt "#31281"
 msgid "Radio Timer Rules"
-msgstr ""
+msgstr "라디오 타이머 규칙"
 
 msgctxt "#31282"
 msgid "Radio Search"
-msgstr ""
+msgstr "라디오 검색"
 
 msgctxt "#31283"
 msgid "RDS Info"
-msgstr ""
+msgstr "RDS 정보"
 
 msgctxt "#31284"
 msgid "Movies"
-msgstr ""
+msgstr "영화"
 
 msgctxt "#31285"
 msgid "Movie Titles"
-msgstr ""
+msgstr "영화 제목"
 
 msgctxt "#31286"
 msgid "TV Shows"
-msgstr ""
+msgstr "TV 프로그램"
 
 msgctxt "#31287"
 msgid "TV Show Titles"
-msgstr ""
+msgstr "TV 프로그램 제목"
 
 msgctxt "#31288"
 msgid "Music Videos"
-msgstr ""
+msgstr "뮤직 비디오"
 
 msgctxt "#31289"
 msgid "Recently Added Movies"
-msgstr ""
+msgstr "최근 추가된 영화"
 
 msgctxt "#31290"
 msgid "Recently Added Episodes"
-msgstr ""
+msgstr "최근 추가된 에피소드"
 
 msgctxt "#31291"
 msgid "Recently Added Music Videos"
-msgstr ""
+msgstr "최근 추가된 뮤직 비디오"
 
 msgctxt "#31292"
 msgid "Games"
-msgstr ""
+msgstr "게임"
 
 msgctxt "#31293"
 msgid "Games OSD"
-msgstr ""
+msgstr "게임 OSD"
 
 msgctxt "#31294"
 msgid "Game Pad Input"
-msgstr ""
+msgstr "게임 패드 입력"
 
 msgctxt "#31295"
 msgid "Game Volume"
-msgstr ""
+msgstr "게임 음량"
