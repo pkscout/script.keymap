@@ -1,3 +1,8 @@
+v.1.1.4
+- fixed depreciacted translatepath call
+- removed dependancy on kodi-six
+- updated language files
+
 v1.1.2
 - Added support for v19 Matrix
 - Updates for better support in v18 Leia
