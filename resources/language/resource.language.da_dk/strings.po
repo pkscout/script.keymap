@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: XBMC Addons\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2022-01-13 07:13+0000\n"
+"PO-Revision-Date: 2022-01-28 11:13+0000\n"
 "Last-Translator: Christian Gade <gade@kodi.tv>\n"
 "Language-Team: Danish <https://kodi.weblate.cloud/projects/kodi-add-ons-scripts/script-keymap/da_dk/>\n"
 "Language: da_dk\n"
@@ -56,11 +56,11 @@ msgstr "Kasser ændringer?"
 
 msgctxt "#30007"
 msgid "Select Window to manage shortcuts"
-msgstr ""
+msgstr "Vælg vindue til håndtering af genveje"
 
 msgctxt "#30008"
 msgid "Select action category"
-msgstr ""
+msgstr "Vælg kategori til handling"
 
 msgctxt "#30009"
 msgid "Select the action to assign a key"
@@ -286,7 +286,7 @@ msgstr "Spol tilbage"
 
 msgctxt "#30308"
 msgid "Small Step Back"
-msgstr ""
+msgstr "Lille skridt tilbage"
 
 msgctxt "#30309"
 msgid "Step Forward"
@@ -298,19 +298,19 @@ msgstr "Gå tilbage"
 
 msgctxt "#30311"
 msgid "Big Step Forward"
-msgstr ""
+msgstr "Lille skridt frem"
 
 msgctxt "#30312"
 msgid "Big Step Back"
-msgstr ""
+msgstr "Stort skridt tilbage"
 
 msgctxt "#30313"
 msgid "Next Chapter or Big Step Forward"
-msgstr ""
+msgstr "Næste kapitel eller stort skridt frem"
 
 msgctxt "#30314"
 msgid "Previous Chapter or Big Step Back"
-msgstr ""
+msgstr "Forrige kapitel eller stort skridt tilbage"
 
 msgctxt "#30315"
 msgid "Show OSD"
@@ -338,7 +338,7 @@ msgstr "Gå til DVD videomenu"
 
 msgctxt "#30321"
 msgid "Toggle Repeat"
-msgstr ""
+msgstr "Slå gentag til/fra"
 
 msgctxt "#30322"
 msgid "Repeat One"
@@ -354,7 +354,7 @@ msgstr "Gentag fra"
 
 msgctxt "#30325"
 msgid "Toggle Random"
-msgstr ""
+msgstr "Slå tilfældig til/fra"
 
 msgctxt "#30326"
 msgid "Random On"
@@ -382,7 +382,7 @@ msgstr "Opret bogmærke for afsnit"
 
 msgctxt "#30332"
 msgid "Toggle 3D/Stereoscopic mode"
-msgstr ""
+msgstr "Slå 3D/stereoskopisk tilstand til/fra"
 
 msgctxt "#30333"
 msgid "Switch Player"
@@ -426,11 +426,11 @@ msgstr "Næste videostream"
 
 msgctxt "#30343"
 msgid "Toggle HDHR"
-msgstr ""
+msgstr "Slå HDHR til/fra"
 
 msgctxt "#30344"
 msgid "Cycle 3D Mode"
-msgstr ""
+msgstr "Skift mellem 3D tilstand"
 
 msgctxt "#30345"
 msgid "Next 3D Mode"
@@ -480,11 +480,11 @@ msgstr "Skift mellem digital og analog"
 
 msgctxt "#30408"
 msgid "Volume Amp Up"
-msgstr ""
+msgstr "Forstærkning af lydstyrke op"
 
 msgctxt "#30409"
 msgid "Volume Amp Down"
-msgstr ""
+msgstr "Forstærkning af lydstyrke ned"
 
 msgctxt "#30410"
 msgid "Volume Amplification"
@@ -634,7 +634,7 @@ msgstr "Optag"
 
 msgctxt "#30708"
 msgid "Toggle Commskip"
-msgstr ""
+msgstr "Slå commskip til/fra"
 
 msgctxt "#30709"
 msgid "PVR Show Timer Rule"
@@ -642,7 +642,7 @@ msgstr "PVR vis timerregel"
 
 msgctxt "#30710"
 msgid "Channel Number Separator"
-msgstr ""
+msgstr "Separator for kanalnummer"
 
 # empty strings from id 30711 to 30799
 # Item Actions
@@ -850,15 +850,15 @@ msgstr "Tag et skærmbillede"
 
 msgctxt "#31107"
 msgid "Reload Keymaps"
-msgstr ""
+msgstr "Genindlæs keymaps"
 
 msgctxt "#31108"
 msgid "Increase PAR"
-msgstr ""
+msgstr "Forøg PAR"
 
 msgctxt "#31109"
 msgid "Decrease PAR"
-msgstr ""
+msgstr "Reducer PAR"
 
 msgctxt "#31110"
 msgid "Change resolution"
@@ -940,11 +940,11 @@ msgstr "Indstillinger for eksterne enheder"
 
 msgctxt "#31210"
 msgid "Library Export Settings"
-msgstr ""
+msgstr "Indstillinger for eksportering af bibliotek"
 
 msgctxt "#31211"
 msgid "PVR Settings"
-msgstr ""
+msgstr "Indstillinger for PVR"
 
 msgctxt "#31212"
 msgid "PVR Recording Settings"
@@ -968,11 +968,11 @@ msgstr "Videofilter for spil"
 
 msgctxt "#31217"
 msgid "Game Video Rotation"
-msgstr ""
+msgstr "Videorotation for spil"
 
 msgctxt "#31218"
 msgid "Game View Mode"
-msgstr ""
+msgstr "Visningstilstand for spil"
 
 msgctxt "#31219"
 msgid "Skin Settings"
@@ -992,7 +992,7 @@ msgstr "Profilindstillinger"
 
 msgctxt "#31223"
 msgid "Lock Settings"
-msgstr ""
+msgstr "Lås indstillinger"
 
 msgctxt "#31224"
 msgid "Content Settings"
@@ -1012,7 +1012,7 @@ msgstr "Testmønster"
 
 msgctxt "#31228"
 msgid "Screen Calibration"
-msgstr ""
+msgstr "Skærmkalibrering"
 
 msgctxt "#31229"
 msgid "Login Screen"
@@ -1032,7 +1032,7 @@ msgstr "Adgangspunkter"
 
 msgctxt "#31233"
 msgid "Mediasource Dialog"
-msgstr ""
+msgstr "Dialog for mediekilde"
 
 msgctxt "#31234"
 msgid "Start"
@@ -1109,7 +1109,7 @@ msgstr "Sanginformation"
 
 msgctxt "#31253"
 msgid "Movie Info"
-msgstr ""
+msgstr "Filminformation"
 
 msgctxt "#31254"
 msgid "Player Process Info"
@@ -1125,7 +1125,7 @@ msgstr "Video OSD"
 
 msgctxt "#31257"
 msgid "Colour Management Settings"
-msgstr ""
+msgstr "Indstillinger for håndtering af farve"
 
 msgctxt "#31258"
 msgid "Subtitle Settings"
@@ -1133,7 +1133,7 @@ msgstr "Undertekstindstillinger"
 
 msgctxt "#31259"
 msgid "Video Time Seek"
-msgstr ""
+msgstr "Tidssøgning for video"
 
 msgctxt "#31260"
 msgid "Video Bookmarks"
@@ -1169,7 +1169,7 @@ msgstr "PVR guidesøgning"
 
 msgctxt "#31268"
 msgid "PVR Channel Scan"
-msgstr ""
+msgstr "PVR kanalsøgning"
 
 msgctxt "#31269"
 msgid "PVR Update Progress"
@@ -1277,4 +1277,4 @@ msgstr "Gamepad input"
 
 msgctxt "#31295"
 msgid "Game Volume"
-msgstr ""
+msgstr "Lydstyrke for spil"
