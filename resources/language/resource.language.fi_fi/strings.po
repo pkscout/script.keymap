@@ -5,14 +5,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: XBMC Addons\n"
-"Report-Msgid-Bugs-To: pkscout@kodi.tv\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2022-03-19 06:51+0000\n"
+"Last-Translator: Oskari Lavinto <olavinto@protonmail.com>\n"
+"Language-Team: Finnish <https://kodi.weblate.cloud/projects/kodi-add-ons-scripts/script-keymap/fi_fi/>\n"
 "Language: fi_fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.11.2\n"
 
 msgctxt "Addon Summary"
 msgid "An editor for keymap files"
@@ -557,19 +560,19 @@ msgstr ""
 # Subtitle
 msgctxt "#30600"
 msgid "Show Subtitles"
-msgstr ""
+msgstr "Näytä tekstitykset"
 
 msgctxt "#30601"
 msgid "Next Subtitle"
-msgstr ""
+msgstr "Seuraava tekstitys"
 
 msgctxt "#30602"
 msgid "Browse Subtitle"
-msgstr ""
+msgstr "Valitse tekstitystiedosto"
 
 msgctxt "#30603"
 msgid "Cycle Subtitle"
-msgstr ""
+msgstr "Kierrätä tekstityksiä"
 
 msgctxt "#30604"
 msgid "Delay"
@@ -589,11 +592,11 @@ msgstr ""
 
 msgctxt "#30608"
 msgid "Shift Subtitle Up"
-msgstr ""
+msgstr "Siirrä tekstitystä ylöspäin"
 
 msgctxt "#30609"
 msgid "Shift Subtitle Down"
-msgstr ""
+msgstr "Siirrä tekstitystä alaspäin"
 
 # empty strings from id 30610 to 30699
 # PVR
@@ -1069,7 +1072,7 @@ msgstr ""
 
 msgctxt "#31243"
 msgid "Subtitle Search"
-msgstr ""
+msgstr "Tekstityshaku"
 
 msgctxt "#31244"
 msgid "Weather"
@@ -1126,7 +1129,7 @@ msgstr ""
 
 msgctxt "#31258"
 msgid "Subtitle Settings"
-msgstr ""
+msgstr "Tekstitysastukset"
 
 msgctxt "#31259"
 msgid "Video Time Seek"
@@ -1234,7 +1237,7 @@ msgstr ""
 
 msgctxt "#31285"
 msgid "Movie Titles"
-msgstr ""
+msgstr "Elokuvien nimikkeet"
 
 msgctxt "#31286"
 msgid "TV Shows"
@@ -1242,7 +1245,7 @@ msgstr ""
 
 msgctxt "#31287"
 msgid "TV Show Titles"
-msgstr ""
+msgstr "Sarjojen nimikkeet"
 
 msgctxt "#31288"
 msgid "Music Videos"
