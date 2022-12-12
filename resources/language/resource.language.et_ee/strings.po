@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: XBMC Addons\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2022-01-13 07:13+0000\n"
+"PO-Revision-Date: 2022-12-12 07:48+0000\n"
 "Last-Translator: rimasx <riks_12@hot.ee>\n"
 "Language-Team: Estonian <https://kodi.weblate.cloud/projects/kodi-add-ons-scripts/script-keymap/et_ee/>\n"
 "Language: et_ee\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.14.2\n"
 
 msgctxt "Addon Summary"
 msgid "An editor for keymap files"
@@ -642,7 +642,7 @@ msgstr ""
 
 msgctxt "#30710"
 msgid "Channel Number Separator"
-msgstr ""
+msgstr "Kanalinumbrite eraldaja"
 
 # empty strings from id 30711 to 30799
 # Item Actions
@@ -764,11 +764,11 @@ msgstr ""
 
 msgctxt "#31004"
 msgid "0"
-msgstr ""
+msgstr "0"
 
 msgctxt "#31005"
 msgid "1"
-msgstr ""
+msgstr "1"
 
 msgctxt "#31006"
 msgid "2"
@@ -842,7 +842,7 @@ msgstr "Taasesituse info"
 
 msgctxt "#31105"
 msgid "Player debug"
-msgstr ""
+msgstr "Pleieri silumine"
 
 msgctxt "#31106"
 msgid "Take screenshot"
@@ -1008,7 +1008,7 @@ msgstr "Süsteemi andmed"
 
 msgctxt "#31227"
 msgid "Test Pattern"
-msgstr ""
+msgstr "Testpilt"
 
 msgctxt "#31228"
 msgid "Screen Calibration"
