@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="script.keymap" name="Keymap Editor" version="1.1.4" provider-name="takoi,pkscout">
+<addon id="script.keymap" name="Keymap Editor" version="1.1.5" provider-name="takoi,pkscout">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
 		<import addon="script.module.defusedxml" version="0.6.0+matrix.1" />
 	</requires>
 	<extension point="xbmc.python.script" library="default.py"/>
 	<extension point="xbmc.addon.metadata">
-		<news>v1.1.4
-- fixed depreciacted translatepath call
-- removed dependancy on kodi-six
-- updated language files
+		<news>v1.1.5
+added ability to map TempoUp and TempoDown
 		</news>
 		<assets>
         	<icon>icon.png</icon>
