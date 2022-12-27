@@ -5,9 +5,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: XBMC Addons\n"
-"Report-Msgid-Bugs-To: pkscout@kodi.tv\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2022-10-07 06:15+0000\n"
+"PO-Revision-Date: 2022-12-27 12:15+0000\n"
 "Last-Translator: Massimo Pissarello <mapi68@gmail.com>\n"
 "Language-Team: Italian <https://kodi.weblate.cloud/projects/kodi-add-ons-scripts/script-keymap/it_it/>\n"
 "Language: it_it\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.14.1\n"
+"X-Generator: Weblate 4.15\n"
 
 msgctxt "Addon Summary"
 msgid "An editor for keymap files"
@@ -446,11 +446,11 @@ msgstr "Mono 3D"
 
 msgctxt "#30348"
 msgid "Tempo Up"
-msgstr ""
+msgstr "Tempo su"
 
 msgctxt "#30349"
 msgid "Tempo Down"
-msgstr ""
+msgstr "Tempo giù"
 
 # empty strings from id 30348 to 30399
 # Audio

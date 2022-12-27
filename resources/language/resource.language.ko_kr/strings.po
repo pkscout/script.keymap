@@ -5,9 +5,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: XBMC Addons\n"
-"Report-Msgid-Bugs-To: pkscout@kodi.tv\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2021-09-08 06:30+0000\n"
+"PO-Revision-Date: 2022-12-27 12:15+0000\n"
 "Last-Translator: Minho Park <parkmino@gmail.com>\n"
 "Language-Team: Korean <https://kodi.weblate.cloud/projects/kodi-add-ons-scripts/script-keymap/ko_kr/>\n"
 "Language: ko_kr\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.8\n"
+"X-Generator: Weblate 4.15\n"
 
 msgctxt "Addon Summary"
 msgid "An editor for keymap files"
@@ -446,11 +446,11 @@ msgstr "3D 모노"
 
 msgctxt "#30348"
 msgid "Tempo Up"
-msgstr ""
+msgstr "템포 올리기"
 
 msgctxt "#30349"
 msgid "Tempo Down"
-msgstr ""
+msgstr "템포 내리기"
 
 # empty strings from id 30348 to 30399
 # Audio
