@@ -22,6 +22,7 @@ added ability to map TempoUp and TempoDown
 		<summary lang="es_ES">Un editor de ficheros de mapas de teclas</summary>
 		<summary lang="et_EE">Nupuasetuse redaktor</summary>
 		<summary lang="fi_FI">Editori keymap-näppäinmääritystiedostoille</summary>
+		<summary lang="hr_HR">Uređivač datoteka s rasporedom tipki</summary>
 		<summary lang="hu_HU">Távvezérlő fájlok kezelője</summary>
 		<summary lang="it_IT">Un editor per i file keymap</summary>
 		<summary lang="ko_KR">키맵 파일용 편집기</summary>
@@ -34,6 +35,7 @@ added ability to map TempoUp and TempoDown
 		<description lang="es_ES">Keymap Editor es una interfaz gráfica para configurar mapeados de teclas para mandos a distancia, teclados y otros métodos de entrada soportados por Kodi. Nota: Cualquier mapeado existente será renombrado por .bak.</description>
 		<description lang="et_EE">Keymap Editor vahend kaugjuhtimispultide, klaviatuuri ja muude Kodi toetatavate sisendite nupuasetuste seadistamiseks. Märkus. Olemasolevad kasutaja määratletud nupuasetused salvestatakse faili .bak.</description>
 		<description lang="fi_FI">Keymap-näppäinmäärityseditori on graafinen käyttöliittymä kaukosäätimien, näppäimistöjen ja muiden Kodin tukemien syöttölaitteiden näppäinten määritykseen. Huomioi: Käyttäjän aiempien näppäinmääritystiedostojen nimiin lisätään .bak-pääte.</description>
+		<description lang="hr_HR">Uređivač datoteka s rasporedom tipki je grafičko sučelje za podešavanje mapiranja za daljinske upravljače, tipkovnice i ostale ulazne uređaje podržane Kodijem. Napomena: Postojeće korisnički određeno mapiranje će biti preimenovano u .bak.</description>
 		<description lang="hu_HU">A Keymap Editor egy grafikus felhasználói felület a távvezérlők, a billentyűzet és a Kodi által támogatott egyéb bemenetek konfigurálásához. Megjegyzés: a meglévő, felhasználó által definiált keymap fájlok át lesznek nevezve .bak -ra.</description>
 		<description lang="it_IT">Keymap Editor è una GUI per la configurazione di mappature per telecomandi, tastiera e altri input supportati da Kodi. Nota: le mappature delle chiavi definite dall&apos;utente esistenti verranno rinominate in .bak.</description>
 		<description lang="ko_KR">키맵 편집기는 Kodi에서 지원하는 리모컨, 키보드 및 기타 입력에 대한 매핑을 구성하기 위한 GUI입니다. 참고: 기존 사용자 정의 키 매핑은 .bak으로 이름이 바뀝니다.</description>
