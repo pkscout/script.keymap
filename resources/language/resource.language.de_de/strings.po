@@ -5,17 +5,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: XBMC Addons\n"
-"Report-Msgid-Bugs-To: pkscout@kodi.tv\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2021-09-27 10:30+0000\n"
-"Last-Translator: Kai Sommerfeld <kai.sommerfeld@gmx.com>\n"
+"PO-Revision-Date: 2023-02-06 23:16+0000\n"
+"Last-Translator: Demian <Demian@gmx.co.uk>\n"
 "Language-Team: German <https://kodi.weblate.cloud/projects/kodi-add-ons-scripts/script-keymap/de_de/>\n"
 "Language: de_de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.8\n"
+"X-Generator: Weblate 4.15.2\n"
 
 msgctxt "Addon Summary"
 msgid "An editor for keymap files"
@@ -28,7 +28,7 @@ msgstr "Keymap Editor ist eine grafische Oberfläche zum Konfigurieren von Taste
 # Text Messages
 msgctxt "#30000"
 msgid "Keymap Editor"
-msgstr "Keymap Editor"
+msgstr "Keymap-Editor"
 
 msgctxt "#30001"
 msgid "Failed to remove old keymap file"
@@ -68,7 +68,7 @@ msgstr "Auswählen der einer Taste zuzuweisenden Handlung"
 
 msgctxt "#30010"
 msgid "Timeout in %.0f seconds..."
-msgstr "Zeitüberschreitung in %.0f Sekunden..."
+msgstr "Zeitüberschreitung in %.0f Sekunden …"
 
 msgctxt "#30011"
 msgid "Edit key"
@@ -94,11 +94,11 @@ msgstr "Vollbild-TV"
 
 msgctxt "#30103"
 msgid "Fullscreen Radio"
-msgstr "Vollbild-Radio"
+msgstr "Vollbildradio"
 
 msgctxt "#30104"
 msgid "Fullscreen Game"
-msgstr "Vollbild-Spiel"
+msgstr "Vollbildspiel"
 
 msgctxt "#30105"
 msgid "Home"
@@ -446,11 +446,11 @@ msgstr "3D-Mono"
 
 msgctxt "#30348"
 msgid "Tempo Up"
-msgstr ""
+msgstr "Tempo erhöhen"
 
 msgctxt "#30349"
 msgid "Tempo Down"
-msgstr ""
+msgstr "Tempo veringern"
 
 # empty strings from id 30348 to 30399
 # Audio
@@ -610,19 +610,19 @@ msgstr "Untertitel nach unten verschieben"
 # PVR
 msgctxt "#30700"
 msgid "Channel Up"
-msgstr "Kanal nach oben"
+msgstr "Sender nach oben"
 
 msgctxt "#30701"
 msgid "Channel Down"
-msgstr "Kanal nach unten"
+msgstr "Sender nach unten"
 
 msgctxt "#30702"
 msgid "Previous channel group"
-msgstr "Vorherige Kanalgruppe"
+msgstr "Vorherige Sendergruppe"
 
 msgctxt "#30703"
 msgid "Next channel group"
-msgstr "Nächste Kanalgruppe"
+msgstr "Nächste Sendergruppe"
 
 msgctxt "#30704"
 msgid "PVR Play"
@@ -646,11 +646,11 @@ msgstr "Werbungsüberspringen umschalten"
 
 msgctxt "#30709"
 msgid "PVR Show Timer Rule"
-msgstr "Timer-Regel anzeigen"
+msgstr "Timerregel anzeigen"
 
 msgctxt "#30710"
 msgid "Channel Number Separator"
-msgstr "Kanalnummer-Trennung"
+msgstr "Sendernummern-Trennzeichen"
 
 # empty strings from id 30711 to 30799
 # Item Actions
@@ -730,7 +730,7 @@ msgstr "Bereitschaft"
 
 msgctxt "#30906"
 msgid "Restart Kodi"
-msgstr "Kodi neustarten"
+msgstr "Kodi neu starten"
 
 msgctxt "#30907"
 msgid "Log off"
@@ -760,7 +760,7 @@ msgstr "Eingabe"
 
 msgctxt "#31001"
 msgid "Shift"
-msgstr "Shift"
+msgstr "Umschalttaste"
 
 msgctxt "#31002"
 msgid "Symbols"
@@ -846,7 +846,7 @@ msgstr "Musikbibliothek bereinigen"
 
 msgctxt "#31104"
 msgid "Player Process Info"
-msgstr "Player-Information"
+msgstr "Playerinformation"
 
 msgctxt "#31105"
 msgid "Player debug"
@@ -858,7 +858,7 @@ msgstr "Bildschirmfoto aufnehmen"
 
 msgctxt "#31107"
 msgid "Reload Keymaps"
-msgstr "Tastenzuordnungen neuladen"
+msgstr "Tastenzuordnungen neu laden"
 
 msgctxt "#31108"
 msgid "Increase PAR"
@@ -948,7 +948,7 @@ msgstr "Peripheriegeräte-Einstellungen"
 
 msgctxt "#31210"
 msgid "Library Export Settings"
-msgstr "Bibliotheksexport-Einstellungen"
+msgstr "Bibliotheksexporteinstellungen"
 
 msgctxt "#31211"
 msgid "PVR Settings"
@@ -956,7 +956,7 @@ msgstr "PVR-Einstellungen"
 
 msgctxt "#31212"
 msgid "PVR Recording Settings"
-msgstr "PVR-Aufnahme-Einstellungen"
+msgstr "PVR-Aufnahmeeinstellungen"
 
 msgctxt "#31213"
 msgid "Game Settings"
@@ -968,19 +968,19 @@ msgstr "Erweiterte Spieleinstellungen"
 
 msgctxt "#31215"
 msgid "Game Controllers"
-msgstr "Spiel-Controller"
+msgstr "Spielcontroller"
 
 msgctxt "#31216"
 msgid "Game Video Filters"
-msgstr "Spiel-Videofilter"
+msgstr "Spielvideofilter"
 
 msgctxt "#31217"
 msgid "Game Video Rotation"
-msgstr "Spiel-Videodrehung"
+msgstr "Spielvideodrehung"
 
 msgctxt "#31218"
 msgid "Game View Mode"
-msgstr "Spiel-Ansichtsmodus"
+msgstr "Spielansichtsmodus"
 
 msgctxt "#31219"
 msgid "Skin Settings"
@@ -1064,11 +1064,11 @@ msgstr "Liste der Visualisierungsvoreinstellungen"
 
 msgctxt "#31239"
 msgid "Smart Playlist Editor"
-msgstr "Intelligente Wiedergabelisten-Editor"
+msgstr "Intelligente-Wiedergabelisten-Editor"
 
 msgctxt "#31240"
 msgid "Smart Playlist Rule"
-msgstr "Intelligente Wiedergabelisten-Regel"
+msgstr "Intelligente-Wiedergabelisten-Regel"
 
 msgctxt "#31241"
 msgid "Shutdown Menu"
@@ -1121,7 +1121,7 @@ msgstr "Filminformation"
 
 msgctxt "#31254"
 msgid "Player Process Info"
-msgstr "Player-Information"
+msgstr "Playerinformation"
 
 msgctxt "#31255"
 msgid "Video Menu"
@@ -1145,7 +1145,7 @@ msgstr "Video-Zeitsuche"
 
 msgctxt "#31260"
 msgid "Video Bookmarks"
-msgstr "Video-Lesezeichen"
+msgstr "Videolesezeichen"
 
 msgctxt "#31261"
 msgid "Video Playlist"
@@ -1153,31 +1153,31 @@ msgstr "Videowiedergabeliste"
 
 msgctxt "#31262"
 msgid "PVR Guide Info"
-msgstr "PVR-Programm-Guide-Information"
+msgstr "PVR-EPG-Information"
 
 msgctxt "#31263"
 msgid "PVR Recording Info"
-msgstr "PVR-Aufnahme-Information"
+msgstr "PVR-Aufnahmeinformation"
 
 msgctxt "#31264"
 msgid "PVR Timer Setting"
-msgstr "PVR-Timer-Einstellung"
+msgstr "PVR-Timereinstellung"
 
 msgctxt "#31265"
 msgid "PVR Group Manager"
-msgstr "PVR-Kanalgruppen-Manager"
+msgstr "PVR-Sendergruppen-Manager"
 
 msgctxt "#31266"
 msgid "PVR Channel Manager"
-msgstr "PVR-Kanal-Manager"
+msgstr "PVR-Sender-Manager"
 
 msgctxt "#31267"
 msgid "PVR Guide Search"
-msgstr "PVR-Programm-Guide-Suche"
+msgstr "PVR-EPG-Suche"
 
 msgctxt "#31268"
 msgid "PVR Channel Scan"
-msgstr "PVR-Kanalsuche"
+msgstr "PVR-Sendersuche"
 
 msgctxt "#31269"
 msgid "PVR Update Progress"
@@ -1185,15 +1185,15 @@ msgstr "PVR-Aktualisierungsfortschritt"
 
 msgctxt "#31270"
 msgid "PVR OSD Channels"
-msgstr "PVR-OSD-Kanäle"
+msgstr "PVR-OSD-Sender"
 
 msgctxt "#31271"
 msgid "PVR OSD Guide"
-msgstr "PVR-OSD-Programm-Guide"
+msgstr "PVR-OSD-EPG"
 
 msgctxt "#31272"
 msgid "TV Channels"
-msgstr "TV-Kanäle"
+msgstr "TV-Sender"
 
 msgctxt "#31273"
 msgid "TV Recordings"
@@ -1201,7 +1201,7 @@ msgstr "TV-Aufnahmen"
 
 msgctxt "#31274"
 msgid "TV Guide"
-msgstr "TV-Programm-Guide"
+msgstr "TV-EPG"
 
 msgctxt "#31275"
 msgid "TV Timers"
@@ -1213,27 +1213,27 @@ msgstr "TV-Suche"
 
 msgctxt "#31277"
 msgid "Radio Channels"
-msgstr "Radio-Kanäle"
+msgstr "Radiosender"
 
 msgctxt "#31278"
 msgid "Radio Recordings"
-msgstr "Radio-Aufnahmen"
+msgstr "Radioaufnahmen"
 
 msgctxt "#31279"
 msgid "Radio Guide"
-msgstr "Radio-Programm-Guide"
+msgstr "Radio-EPG"
 
 msgctxt "#31280"
 msgid "Radio Timers"
-msgstr "Radio-Timer"
+msgstr "Radiotimer"
 
 msgctxt "#31281"
 msgid "Radio Timer Rules"
-msgstr "Radio-Timer-Regeln"
+msgstr "Radiotimerregeln"
 
 msgctxt "#31282"
 msgid "Radio Search"
-msgstr "Radio-Suche"
+msgstr "Radiosuche"
 
 msgctxt "#31283"
 msgid "RDS Info"
@@ -1245,7 +1245,7 @@ msgstr "Filme"
 
 msgctxt "#31285"
 msgid "Movie Titles"
-msgstr "Film-Titel"
+msgstr "Filmtitel"
 
 msgctxt "#31286"
 msgid "TV Shows"
@@ -1281,8 +1281,8 @@ msgstr "Spiele-OSD"
 
 msgctxt "#31294"
 msgid "Game Pad Input"
-msgstr "Gamepad-Eingabe"
+msgstr "Gamepadeingabe"
 
 msgctxt "#31295"
 msgid "Game Volume"
-msgstr "Spiele-Lautstärke"
+msgstr "Spielelautstärke"
