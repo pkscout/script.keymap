@@ -5,9 +5,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: XBMC Addons\n"
-"Report-Msgid-Bugs-To: pkscout@kodi.tv\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2022-12-12 07:48+0000\n"
+"PO-Revision-Date: 2023-02-26 08:39+0000\n"
 "Last-Translator: rimasx <riks_12@hot.ee>\n"
 "Language-Team: Estonian <https://kodi.weblate.cloud/projects/kodi-add-ons-scripts/script-keymap/et_ee/>\n"
 "Language: et_ee\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.14.2\n"
+"X-Generator: Weblate 4.15.2\n"
 
 msgctxt "Addon Summary"
 msgid "An editor for keymap files"
@@ -446,11 +446,11 @@ msgstr "3D mono"
 
 msgctxt "#30348"
 msgid "Tempo Up"
-msgstr ""
+msgstr "Tempo üles"
 
 msgctxt "#30349"
 msgid "Tempo Down"
-msgstr ""
+msgstr "Tempo alla"
 
 # empty strings from id 30348 to 30399
 # Audio
@@ -646,7 +646,7 @@ msgstr "Reklaami eemalduse lüliti"
 
 msgctxt "#30709"
 msgid "PVR Show Timer Rule"
-msgstr ""
+msgstr "Telesaate taimeri reegel"
 
 msgctxt "#30710"
 msgid "Channel Number Separator"
@@ -862,11 +862,11 @@ msgstr "Lae nupuasetus uuesti"
 
 msgctxt "#31108"
 msgid "Increase PAR"
-msgstr ""
+msgstr "Suurenda PAR väärtust"
 
 msgctxt "#31109"
 msgid "Decrease PAR"
-msgstr ""
+msgstr "Vähenda PAR väärtust"
 
 msgctxt "#31110"
 msgid "Change resolution"
@@ -882,7 +882,7 @@ msgstr "Lähtesta kalibreerimine"
 
 msgctxt "#31113"
 msgid "Show current visualisation preset"
-msgstr ""
+msgstr "Kuva praeguse visuaali eelseadistus"
 
 msgctxt "#31114"
 msgid "Show visualisation preset list"
@@ -890,19 +890,19 @@ msgstr "Visuaalide eelhäälestused"
 
 msgctxt "#31115"
 msgid "Next visualisation preset"
-msgstr ""
+msgstr "Järgmise visuaali eelseadistus"
 
 msgctxt "#31116"
 msgid "Previous visualisation preset"
-msgstr ""
+msgstr "Eelmise visuaali eelseadistus"
 
 msgctxt "#31117"
 msgid "Lock current visualisation preset"
-msgstr ""
+msgstr "Lukusta praeguse visuaali eelseadistus"
 
 msgctxt "#31118"
 msgid "Switch to a new random preset"
-msgstr ""
+msgstr "Lülitu uuele juhuslikule eelseadistusele"
 
 # empty strings from id 31119 to 31199
 # Activate Window
@@ -944,15 +944,15 @@ msgstr "Välimuse seaded"
 
 msgctxt "#31209"
 msgid "Peripherals Settings"
-msgstr ""
+msgstr "Välisseadmete seaded"
 
 msgctxt "#31210"
 msgid "Library Export Settings"
-msgstr ""
+msgstr "Meediakogu eksportimise seaded"
 
 msgctxt "#31211"
 msgid "PVR Settings"
-msgstr ""
+msgstr "PVR seaded"
 
 msgctxt "#31212"
 msgid "PVR Recording Settings"
@@ -964,7 +964,7 @@ msgstr "Mängu seaded"
 
 msgctxt "#31214"
 msgid "Advanced Game Settings"
-msgstr ""
+msgstr "Täpsemad mängu seaded"
 
 msgctxt "#31215"
 msgid "Game Controllers"
@@ -976,11 +976,11 @@ msgstr "Mängu videofilter"
 
 msgctxt "#31217"
 msgid "Game Video Rotation"
-msgstr ""
+msgstr "Mängu video pööramine"
 
 msgctxt "#31218"
 msgid "Game View Mode"
-msgstr ""
+msgstr "Mängu vaaterežiim"
 
 msgctxt "#31219"
 msgid "Skin Settings"
@@ -1040,11 +1040,11 @@ msgstr "Pääsupunktid"
 
 msgctxt "#31233"
 msgid "Mediasource Dialog"
-msgstr ""
+msgstr "Meediaallika aken"
 
 msgctxt "#31234"
 msgid "Start"
-msgstr ""
+msgstr "Käivitus"
 
 msgctxt "#31235"
 msgid "Favourites"
@@ -1285,4 +1285,4 @@ msgstr "Mängupuldi sisend"
 
 msgctxt "#31295"
 msgid "Game Volume"
-msgstr ""
+msgstr "Mängu helitugevus"
