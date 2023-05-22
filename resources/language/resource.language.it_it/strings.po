@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: XBMC Addons\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2023-04-29 04:16+0000\n"
+"PO-Revision-Date: 2023-05-22 07:42+0000\n"
 "Last-Translator: Massimo Pissarello <mapi68@gmail.com>\n"
 "Language-Team: Italian <https://kodi.weblate.cloud/projects/kodi-add-ons-scripts/script-keymap/it_it/>\n"
 "Language: it_it\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.15.2\n"
+"X-Generator: Weblate 4.17\n"
 
 msgctxt "Addon Summary"
 msgid "An editor for keymap files"
@@ -23,7 +23,7 @@ msgstr "Un editor per i file keymap"
 
 msgctxt "Addon Description"
 msgid "Keymap Editor is a GUI for configuring mappings for remotes, keyboard and other inputs supported by Kodi. Note: existing user defined key mappings will be renamed to .bak."
-msgstr "Keymap Editor è una GUI per la configurazione di mappature per telecomandi, tastiera e altri input supportati da Kodi. Nota: le mappature delle chiavi definite dall'utente esistenti verranno rinominate in .bak."
+msgstr "Keymap Editor è una GUI per la configurazione di mappature per telecomandi, tastiere e altri input supportati da Kodi. Nota: le mappature delle chiavi definite dall'utente esistenti verranno rinominate in .bak."
 
 # Text Messages
 msgctxt "#30000"
@@ -36,7 +36,7 @@ msgstr "Impossibile rimuovere il vecchio file keymap"
 
 msgctxt "#30002"
 msgid "Press the key you want to assign now"
-msgstr "Premi il tasto che si vuoi assegnare ora"
+msgstr "Premi ora il tasto al quale vuoi assegnare"
 
 msgctxt "#30003"
 msgid "Edit"
@@ -44,7 +44,7 @@ msgstr "Modifica"
 
 msgctxt "#30004"
 msgid "Reset to default"
-msgstr "Ripristina impostazione predefinita"
+msgstr "Reimposta alle impostazioni predefinite"
 
 msgctxt "#30005"
 msgid "Save"
@@ -52,7 +52,7 @@ msgstr "Salva"
 
 msgctxt "#30006"
 msgid "Discard changes?"
-msgstr "Annullare cambiamenti?"
+msgstr "Scartare le modifiche?"
 
 msgctxt "#30007"
 msgid "Select Window to manage shortcuts"
@@ -60,7 +60,7 @@ msgstr "Seleziona finestra per gestire i collegamenti"
 
 msgctxt "#30008"
 msgid "Select action category"
-msgstr "Seleziona categoria azione"
+msgstr "Seleziona categoria dell'azione"
 
 msgctxt "#30009"
 msgid "Select the action to assign a key"
@@ -86,11 +86,11 @@ msgstr "Globale"
 
 msgctxt "#30101"
 msgid "Fullscreen Video"
-msgstr "A schermo intero"
+msgstr "Video a schermo intero"
 
 msgctxt "#30102"
 msgid "Fullscreen Live TV"
-msgstr "TV in diretta a schermo intero"
+msgstr "Live TV a schermo intero"
 
 msgctxt "#30103"
 msgid "Fullscreen Radio"
@@ -98,7 +98,7 @@ msgstr "Radio a schermo intero"
 
 msgctxt "#30104"
 msgid "Fullscreen Game"
-msgstr "Gioco a schermo intero"
+msgstr "Giochi a schermo intero"
 
 msgctxt "#30105"
 msgid "Home"
@@ -188,15 +188,15 @@ msgstr "Pagina giù"
 
 msgctxt "#30206"
 msgid "Select Item"
-msgstr "Scegli oggetto"
+msgstr "Seleziona elemento"
 
 msgctxt "#30207"
 msgid "Highlight Item"
-msgstr "Evidenzia oggetto"
+msgstr "Evidenzia elemento"
 
 msgctxt "#30208"
 msgid "Parent Directory"
-msgstr "Directory principale"
+msgstr "Cartella principale"
 
 msgctxt "#30209"
 msgid "Back"
@@ -228,7 +228,7 @@ msgstr "Ultima pagina"
 
 msgctxt "#30216"
 msgid "Next Letter"
-msgstr "Prossima lettera"
+msgstr "Lettera successiva"
 
 msgctxt "#30217"
 msgid "Previous Letter"
@@ -270,7 +270,7 @@ msgstr "Stop"
 
 msgctxt "#30304"
 msgid "Next"
-msgstr "Prossimo"
+msgstr "Successivo"
 
 msgctxt "#30305"
 msgid "Previous"
@@ -306,7 +306,7 @@ msgstr "Un grande passo indietro"
 
 msgctxt "#30313"
 msgid "Next Chapter or Big Step Forward"
-msgstr "Prossimo capitolo o grande passo avanti"
+msgstr "Capitolo successivo o grande passo avanti"
 
 msgctxt "#30314"
 msgid "Previous Chapter or Big Step Back"
@@ -334,11 +334,11 @@ msgstr "Cambia proporzioni"
 
 msgctxt "#30320"
 msgid "Go to DVD Video Menu"
-msgstr "Vai al menu DVD Video"
+msgstr "Vai al menu video DVD"
 
 msgctxt "#30321"
 msgid "Toggle Repeat"
-msgstr "Attiva/disattiva Ripeti"
+msgstr "Attiva/disattiva ripeti"
 
 msgctxt "#30322"
 msgid "Repeat One"
@@ -354,7 +354,7 @@ msgstr "Ripetizione disattivata"
 
 msgctxt "#30325"
 msgid "Toggle Random"
-msgstr "Attiva/disattiva Casuale"
+msgstr "Attiva/disattiva casuale"
 
 msgctxt "#30326"
 msgid "Random On"
@@ -390,7 +390,7 @@ msgstr "Cambia riproduttore"
 
 msgctxt "#30334"
 msgid "Play Next"
-msgstr "Riproduci prossimo"
+msgstr "Riproduci successivo"
 
 msgctxt "#30335"
 msgid "Select Program"
@@ -422,7 +422,7 @@ msgstr "Scena precedente"
 
 msgctxt "#30342"
 msgid "Next Video Stream"
-msgstr "Prossimo stream video"
+msgstr "Video successivo"
 
 msgctxt "#30343"
 msgid "Toggle HDHR"
@@ -430,11 +430,11 @@ msgstr "Attiva/disattiva HDHR"
 
 msgctxt "#30344"
 msgid "Cycle 3D Mode"
-msgstr "Modalità Ciclo 3D"
+msgstr "Attiva/disattiva modalità 3D"
 
 msgctxt "#30345"
 msgid "Next 3D Mode"
-msgstr "Prossima modalità 3D"
+msgstr "Modalità 3D successiva"
 
 msgctxt "#30346"
 msgid "Previous 3D Mode"
@@ -580,7 +580,7 @@ msgstr "Sfoglia sottotitoli"
 
 msgctxt "#30603"
 msgid "Cycle Subtitle"
-msgstr "Ciclo sottotitolo"
+msgstr "Attiva/disattiva sottotitoli"
 
 msgctxt "#30604"
 msgid "Delay"
@@ -634,7 +634,7 @@ msgstr "Riproduzione TV PVR"
 
 msgctxt "#30706"
 msgid "PVR Play Radio"
-msgstr "Riproduzione Radio PVR"
+msgstr "Riproduzione radio PVR"
 
 msgctxt "#30707"
 msgid "Record"
@@ -642,7 +642,7 @@ msgstr "Registra"
 
 msgctxt "#30708"
 msgid "Toggle Commskip"
-msgstr "Attiva/disattiva Commskip"
+msgstr "Attiva/disattiva salto pubblicità"
 
 msgctxt "#30709"
 msgid "PVR Show Timer Rule"
@@ -656,7 +656,7 @@ msgstr "Separatore numero canale"
 # Item Actions
 msgctxt "#30800"
 msgid "Queue item"
-msgstr "Elemento della coda"
+msgstr "Elemento in coda"
 
 msgctxt "#30801"
 msgid "Delete item"
@@ -742,7 +742,7 @@ msgstr "Esci da Kodi"
 
 msgctxt "#30909"
 msgid "Reset Settings"
-msgstr "Ripristina impostazioni"
+msgstr "Reimposta impostazioni"
 
 msgctxt "#30910"
 msgid "Change Settings Level"
@@ -750,7 +750,7 @@ msgstr "Modifica livello impostazioni"
 
 msgctxt "#30911"
 msgid "Toggle Font"
-msgstr "Attiva/disattiva carattere"
+msgstr "Cambia carattere"
 
 # empty strings from id 30912 to 30999
 # Virtual Keyboard
@@ -768,7 +768,7 @@ msgstr "Simboli"
 
 msgctxt "#31003"
 msgid "Backspace"
-msgstr "Spazio indietro"
+msgstr "Tasto Indietro"
 
 msgctxt "#31004"
 msgid "0"
@@ -846,7 +846,7 @@ msgstr "Pulisci libreria musicale"
 
 msgctxt "#31104"
 msgid "Player Process Info"
-msgstr "Informazioni processo riproduttore"
+msgstr "Informazioni processo del lettore"
 
 msgctxt "#31105"
 msgid "Player debug"
@@ -858,7 +858,7 @@ msgstr "Fai uno screenshot"
 
 msgctxt "#31107"
 msgid "Reload Keymaps"
-msgstr "Ricarica Keymap"
+msgstr "Ricarica mappe dei tasti"
 
 msgctxt "#31108"
 msgid "Increase PAR"
@@ -874,7 +874,7 @@ msgstr "Cambia risoluzione"
 
 msgctxt "#31111"
 msgid "Next calibration"
-msgstr "Prossima calibrazione"
+msgstr "Calibrazione successiva"
 
 msgctxt "#31112"
 msgid "Reset calibration"
@@ -882,11 +882,11 @@ msgstr "Reimposta calibrazione"
 
 msgctxt "#31113"
 msgid "Show current visualisation preset"
-msgstr "Mostra la preimpostazione di visualizzazione corrente"
+msgstr "Mostra preimpostazioni dell'attuale visualizzazione"
 
 msgctxt "#31114"
 msgid "Show visualisation preset list"
-msgstr "Mostra l'elenco delle preimpostazioni di visualizzazione"
+msgstr "Mostra elenco preimpostazioni di visualizzazione"
 
 msgctxt "#31115"
 msgid "Next visualisation preset"
@@ -898,7 +898,7 @@ msgstr "Preimpostazione di visualizzazione precedente"
 
 msgctxt "#31117"
 msgid "Lock current visualisation preset"
-msgstr "Blocca la visualizzazione preimpostata corrente"
+msgstr "Blocca attuale preimpostazione di visualizzazione"
 
 msgctxt "#31118"
 msgid "Switch to a new random preset"
@@ -964,23 +964,23 @@ msgstr "Impostazioni giochi"
 
 msgctxt "#31214"
 msgid "Advanced Game Settings"
-msgstr "Impostazioni di gioco avanzate"
+msgstr "Impostazioni avanzate giochi"
 
 msgctxt "#31215"
 msgid "Game Controllers"
-msgstr "Controller di gioco"
+msgstr "Controller giochi"
 
 msgctxt "#31216"
 msgid "Game Video Filters"
-msgstr "Filtri video del gioco"
+msgstr "Filtri video giochi"
 
 msgctxt "#31217"
 msgid "Game Video Rotation"
-msgstr "Rotazione video del gioco"
+msgstr "Rotazione video giochi"
 
 msgctxt "#31218"
 msgid "Game View Mode"
-msgstr "Modalità di visualizzazione del gioco"
+msgstr "Modalità visualizzazione giochi"
 
 msgctxt "#31219"
 msgid "Skin Settings"
@@ -988,11 +988,11 @@ msgstr "Impostazioni skin"
 
 msgctxt "#31220"
 msgid "Addon Browser"
-msgstr "Addon browser"
+msgstr "Browser add-on"
 
 msgctxt "#31221"
 msgid "Addon Settings"
-msgstr "Impostazioni addon"
+msgstr "Impostazioni add-on"
 
 msgctxt "#31222"
 msgid "Profile Settings"
@@ -1012,7 +1012,7 @@ msgstr "Profili"
 
 msgctxt "#31226"
 msgid "System info"
-msgstr "Informazioni di sistema"
+msgstr "Informazioni sistema"
 
 msgctxt "#31227"
 msgid "Test Pattern"
@@ -1028,7 +1028,7 @@ msgstr "Schermata di accesso"
 
 msgctxt "#31230"
 msgid "File Browser"
-msgstr "File browser"
+msgstr "Sfoglia file"
 
 msgctxt "#31231"
 msgid "Network Setup"
@@ -1064,15 +1064,15 @@ msgstr "Elenco preimpostazioni di visualizzazione"
 
 msgctxt "#31239"
 msgid "Smart Playlist Editor"
-msgstr "Editor di playlist intelligente"
+msgstr "Editor di playlist smart"
 
 msgctxt "#31240"
 msgid "Smart Playlist Rule"
-msgstr "Regola intelligente playlist"
+msgstr "Regole di playlist smart"
 
 msgctxt "#31241"
 msgid "Shutdown Menu"
-msgstr "Menu di spegnimento"
+msgstr "Menu spegnimento"
 
 msgctxt "#31242"
 msgid "Fullscreen Info"
@@ -1088,7 +1088,7 @@ msgstr "Meteo"
 
 msgctxt "#31245"
 msgid "Screensaver"
-msgstr "Screensaver"
+msgstr "Salvaschermo"
 
 msgctxt "#31246"
 msgid "Picture Info"
@@ -1096,12 +1096,12 @@ msgstr "Informazioni immagine"
 
 msgctxt "#31247"
 msgid "Addon Info"
-msgstr "Informazioni addon"
+msgstr "Informazioni add-on"
 
 # empty string 31248
 msgctxt "#31249"
 msgid "Music Playlist"
-msgstr "Playlist musicale"
+msgstr "Playlist musica"
 
 msgctxt "#31250"
 msgid "Music Playlist Editor"
@@ -1113,7 +1113,7 @@ msgstr "Informazioni musica"
 
 msgctxt "#31252"
 msgid "Song Info"
-msgstr "Informazioni canzone"
+msgstr "Informazioni brano"
 
 msgctxt "#31253"
 msgid "Movie Info"
@@ -1133,7 +1133,7 @@ msgstr "OSD video"
 
 msgctxt "#31257"
 msgid "Colour Management Settings"
-msgstr "Impostazioni di gestione del colore"
+msgstr "Impostazioni gestione del colore"
 
 msgctxt "#31258"
 msgid "Subtitle Settings"
@@ -1141,7 +1141,7 @@ msgstr "Impostazioni sottotitoli"
 
 msgctxt "#31259"
 msgid "Video Time Seek"
-msgstr "Ricerca orario nel video"
+msgstr "Ricerca tempo nel video"
 
 msgctxt "#31260"
 msgid "Video Bookmarks"
@@ -1161,7 +1161,7 @@ msgstr "Informazioni registrazione PVR"
 
 msgctxt "#31264"
 msgid "PVR Timer Setting"
-msgstr "Impostazione timer PVR"
+msgstr "Impostazioni timer PVR"
 
 msgctxt "#31265"
 msgid "PVR Group Manager"
@@ -1177,11 +1177,11 @@ msgstr "Ricerca guida PVR"
 
 msgctxt "#31268"
 msgid "PVR Channel Scan"
-msgstr "Scansione canale PVR"
+msgstr "Scansione canali PVR"
 
 msgctxt "#31269"
 msgid "PVR Update Progress"
-msgstr "Progresso aggiornamento PVR"
+msgstr "Avanzamento aggiornamento PVR"
 
 msgctxt "#31270"
 msgid "PVR OSD Channels"
@@ -1213,19 +1213,19 @@ msgstr "Ricerca TV"
 
 msgctxt "#31277"
 msgid "Radio Channels"
-msgstr "Canali Radio"
+msgstr "Canali radio"
 
 msgctxt "#31278"
 msgid "Radio Recordings"
-msgstr "Registrazioni <Radio"
+msgstr "Registrazioni radiofoniche"
 
 msgctxt "#31279"
 msgid "Radio Guide"
-msgstr "Guida Radio"
+msgstr "Guida radio"
 
 msgctxt "#31280"
 msgid "Radio Timers"
-msgstr "Timer Radio"
+msgstr "Timer radio"
 
 msgctxt "#31281"
 msgid "Radio Timer Rules"
@@ -1233,7 +1233,7 @@ msgstr "Regole timer radio"
 
 msgctxt "#31282"
 msgid "Radio Search"
-msgstr "Ricerca Radio"
+msgstr "Ricerca radio"
 
 msgctxt "#31283"
 msgid "RDS Info"
@@ -1253,7 +1253,7 @@ msgstr "Serie TV"
 
 msgctxt "#31287"
 msgid "TV Show Titles"
-msgstr "Titoli serie TV"
+msgstr "Titoli di serie TV"
 
 msgctxt "#31288"
 msgid "Music Videos"
