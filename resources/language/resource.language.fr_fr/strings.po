@@ -7,23 +7,23 @@ msgstr ""
 "Project-Id-Version: XBMC Addons\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2023-02-25 18:17+0000\n"
-"Last-Translator: skypichat <skypichat@hotmail.fr>\n"
+"PO-Revision-Date: 2023-06-03 22:42+0000\n"
+"Last-Translator: Philippe Duveau <pduvax@gmail.com>\n"
 "Language-Team: French (France) <https://kodi.weblate.cloud/projects/kodi-add-ons-scripts/script-keymap/fr_fr/>\n"
 "Language: fr_fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.15.2\n"
+"X-Generator: Weblate 4.17\n"
 
 msgctxt "Addon Summary"
 msgid "An editor for keymap files"
-msgstr ""
+msgstr "Un éditeur de fichiers de définition de clavier"
 
 msgctxt "Addon Description"
 msgid "Keymap Editor is a GUI for configuring mappings for remotes, keyboard and other inputs supported by Kodi. Note: existing user defined key mappings will be renamed to .bak."
-msgstr ""
+msgstr "Keymap Editor est une interface graphique permettant de configurer les correspondances de touches pour les télécommandes, les claviers et les autres entrées prises en charge par Kodi. Remarque : les correspondances de touches existantes définies par l'utilisateur seront renommées en .bak."
 
 # Text Messages
 msgctxt "#30000"
@@ -56,23 +56,23 @@ msgstr "Annuler les changements ?"
 
 msgctxt "#30007"
 msgid "Select Window to manage shortcuts"
-msgstr ""
+msgstr "Sélectionner la fenêtre pour gérer les raccourcis"
 
 msgctxt "#30008"
 msgid "Select action category"
-msgstr ""
+msgstr "Sélectionner une catégorie d'actions"
 
 msgctxt "#30009"
 msgid "Select the action to assign a key"
-msgstr ""
+msgstr "Sélectionner l'action à assigner à la touche"
 
 msgctxt "#30010"
 msgid "Timeout in %.0f seconds..."
-msgstr ""
+msgstr "Délai d'expiration en %.0f secondes..."
 
 msgctxt "#30011"
 msgid "Edit key"
-msgstr ""
+msgstr "Éditer la touche"
 
 msgctxt "#30012"
 msgid "Remove"
@@ -134,65 +134,66 @@ msgstr "Clavier virtuel"
 
 msgctxt "#30113"
 msgid "Player Controls"
-msgstr ""
+msgstr "Contrôles du lecteur"
 
 msgctxt "#30114"
 msgid "Seek bar"
-msgstr ""
+msgstr "Barre de recherche"
 
 msgctxt "#30115"
 msgid "Music OSD"
-msgstr ""
+msgstr "Musique OSD"
 
 msgctxt "#30116"
 msgid "Video OSD Settings"
-msgstr ""
+msgstr "Configuration des Vidéos OSD"
 
 msgctxt "#30117"
 msgid "Audio OSD Settings"
-msgstr ""
+msgstr "Configurations des Audios OSD"
 
+#, fuzzy
 msgctxt "#30118"
 msgid "Visualisation"
-msgstr ""
+msgstr "Visualisation"
 
 msgctxt "#30119"
 msgid "Slideshow"
-msgstr ""
+msgstr "Diaporama"
 
 # empty strings from id 30120 to 30199
 # Navigation
 msgctxt "#30200"
 msgid "Move Left"
-msgstr ""
+msgstr "Déplacer vers la gauche"
 
 msgctxt "#30201"
 msgid "Move Right"
-msgstr ""
+msgstr "Déplacer vers la droite"
 
 msgctxt "#30202"
 msgid "Move Up"
-msgstr ""
+msgstr "Déplacer vers le haut"
 
 msgctxt "#30203"
 msgid "Move Down"
-msgstr ""
+msgstr "Déplacer vers le bas"
 
 msgctxt "#30204"
 msgid "Page Up"
-msgstr ""
+msgstr "Pagination vers le haut"
 
 msgctxt "#30205"
 msgid "Page Down"
-msgstr ""
+msgstr "Pagination vers le bas"
 
 msgctxt "#30206"
 msgid "Select Item"
-msgstr ""
+msgstr "Sélectionner un item"
 
 msgctxt "#30207"
 msgid "Highlight Item"
-msgstr ""
+msgstr "Surligner l'item"
 
 msgctxt "#30208"
 msgid "Parent Directory"
@@ -1249,7 +1250,7 @@ msgstr ""
 
 msgctxt "#31286"
 msgid "TV Shows"
-msgstr ""
+msgstr "Programmes TV"
 
 msgctxt "#31287"
 msgid "TV Show Titles"
