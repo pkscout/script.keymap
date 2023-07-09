@@ -29,6 +29,7 @@ added ability to map TempoUp and TempoDown
 		<summary lang="ko_KR">키맵 파일용 편집기</summary>
 		<summary lang="nl_NL">Een editor voor keymap-bestanden</summary>
 		<summary lang="ru_RU">Редактор файлов раскладки клавиатуры</summary>
+		<summary lang="sk_SK">Editor keymap súborov</summary>
 		<summary lang="zh_CN">一个键映射文件的编辑器</summary>
 		<description lang="da_DK">Keymap Editor er en GUI til konfiguration af mappinger for fjernbetjeninger, tastatur og andre input, der understøttes af Kodi. Bemærk: eksisterende brugerdefinerede nøglemappinger vil blive omdøbt til .bak.</description>
 		<description lang="de_DE">Keymap Editor ist eine grafische Oberfläche zum Konfigurieren von Tastenzuordnungen für Fernbedienungen, Tastaturen und anderen von Kodi unterstützten Eingabegeräten. Hinweis: Existierende benutzerdefinierte Tastenzuordnungen werden zu .bak umbenannt.</description>
@@ -43,6 +44,7 @@ added ability to map TempoUp and TempoDown
 		<description lang="ko_KR">키맵 편집기는 Kodi에서 지원하는 리모컨, 키보드 및 기타 입력에 대한 매핑을 구성하기 위한 GUI입니다. 참고: 기존 사용자 정의 키 매핑은 .bak으로 이름이 바뀝니다.</description>
 		<description lang="nl_NL">Keymap Editor is een GUI voor het configureren van toewijzingen voor afstandsbedieningen, toetsenbord en andere invoer die door Kodi wordt ondersteund. Opmerking: bestaande door de gebruiker gedefinieerde toetstoewijzingen worden hernoemd naar .bak.</description>
 		<description lang="ru_RU">Keymap Editor - это графический интерфейс для настройки привязки клавиш пультов, клавиатуры и других устройств ввода, поддерживаемых Kodi. Примечание: существующие пользовательские привязки клавиш будут переименованы в .bak.</description>
+		<description lang="sk_SK">Keymap Editor je grafický nástroj na nastavovanie mapovania tlačidiel diaľkových ovládačov, klávesníc a iných vstupných zariadení podporovaných Kodi. Poznámka: k existujúcim používateľom definovaným mapovaniam bude pridaná prípona .bak.</description>
 		<description lang="zh_CN">键映射编辑器是一个用于配置 Kodi 支持的遥控器、键盘和其他输入设备的功能映射的图形界面。注意：现有的用户定义键映射将重命名为.bak。</description>
 	</extension>
 </addon>
