@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: XBMC Addons\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2023-12-13 07:11+0000\n"
+"PO-Revision-Date: 2023-12-13 08:11+0000\n"
 "Last-Translator: Frodo19 <bilbohu@gmail.com>\n"
 "Language-Team: Hungarian <https://kodi.weblate.cloud/projects/kodi-add-ons-scripts/script-keymap/hu_hu/>\n"
 "Language: hu_hu\n"
@@ -518,261 +518,261 @@ msgstr "Kép forgatása jobbra"
 
 msgctxt "#30504"
 msgid "Zoom Out"
-msgstr "Zoom ki"
+msgstr "Nagyítás ki"
 
 msgctxt "#30505"
 msgid "Zoom In "
-msgstr "Zoom be "
+msgstr "Nagyítás be "
 
 msgctxt "#30506"
 msgid "Zoom level Normal"
-msgstr ""
+msgstr "Nagyítás normál"
 
 msgctxt "#30507"
 msgid "Zoom level 1"
-msgstr ""
+msgstr "Nagyítási szint 1"
 
 msgctxt "#30508"
 msgid "Zoom level 2"
-msgstr ""
+msgstr "Nagyítási szint 2"
 
 msgctxt "#30509"
 msgid "Zoom level 3"
-msgstr ""
+msgstr "Nagyítási szint 3"
 
 msgctxt "#30510"
 msgid "Zoom level 4"
-msgstr ""
+msgstr "Nagyítási szint 4"
 
 msgctxt "#30511"
 msgid "Zoom level 5"
-msgstr ""
+msgstr "Nagyítási szint 5"
 
 msgctxt "#30512"
 msgid "Zoom level 6"
-msgstr ""
+msgstr "Nagyítási szint 6"
 
 msgctxt "#30513"
 msgid "Zoom level 7"
-msgstr ""
+msgstr "Nagyítási szint 7"
 
 msgctxt "#30514"
 msgid "Zoom level 8"
-msgstr ""
+msgstr "Nagyítási szint 8"
 
 msgctxt "#30515"
 msgid "Zoom level 9"
-msgstr ""
+msgstr "Nagyítási szint 9"
 
 # empty strings from id 30516 to 30599
 # Subtitle
 msgctxt "#30600"
 msgid "Show Subtitles"
-msgstr ""
+msgstr "Feliratok mutatása"
 
 msgctxt "#30601"
 msgid "Next Subtitle"
-msgstr ""
+msgstr "Következő felirat"
 
 msgctxt "#30602"
 msgid "Browse Subtitle"
-msgstr ""
+msgstr "Felirat böngésző"
 
 msgctxt "#30603"
 msgid "Cycle Subtitle"
-msgstr ""
+msgstr "Felirat ciklikus"
 
 msgctxt "#30604"
 msgid "Delay"
-msgstr ""
+msgstr "Késleltetés"
 
 msgctxt "#30605"
 msgid "Delay Minus"
-msgstr ""
+msgstr "Késleltetés mínusz"
 
 msgctxt "#30606"
 msgid "Delay Plus"
-msgstr ""
+msgstr "Késleltetés plusz"
 
 msgctxt "#30607"
 msgid "Align"
-msgstr ""
+msgstr "Igazítás"
 
 msgctxt "#30608"
 msgid "Shift Subtitle Up"
-msgstr ""
+msgstr "Felirat mozgatás fel"
 
 msgctxt "#30609"
 msgid "Shift Subtitle Down"
-msgstr ""
+msgstr "Felirat mozgatás le"
 
 # empty strings from id 30610 to 30699
 # PVR
 msgctxt "#30700"
 msgid "Channel Up"
-msgstr ""
+msgstr "Csatornaváltás fel"
 
 msgctxt "#30701"
 msgid "Channel Down"
-msgstr ""
+msgstr "Csatornaváltás le"
 
 msgctxt "#30702"
 msgid "Previous channel group"
-msgstr ""
+msgstr "Előző csatornacsoport"
 
 msgctxt "#30703"
 msgid "Next channel group"
-msgstr ""
+msgstr "Következő csatornacsoport"
 
 msgctxt "#30704"
 msgid "PVR Play"
-msgstr ""
+msgstr "PVR lejátszás"
 
 msgctxt "#30705"
 msgid "PVR Play TV"
-msgstr ""
+msgstr "PVR TV lejátszás"
 
 msgctxt "#30706"
 msgid "PVR Play Radio"
-msgstr ""
+msgstr "PVR Rádió lejátszás"
 
 msgctxt "#30707"
 msgid "Record"
-msgstr ""
+msgstr "Felvétel"
 
 msgctxt "#30708"
 msgid "Toggle Commskip"
-msgstr ""
+msgstr "Kapcsolja be a Commskip funkciót"
 
 msgctxt "#30709"
 msgid "PVR Show Timer Rule"
-msgstr ""
+msgstr "PVR időzítő szabály"
 
 msgctxt "#30710"
 msgid "Channel Number Separator"
-msgstr ""
+msgstr "Csatornaszám-elválasztó"
 
 # empty strings from id 30711 to 30799
 # Item Actions
 msgctxt "#30800"
 msgid "Queue item"
-msgstr ""
+msgstr "Várólista elem"
 
 msgctxt "#30801"
 msgid "Delete item"
-msgstr ""
+msgstr "Elem törlése"
 
 msgctxt "#30802"
 msgid "Copy item"
-msgstr ""
+msgstr "Elem másolása"
 
 msgctxt "#30803"
 msgid "Move item"
-msgstr ""
+msgstr "Elem mozgatása"
 
 msgctxt "#30804"
 msgid "Move item up"
-msgstr ""
+msgstr "Elem mozgatása fel"
 
 msgctxt "#30805"
 msgid "Move item down"
-msgstr ""
+msgstr "Elem mozgatása le"
 
 msgctxt "#30806"
 msgid "Rename item"
-msgstr ""
+msgstr "Elem átnevezése"
 
 msgctxt "#30807"
 msgid "Scan item"
-msgstr ""
+msgstr "Elem keresése"
 
 msgctxt "#30808"
 msgid "Toggle Watched"
-msgstr ""
+msgstr "Megnézettként jelöl"
 
 msgctxt "#30809"
 msgid "Increase Rating"
-msgstr ""
+msgstr "Értékelés növelése"
 
 msgctxt "#30810"
 msgid "Decrease Rating"
-msgstr ""
+msgstr "Értékelés csökkentése"
 
 msgctxt "#30811"
 msgid "Set Rating"
-msgstr ""
+msgstr "Értékelés beállítása"
 
 # empty strings from id 30812 to 30899
 # System
 msgctxt "#30900"
 msgid "Toggle Fullscreen"
-msgstr ""
+msgstr "Teljes képernyőre váltás"
 
 msgctxt "#30901"
 msgid "Minimise"
-msgstr ""
+msgstr "Minimalizálás"
 
 msgctxt "#30902"
 msgid "Shutdown"
-msgstr ""
+msgstr "Kikapcsolás"
 
 msgctxt "#30903"
 msgid "Reboot"
-msgstr ""
+msgstr "Újraindítás"
 
 msgctxt "#30904"
 msgid "Hibernate"
-msgstr ""
+msgstr "Hibernálás"
 
 msgctxt "#30905"
 msgid "Suspend"
-msgstr ""
+msgstr "Felfüggesztés"
 
 msgctxt "#30906"
 msgid "Restart Kodi"
-msgstr ""
+msgstr "Kodi ujraíndítása"
 
 msgctxt "#30907"
 msgid "Log off"
-msgstr ""
+msgstr "Kijelentkezés"
 
 msgctxt "#30908"
 msgid "Quit Kodi"
-msgstr ""
+msgstr "Kilépés a Kodiból"
 
 msgctxt "#30909"
 msgid "Reset Settings"
-msgstr ""
+msgstr "Beállítások alapállapotba"
 
 msgctxt "#30910"
 msgid "Change Settings Level"
-msgstr ""
+msgstr "Módosítsa a beállítások szintjét"
 
 msgctxt "#30911"
 msgid "Toggle Font"
-msgstr ""
+msgstr "Betűtípus váltása"
 
 # empty strings from id 30912 to 30999
 # Virtual Keyboard
 msgctxt "#31000"
 msgid "Enter"
-msgstr ""
+msgstr "Megerősítés"
 
 msgctxt "#31001"
 msgid "Shift"
-msgstr ""
+msgstr "Shift"
 
 msgctxt "#31002"
 msgid "Symbols"
-msgstr ""
+msgstr "Szimbólumok"
 
 msgctxt "#31003"
 msgid "Backspace"
-msgstr ""
+msgstr "Visszafelé"
 
 msgctxt "#31004"
 msgid "0"
-msgstr ""
+msgstr "0"
 
 msgctxt "#31005"
 msgid "1"
@@ -812,223 +812,223 @@ msgstr ""
 
 msgctxt "#31014"
 msgid "Teletext Red"
-msgstr ""
+msgstr "Teletext piros"
 
 msgctxt "#31015"
 msgid "Teletext Green"
-msgstr ""
+msgstr "Teletext zöld"
 
 msgctxt "#31016"
 msgid "Teletext Yellow"
-msgstr ""
+msgstr "Teletext sárga"
 
 msgctxt "#31017"
 msgid "Teletext Blue"
-msgstr ""
+msgstr "Teletext kék"
 
 # empty strings from id 31018 to 31099
 # Other
 msgctxt "#31100"
 msgid "Update Video Library"
-msgstr ""
+msgstr "Videotár frissítése"
 
 msgctxt "#31101"
 msgid "Update Music Library"
-msgstr ""
+msgstr "Zenetár frissítése"
 
 msgctxt "#31102"
 msgid "Clean Video Library"
-msgstr ""
+msgstr "Videotár tisztítása"
 
 msgctxt "#31103"
 msgid "Clean Music Library"
-msgstr ""
+msgstr "Zenetár tisztítása"
 
 msgctxt "#31104"
 msgid "Player Process Info"
-msgstr ""
+msgstr "Lejátszó folyamat információ"
 
 msgctxt "#31105"
 msgid "Player debug"
-msgstr ""
+msgstr "Lejátszó debuginformáció"
 
 msgctxt "#31106"
 msgid "Take screenshot"
-msgstr ""
+msgstr "Képernyőmentés"
 
 msgctxt "#31107"
 msgid "Reload Keymaps"
-msgstr ""
+msgstr "Keymap újra betöltése"
 
 msgctxt "#31108"
 msgid "Increase PAR"
-msgstr ""
+msgstr "PAR növelése"
 
 msgctxt "#31109"
 msgid "Decrease PAR"
-msgstr ""
+msgstr "PAR csökkentése"
 
 msgctxt "#31110"
 msgid "Change resolution"
-msgstr ""
+msgstr "Felbontás váltása"
 
 msgctxt "#31111"
 msgid "Next calibration"
-msgstr ""
+msgstr "Következő kalibráció"
 
 msgctxt "#31112"
 msgid "Reset calibration"
-msgstr ""
+msgstr "Kalibráció visszaállítás"
 
 msgctxt "#31113"
 msgid "Show current visualisation preset"
-msgstr ""
+msgstr "Az aktuális vizualizáció megjelenítése"
 
 msgctxt "#31114"
 msgid "Show visualisation preset list"
-msgstr ""
+msgstr "Vizualizációs lista"
 
 msgctxt "#31115"
 msgid "Next visualisation preset"
-msgstr ""
+msgstr "A következő vizualizáció megjelenítése"
 
 msgctxt "#31116"
 msgid "Previous visualisation preset"
-msgstr ""
+msgstr "Az előző vizualizáció megjelenítése"
 
 msgctxt "#31117"
 msgid "Lock current visualisation preset"
-msgstr ""
+msgstr "Az aktuális vizualizáció lezárása"
 
 msgctxt "#31118"
 msgid "Switch to a new random preset"
-msgstr ""
+msgstr "Új véletlenszerű megjelenítés"
 
 # empty strings from id 31119 to 31199
 # Activate Window
 msgctxt "#31200"
 msgid "Settings"
-msgstr ""
+msgstr "Beállítások"
 
 msgctxt "#31201"
 msgid "Player Settings"
-msgstr ""
+msgstr "Lejátszó beállítások"
 
 msgctxt "#31202"
 msgid "Programs Settings"
-msgstr ""
+msgstr "Program beállítások"
 
 msgctxt "#31203"
 msgid "Information Provider Settings"
-msgstr ""
+msgstr "Információszolgáltató beállításai"
 
 msgctxt "#31204"
 msgid "Interface Settings"
-msgstr ""
+msgstr "Megjelenítés beállításai"
 
 msgctxt "#31205"
 msgid "System Settings"
-msgstr ""
+msgstr "Rendszer beállítások"
 
 msgctxt "#31206"
 msgid "Media Settings"
-msgstr ""
+msgstr "Média beállítások"
 
 msgctxt "#31207"
 msgid "Service Settings"
-msgstr ""
+msgstr "Szerviz beállítások"
 
 msgctxt "#31208"
 msgid "Appearance Settings"
-msgstr ""
+msgstr "Megjelenés beállításai"
 
 msgctxt "#31209"
 msgid "Peripherals Settings"
-msgstr ""
+msgstr "Periféria beállítások"
 
 msgctxt "#31210"
 msgid "Library Export Settings"
-msgstr ""
+msgstr "Médiatár export beállítások"
 
 msgctxt "#31211"
 msgid "PVR Settings"
-msgstr ""
+msgstr "PVR beállítások"
 
 msgctxt "#31212"
 msgid "PVR Recording Settings"
-msgstr ""
+msgstr "PVR felvétel beállítások"
 
 msgctxt "#31213"
 msgid "Game Settings"
-msgstr ""
+msgstr "Játék beállítások"
 
 msgctxt "#31214"
 msgid "Advanced Game Settings"
-msgstr ""
+msgstr "Speciális játékbeállítások"
 
 msgctxt "#31215"
 msgid "Game Controllers"
-msgstr ""
+msgstr "Játék vezérlők"
 
 msgctxt "#31216"
 msgid "Game Video Filters"
-msgstr ""
+msgstr "Játék videószűrők"
 
 msgctxt "#31217"
 msgid "Game Video Rotation"
-msgstr ""
+msgstr "Játék videó csere"
 
 msgctxt "#31218"
 msgid "Game View Mode"
-msgstr ""
+msgstr "Játék nézet mód"
 
 msgctxt "#31219"
 msgid "Skin Settings"
-msgstr ""
+msgstr "Felszín beállítások"
 
 msgctxt "#31220"
 msgid "Addon Browser"
-msgstr ""
+msgstr "Kiegészítő böngésző"
 
 msgctxt "#31221"
 msgid "Addon Settings"
-msgstr ""
+msgstr "Kiegészítő beállítások"
 
 msgctxt "#31222"
 msgid "Profile Settings"
-msgstr ""
+msgstr "Profil beállítások"
 
 msgctxt "#31223"
 msgid "Lock Settings"
-msgstr ""
+msgstr "Beállítások zárolása"
 
 msgctxt "#31224"
 msgid "Content Settings"
-msgstr ""
+msgstr "Tartalom beállítások"
 
 msgctxt "#31225"
 msgid "Profiles"
-msgstr ""
+msgstr "Profilok"
 
 msgctxt "#31226"
 msgid "System info"
-msgstr ""
+msgstr "Rendszerinfó"
 
 msgctxt "#31227"
 msgid "Test Pattern"
-msgstr ""
+msgstr "Teszt Pattern"
 
 msgctxt "#31228"
 msgid "Screen Calibration"
-msgstr ""
+msgstr "Kijelző kalibrálás"
 
 msgctxt "#31229"
 msgid "Login Screen"
-msgstr ""
+msgstr "Bejelentkezési képernyő"
 
 msgctxt "#31230"
 msgid "File Browser"
-msgstr ""
+msgstr "Fájlböngésző"
 
 msgctxt "#31231"
 msgid "Network Setup"
@@ -1036,148 +1036,148 @@ msgstr ""
 
 msgctxt "#31232"
 msgid "Access Points"
-msgstr ""
+msgstr "Hozzáférési pont"
 
 msgctxt "#31233"
 msgid "Mediasource Dialog"
-msgstr ""
+msgstr "Médiaforrás párbeszédpanel"
 
 msgctxt "#31234"
 msgid "Start"
-msgstr ""
+msgstr "Indítás"
 
 msgctxt "#31235"
 msgid "Favourites"
-msgstr ""
+msgstr "Kedvencek"
 
 msgctxt "#31236"
 msgid "Context Menu"
-msgstr ""
+msgstr "Felugró menü"
 
 msgctxt "#31237"
 msgid "Media filter"
-msgstr ""
+msgstr "Média szűrő"
 
 msgctxt "#31238"
 msgid "Visualisation Preset List"
-msgstr ""
+msgstr "Előre beállított vizualizációs lista"
 
 msgctxt "#31239"
 msgid "Smart Playlist Editor"
-msgstr ""
+msgstr "Smart lejátszási lista szerkesztő"
 
 msgctxt "#31240"
 msgid "Smart Playlist Rule"
-msgstr ""
+msgstr "Smart lejátszási lista szabályok"
 
 msgctxt "#31241"
 msgid "Shutdown Menu"
-msgstr ""
+msgstr "Kikapcsolási menü"
 
 msgctxt "#31242"
 msgid "Fullscreen Info"
-msgstr ""
+msgstr "Teljesképernyős infó"
 
 msgctxt "#31243"
 msgid "Subtitle Search"
-msgstr ""
+msgstr "Felirat keresés"
 
 msgctxt "#31244"
 msgid "Weather"
-msgstr ""
+msgstr "Időjárás"
 
 msgctxt "#31245"
 msgid "Screensaver"
-msgstr ""
+msgstr "Képernyővédő"
 
 msgctxt "#31246"
 msgid "Picture Info"
-msgstr ""
+msgstr "Képinfó"
 
 msgctxt "#31247"
 msgid "Addon Info"
-msgstr ""
+msgstr "Kiegészítőinfó"
 
 # empty string 31248
 msgctxt "#31249"
 msgid "Music Playlist"
-msgstr ""
+msgstr "Zene lejátszási lista"
 
 msgctxt "#31250"
 msgid "Music Playlist Editor"
-msgstr ""
+msgstr "Zene lejátszási lista szerkesztő"
 
 msgctxt "#31251"
 msgid "Music Info"
-msgstr ""
+msgstr "Zeneinfó"
 
 msgctxt "#31252"
 msgid "Song Info"
-msgstr ""
+msgstr "Dal infó"
 
 msgctxt "#31253"
 msgid "Movie Info"
-msgstr ""
+msgstr "Filminfó"
 
 msgctxt "#31254"
 msgid "Player Process Info"
-msgstr ""
+msgstr "Lejátszó folyamat információ"
 
 msgctxt "#31255"
 msgid "Video Menu"
-msgstr ""
+msgstr "Videó menü"
 
 msgctxt "#31256"
 msgid "Video OSD"
-msgstr ""
+msgstr "Videó OSD"
 
 msgctxt "#31257"
 msgid "Colour Management Settings"
-msgstr ""
+msgstr "Színkezelési beállítások"
 
 msgctxt "#31258"
 msgid "Subtitle Settings"
-msgstr ""
+msgstr "Feliratbeállítások"
 
 msgctxt "#31259"
 msgid "Video Time Seek"
-msgstr ""
+msgstr "Videó Időkeresés"
 
 msgctxt "#31260"
 msgid "Video Bookmarks"
-msgstr ""
+msgstr "Videó könyvjelzők"
 
 msgctxt "#31261"
 msgid "Video Playlist"
-msgstr ""
+msgstr "Videó lejátszási lista"
 
 msgctxt "#31262"
 msgid "PVR Guide Info"
-msgstr ""
+msgstr "PVR útmutató információ"
 
 msgctxt "#31263"
 msgid "PVR Recording Info"
-msgstr ""
+msgstr "PVR felvétel információ"
 
 msgctxt "#31264"
 msgid "PVR Timer Setting"
-msgstr ""
+msgstr "PVR időzítől beállítás"
 
 msgctxt "#31265"
 msgid "PVR Group Manager"
-msgstr ""
+msgstr "PVR csoport rendező"
 
 msgctxt "#31266"
 msgid "PVR Channel Manager"
-msgstr ""
+msgstr "PVR csatorna rendező"
 
 msgctxt "#31267"
 msgid "PVR Guide Search"
-msgstr ""
+msgstr "PVR útmutató keresés"
 
 msgctxt "#31268"
 msgid "PVR Channel Scan"
-msgstr ""
+msgstr "PVR csatorna keresés"
 
 msgctxt "#31269"
 msgid "PVR Update Progress"
