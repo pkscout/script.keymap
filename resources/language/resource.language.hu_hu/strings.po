@@ -5,9 +5,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: XBMC Addons\n"
-"Report-Msgid-Bugs-To: pkscout@kodi.tv\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2021-09-08 06:29+0000\n"
+"PO-Revision-Date: 2023-12-13 07:11+0000\n"
 "Last-Translator: Frodo19 <bilbohu@gmail.com>\n"
 "Language-Team: Hungarian <https://kodi.weblate.cloud/projects/kodi-add-ons-scripts/script-keymap/hu_hu/>\n"
 "Language: hu_hu\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.8\n"
+"X-Generator: Weblate 5.2.1\n"
 
 msgctxt "Addon Summary"
 msgid "An editor for keymap files"
@@ -236,293 +236,293 @@ msgstr "Előző betű"
 
 msgctxt "#30218"
 msgid "Scroll Up"
-msgstr ""
+msgstr "Görgess fel"
 
 msgctxt "#30219"
 msgid "Scroll Down"
-msgstr ""
+msgstr "Görgess le"
 
 msgctxt "#30220"
 msgid "Cursor Left"
-msgstr ""
+msgstr "Bal kurzor"
 
 msgctxt "#30221"
 msgid "Cursor Right"
-msgstr ""
+msgstr "Jobb kurzor"
 
 # empty strings from id 30222 to 30299
 # Playback
 msgctxt "#30300"
 msgid "Play"
-msgstr ""
+msgstr "Lejátszás"
 
 msgctxt "#30301"
 msgid "Pause"
-msgstr ""
+msgstr "Pillanat állj"
 
 msgctxt "#30302"
 msgid "Play/Pause"
-msgstr ""
+msgstr "Lejátszás/Szünet"
 
 msgctxt "#30303"
 msgid "Stop"
-msgstr ""
+msgstr "Állj"
 
 msgctxt "#30304"
 msgid "Next"
-msgstr ""
+msgstr "Következő"
 
 msgctxt "#30305"
 msgid "Previous"
-msgstr ""
+msgstr "Előző"
 
 msgctxt "#30306"
 msgid "Fast Forward"
-msgstr ""
+msgstr "Gyors előre"
 
 msgctxt "#30307"
 msgid "Rewind"
-msgstr ""
+msgstr "Gyors hátra"
 
 msgctxt "#30308"
 msgid "Small Step Back"
-msgstr ""
+msgstr "Kis lépés vissza"
 
 msgctxt "#30309"
 msgid "Step Forward"
-msgstr ""
+msgstr "Előre lépés"
 
 msgctxt "#30310"
 msgid "Step Back"
-msgstr ""
+msgstr "Vissza lépés"
 
 msgctxt "#30311"
 msgid "Big Step Forward"
-msgstr ""
+msgstr "Nagyobb előre lépés"
 
 msgctxt "#30312"
 msgid "Big Step Back"
-msgstr ""
+msgstr "Nagyobb vissza lépés"
 
 msgctxt "#30313"
 msgid "Next Chapter or Big Step Forward"
-msgstr ""
+msgstr "Következő fejezet vagy nagy lépés előre"
 
 msgctxt "#30314"
 msgid "Previous Chapter or Big Step Back"
-msgstr ""
+msgstr "Előző fejezet vagy nagy lépés vissza"
 
 msgctxt "#30315"
 msgid "Show OSD"
-msgstr ""
+msgstr "OSD mutatása"
 
 msgctxt "#30316"
 msgid "Show current play time"
-msgstr ""
+msgstr "Az aktuális lejátszási idő megjelenítése"
 
 msgctxt "#30317"
 msgid "Show Playlist"
-msgstr ""
+msgstr "Lejátszási lista megjelenítése"
 
 msgctxt "#30318"
 msgid "Toggle Fullscreen"
-msgstr ""
+msgstr "Teljes képernyőre váltás"
 
 msgctxt "#30319"
 msgid "Change Aspect Ratio"
-msgstr ""
+msgstr "Képarány módosítása"
 
 msgctxt "#30320"
 msgid "Go to DVD Video Menu"
-msgstr ""
+msgstr "Lépjen a DVD Video menübe"
 
 msgctxt "#30321"
 msgid "Toggle Repeat"
-msgstr ""
+msgstr "Kapcsolja be az Ismétlést"
 
 msgctxt "#30322"
 msgid "Repeat One"
-msgstr ""
+msgstr "Ismételjen meg egyet"
 
 msgctxt "#30323"
 msgid "Repeat All"
-msgstr ""
+msgstr "Összes ismétlése"
 
 msgctxt "#30324"
 msgid "Repeat Off"
-msgstr ""
+msgstr "Ismétlés Ki"
 
 msgctxt "#30325"
 msgid "Toggle Random"
-msgstr ""
+msgstr "Véletlenszerű váltás"
 
 msgctxt "#30326"
 msgid "Random On"
-msgstr ""
+msgstr "Véletlenszerű váltás Be"
 
 msgctxt "#30327"
 msgid "Random Off"
-msgstr ""
+msgstr "Véletlenszerű váltás Ki"
 
 msgctxt "#30328"
 msgid "Playback Speed Faster"
-msgstr ""
+msgstr "Lejátszási sebesség gyorsítás"
 
 msgctxt "#30329"
 msgid "Playback Speed Slower"
-msgstr ""
+msgstr "Lejátszási sebesség lassítás"
 
 msgctxt "#30330"
 msgid "Create Bookmark"
-msgstr ""
+msgstr "Könyvjelző hozzáadása"
 
 msgctxt "#30331"
 msgid "Create Episode Bookmark"
-msgstr ""
+msgstr "Epizód könyvjelző hozzáadása"
 
 msgctxt "#30332"
 msgid "Toggle 3D/Stereoscopic mode"
-msgstr ""
+msgstr "Váltás a 3D/Sztereoszkóp mód között"
 
 msgctxt "#30333"
 msgid "Switch Player"
-msgstr ""
+msgstr "Lejátszó váltás"
 
 msgctxt "#30334"
 msgid "Play Next"
-msgstr ""
+msgstr "Következő lejátszása"
 
 msgctxt "#30335"
 msgid "Select Program"
-msgstr ""
+msgstr "Program kiválasztás"
 
 msgctxt "#30336"
 msgid "Select Resolution"
-msgstr ""
+msgstr "Felbontás kiválasztása"
 
 msgctxt "#30337"
 msgid "Shift Video Up"
-msgstr ""
+msgstr "Videó eltolás felfelé"
 
 msgctxt "#30338"
 msgid "Shift Video Down"
-msgstr ""
+msgstr "Videó eltolás lelfelé"
 
 msgctxt "#30339"
 msgid "Show Time"
-msgstr ""
+msgstr "Idő mutatása"
 
 msgctxt "#30340"
 msgid "Next Scene"
-msgstr ""
+msgstr "Következő jelenet"
 
 msgctxt "#30341"
 msgid "Previous Scene"
-msgstr ""
+msgstr "Előző jelenet"
 
 msgctxt "#30342"
 msgid "Next Video Stream"
-msgstr ""
+msgstr "Következő Video Stream"
 
 msgctxt "#30343"
 msgid "Toggle HDHR"
-msgstr ""
+msgstr "HDHR váltás"
 
 msgctxt "#30344"
 msgid "Cycle 3D Mode"
-msgstr ""
+msgstr "Bekapcsolja a 3D módot"
 
 msgctxt "#30345"
 msgid "Next 3D Mode"
-msgstr ""
+msgstr "Következő 3D mód"
 
 msgctxt "#30346"
 msgid "Previous 3D Mode"
-msgstr ""
+msgstr "Előző 3D mód"
 
 msgctxt "#30347"
 msgid "3D Mono"
-msgstr ""
+msgstr "3D mono"
 
 msgctxt "#30348"
 msgid "Tempo Up"
-msgstr ""
+msgstr "Tempó felfelé"
 
 msgctxt "#30349"
 msgid "Tempo Down"
-msgstr ""
+msgstr "Tempó lefelé"
 
 # empty strings from id 30348 to 30399
 # Audio
 msgctxt "#30400"
 msgid "Mute"
-msgstr ""
+msgstr "Némítás"
 
 msgctxt "#30401"
 msgid "Volume Up"
-msgstr ""
+msgstr "Hangerő fel"
 
 msgctxt "#30402"
 msgid "Volume Down"
-msgstr ""
+msgstr "Hangerő le"
 
 msgctxt "#30403"
 msgid "Next Language"
-msgstr ""
+msgstr "Következő nyelv"
 
 msgctxt "#30404"
 msgid "Delay"
-msgstr ""
+msgstr "Késleltetés"
 
 msgctxt "#30405"
 msgid "Delay Minus"
-msgstr ""
+msgstr "Késleltetés mínusz"
 
 msgctxt "#30406"
 msgid "Delay Plus"
-msgstr ""
+msgstr "Késleltetés plusz"
 
 msgctxt "#30407"
 msgid "Toggle Digital/Analog"
-msgstr ""
+msgstr "Digitális/analóg váltás"
 
 msgctxt "#30408"
 msgid "Volume Amp Up"
-msgstr ""
+msgstr "Hangerő erősítés fel"
 
 msgctxt "#30409"
 msgid "Volume Amp Down"
-msgstr ""
+msgstr "Hangerő erősítés le"
 
 msgctxt "#30410"
 msgid "Volume Amplification"
-msgstr ""
+msgstr "Hangerő erősítés"
 
 # empty strings from id 30411 to 30499
 # Pictures
 msgctxt "#30500"
 msgid "Next Picture"
-msgstr ""
+msgstr "Következő kép"
 
 msgctxt "#30501"
 msgid "Previous Picture"
-msgstr ""
+msgstr "Előző kép"
 
 msgctxt "#30502"
 msgid "Rotate Picture"
-msgstr ""
+msgstr "Képek forgatása"
 
 msgctxt "#30503"
 msgid "Rotate Picture CCW"
-msgstr ""
+msgstr "Kép forgatása jobbra"
 
 msgctxt "#30504"
 msgid "Zoom Out"
-msgstr ""
+msgstr "Zoom ki"
 
 msgctxt "#30505"
 msgid "Zoom In "
-msgstr ""
+msgstr "Zoom be "
 
 msgctxt "#30506"
 msgid "Zoom level Normal"
