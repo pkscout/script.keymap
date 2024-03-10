@@ -262,7 +262,7 @@ _activate_window = [
     "accesspoints", tr(31232),
     "mediasource", tr(31233),
     "startwindow", tr(31234),
-    "favourites", tr(31235),
+    "favouritesbrowser", tr(31235),
     "contextmenu", tr(31236),
     "mediafilter", tr(31237),
     "visualisationpresetlist", tr(31238),
