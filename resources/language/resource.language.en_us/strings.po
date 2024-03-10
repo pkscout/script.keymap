@@ -8,11 +8,11 @@ msgstr ""
 "Report-Msgid-Bugs-To: pkscout@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Language: en\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 msgctxt "Addon Summary"
 msgid "An editor for keymap files"
@@ -151,7 +151,7 @@ msgstr ""
 
 msgctxt "#30118"
 msgid "Visualisation"
-msgstr "Visualization"
+msgstr ""
 
 msgctxt "#30119"
 msgid "Slideshow"
@@ -449,7 +449,7 @@ msgctxt "#30349"
 msgid "Tempo Down"
 msgstr ""
 
-# empty strings from id 30348 to 30399
+# empty strings from id 30350 to 30399
 # Audio
 msgctxt "#30400"
 msgid "Mute"
@@ -707,7 +707,7 @@ msgstr ""
 
 msgctxt "#30901"
 msgid "Minimise"
-msgstr "Minimize"
+msgstr ""
 
 msgctxt "#30902"
 msgid "Shutdown"
@@ -879,23 +879,23 @@ msgstr ""
 
 msgctxt "#31113"
 msgid "Show current visualisation preset"
-msgstr "Show current visualization preset"
+msgstr ""
 
 msgctxt "#31114"
 msgid "Show visualisation preset list"
-msgstr "Show visualization preset list"
+msgstr ""
 
 msgctxt "#31115"
 msgid "Next visualisation preset"
-msgstr "Next visualization preset"
+msgstr ""
 
 msgctxt "#31116"
 msgid "Previous visualisation preset"
-msgstr "Previous visualization preset"
+msgstr ""
 
 msgctxt "#31117"
 msgid "Lock current visualisation preset"
-msgstr "Lock current visualization preset"
+msgstr ""
 
 msgctxt "#31118"
 msgid "Switch to a new random preset"
@@ -1057,7 +1057,7 @@ msgstr ""
 
 msgctxt "#31238"
 msgid "Visualisation Preset List"
-msgstr "Visualization Preset List"
+msgstr ""
 
 msgctxt "#31239"
 msgid "Smart Playlist Editor"
@@ -1130,7 +1130,7 @@ msgstr ""
 
 msgctxt "#31257"
 msgid "Colour Management Settings"
-msgstr "Color Management Settings"
+msgstr ""
 
 msgctxt "#31258"
 msgid "Subtitle Settings"
