@@ -321,7 +321,9 @@ _activate_window = [
     "games", tr(31292),
     "gameosd", tr(31293),
     "gamepadinput", tr(31294),
-    "gamevolume", tr(31295)
+    "gamevolume", tr(31295),
+    "managevideoversions", tr(31296),
+    "managevideoextras", tr(31297)
 ]
 
 _windows = [

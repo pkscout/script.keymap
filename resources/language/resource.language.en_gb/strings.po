@@ -1309,3 +1309,11 @@ msgstr ""
 msgctxt "#31295"
 msgid "Game Volume"
 msgstr ""
+
+msgctxt "#31296"
+msgid "Video Versions"
+msgstr ""
+
+msgctxt "#31297"
+msgid "Video Extras"
+msgstr ""
