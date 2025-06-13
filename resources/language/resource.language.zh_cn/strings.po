@@ -7,19 +7,19 @@ msgstr ""
 "Project-Id-Version: XBMC Addons\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2023-03-25 05:16+0000\n"
+"PO-Revision-Date: 2025-06-13 20:06+0800\n"
 "Last-Translator: taxigps <taxigps@sina.com>\n"
 "Language-Team: Chinese (China) <https://kodi.weblate.cloud/projects/kodi-add-ons-scripts/script-keymap/zh_cn/>\n"
-"Language: zh_cn\n"
+"Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.15.2\n"
+"X-Generator: Poedit 3.6\n"
 
 msgctxt "Addon Summary"
 msgid "An editor for keymap files"
-msgstr "一个键映射文件的编辑器"
+msgstr "键映射编辑器"
 
 msgctxt "Addon Description"
 msgid "Keymap Editor is a GUI for configuring mappings for remotes, keyboard and other inputs supported by Kodi. Note: existing user defined key mappings will be renamed to .bak."
@@ -78,7 +78,23 @@ msgctxt "#30012"
 msgid "Remove"
 msgstr "删除"
 
-# empty strings from id 30013 to 30099
+msgctxt "#30013"
+msgid "Long Press"
+msgstr "长按"
+
+msgctxt "#30014"
+msgid "Add mapping as long press?"
+msgstr "添加长按映射吗？"
+
+msgctxt "#30015"
+msgid "Enable long press mapping"
+msgstr "启用长按映射"
+
+msgctxt "#30016"
+msgid "General"
+msgstr "常规"
+
+# empty strings from id 30017 to 30099
 # Window names
 msgctxt "#30100"
 msgid "Global"
@@ -642,7 +658,7 @@ msgstr "录像"
 
 msgctxt "#30708"
 msgid "Toggle Commskip"
-msgstr "切换 Commskip"
+msgstr "切换跳过广告"
 
 msgctxt "#30709"
 msgid "PVR Show Timer Rule"
@@ -752,7 +768,11 @@ msgctxt "#30911"
 msgid "Toggle Font"
 msgstr "切换字体"
 
-# empty strings from id 30912 to 30999
+msgctxt "#30912"
+msgid "Reload Skin"
+msgstr "重载皮肤"
+
+# empty strings from id 30913 to 30999
 # Virtual Keyboard
 msgctxt "#31000"
 msgid "Enter"
@@ -904,7 +924,11 @@ msgctxt "#31118"
 msgid "Switch to a new random preset"
 msgstr "切换到新的随机预设"
 
-# empty strings from id 31119 to 31199
+msgctxt "#31119"
+msgid "Player debug video"
+msgstr "播放器调试视频"
+
+# empty strings from id 31120 to 31199
 # Activate Window
 msgctxt "#31200"
 msgid "Settings"
@@ -1286,3 +1310,59 @@ msgstr "游戏手柄输入"
 msgctxt "#31295"
 msgid "Game Volume"
 msgstr "游戏音量"
+
+msgctxt "#31296"
+msgid "Video Versions"
+msgstr "视频版本"
+
+msgctxt "#31297"
+msgid "Video Extras"
+msgstr "视频花絮"
+
+msgctxt "#32001"
+msgid "Navigation"
+msgstr "导航"
+
+msgctxt "#32002"
+msgid "Playback"
+msgstr "播放控制"
+
+msgctxt "#32003"
+msgid "Audio"
+msgstr "音频"
+
+msgctxt "#32004"
+msgid "Pictures"
+msgstr "图片"
+
+msgctxt "#32005"
+msgid "Subtitle"
+msgstr "字幕"
+
+msgctxt "#32006"
+msgid "PVR"
+msgstr "PVR"
+
+msgctxt "#32007"
+msgid "Item Actions"
+msgstr "项目操作"
+
+msgctxt "#32008"
+msgid "System"
+msgstr "系统"
+
+msgctxt "#32009"
+msgid "Virtual Keyboard"
+msgstr "虚拟键盘"
+
+msgctxt "#32010"
+msgid "Other"
+msgstr "其他"
+
+msgctxt "#32011"
+msgid "Windows"
+msgstr "窗口"
+
+msgctxt "#32012"
+msgid "Add-ons"
+msgstr "插件"
