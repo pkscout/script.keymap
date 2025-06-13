@@ -18,9 +18,9 @@
 from collections import OrderedDict
 from resources.lib.utils import rpc
 from resources.lib.utils import tr
-
+# Navigation, 
 _actions = [
-    ["Navigation", [
+    [tr(32001), [
         "left", tr(30200),
         "right", tr(30201),
         "up", tr(30202),
@@ -45,8 +45,8 @@ _actions = [
         "cursorright", tr(30221),
 
     ]],
-
-    ["Playback", [
+# Playback, 
+    [tr(32002), [
         "play", tr(30300),
         "pause", tr(30301),
         "playpause", tr(30302),
@@ -89,8 +89,8 @@ _actions = [
         "previousstereomode", tr(30346),
         "stereomodetomono", tr(30347)
     ]],
-
-    ["Audio", [
+# Audio, 
+    [tr(32003), [
         "mute", tr(30400),
         "volumeup", tr(30401),
         "volumedown", tr(30402),
@@ -103,8 +103,8 @@ _actions = [
         "volampdown", tr(30409),
         "volumeamplification", tr(30410)
     ]],
-
-    ["Pictures", [
+# Pictures, 
+    [tr(32004), [
         "nextpicture", tr(30500),
         "previouspicture", tr(30501),
         "rotate", tr(30502),
@@ -122,8 +122,8 @@ _actions = [
         "zoomlevel8", tr(30514),
         "zoomlevel9", tr(30515)
     ]],
-
-    ["Subtitle", [
+# Subtitle, 
+    [tr(32005), [
         "showsubtitles", tr(30600),
         "nextsubtitle", tr(30601),
         "browsesubtitle", tr(30602),
@@ -135,8 +135,8 @@ _actions = [
         "subtitleshiftup", tr(30608),
         "subtitleshiftdown", tr(30609)
     ]],
-
-    ["PVR", [
+# PVR, 
+    [tr(32006), [
         "channelup", tr(30700),
         "channeldown", tr(30701),
         "previouschannelgroup", tr(30702),
@@ -149,8 +149,8 @@ _actions = [
         "showtimerrule", tr(30709),
         "channelnumberseparator", tr(30710)
     ]],
-
-    ["Item Actions", [
+# Item Actions, 
+    [tr(32007), [
         "queue", tr(30800),
         "delete", tr(30801),
         "copy", tr(30802),
@@ -164,8 +164,8 @@ _actions = [
         "decreaserating", tr(30810),
         "setrating", tr(30811)
     ]],
-
-    ["System", [
+# System, 
+    [tr(32008), [
         "togglefullscreen", tr(30900),
         "minimize", tr(30901),
         "shutdown", tr(30902),
@@ -180,8 +180,8 @@ _actions = [
         "togglefont", tr(30911),
         "reloadskin", tr(30912)
     ]],
-
-    ["Virtual Keyboard", [
+# Virtual Keyboard, 
+    [tr(32009), [
         "enter", tr(31000),
         "shift", tr(31001),
         "symbols", tr(31002),
@@ -201,8 +201,8 @@ _actions = [
         "yellow", tr(31016),
         "blue", tr(31017)
     ]],
-
-    ["Other", [
+# Other, 
+    [tr(32010), [
         "updatelibrary(video)", tr(31100),
         "updatelibrary(music)", tr(31101),
         "cleanlibrary(video)", tr(31102),
@@ -386,8 +386,8 @@ def _get_action_dict():
         names = elem[1][1::2]
         d[category] = OrderedDict(zip(actions, names))
 
-    d["Windows"] = _get_activate_window_actions()
-    d["Add-ons"] = _get_run_addon_actions()
+    d[tr(32011)] = _get_activate_window_actions() # Windows
+    d[tr(32012)] = _get_run_addon_actions()       # Add-ons
     return d
 
 
