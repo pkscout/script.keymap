@@ -1341,3 +1341,51 @@ msgstr ""
 msgctxt "#31297"
 msgid "Video Extras"
 msgstr ""
+
+msgctxt "#32001"
+msgid "Navigation"
+msgstr ""
+
+msgctxt "#32002"
+msgid "Playback"
+msgstr ""
+
+msgctxt "#32003"
+msgid "Audio"
+msgstr ""
+
+msgctxt "#32004"
+msgid "Pictures"
+msgstr ""
+
+msgctxt "#32005"
+msgid "Subtitle"
+msgstr ""
+
+msgctxt "#32006"
+msgid "PVR"
+msgstr ""
+
+msgctxt "#32007"
+msgid "Item Actions"
+msgstr ""
+
+msgctxt "#32008"
+msgid "System"
+msgstr ""
+
+msgctxt "#32009"
+msgid "Virtual Keyboard"
+msgstr ""
+
+msgctxt "#32010"
+msgid "Other"
+msgstr ""
+
+msgctxt "#32011"
+msgid "Windows"
+msgstr ""
+
+msgctxt "#32012"
+msgid "Add-ons"
+msgstr ""
