@@ -18,8 +18,10 @@
 import defusedxml.ElementTree as ET
 import xml.etree.ElementTree as UET
 import json
+import os
 import xbmc
 import xbmcaddon
+import xbmcvfs
 
 tr = xbmcaddon.Addon().getLocalizedString
 settings = xbmcaddon.Addon().getSetting
@@ -72,3 +74,11 @@ def write_keymap(keymap, filename):
     builder.end("keymap")
     element = builder.close()
     UET.ElementTree(element).write(filename, 'utf-8')
+
+
+def rename_keymap(filename):
+    userdata = xbmcvfs.translatePath('special://userdata/keymaps')
+    current_path = os.path.join(userdata, '%s.xml' % settings('keymap_editor_filename'))
+    new_path = os.path.join(userdata, '%s.xml' % filename)
+    xbmcvfs.rename(current_path, new_path)
+    xbmcaddon.Addon().setSetting('keymap_editor_filename', filename)
