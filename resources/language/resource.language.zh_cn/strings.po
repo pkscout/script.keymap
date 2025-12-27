@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: XBMC Addons\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2025-06-13 20:06+0800\n"
+"PO-Revision-Date: 2025-12-27 20:06+0800\n"
 "Last-Translator: wabisabi926\n"
 "Language-Team: Chinese (China) <https://kodi.weblate.cloud/projects/kodi-add-ons-scripts/script-keymap/zh_cn/>\n"
 "Language: zh_CN\n"
@@ -94,7 +94,45 @@ msgctxt "#30016"
 msgid "General"
 msgstr "常规"
 
-# empty strings from id 30017 to 30099
+msgctxt "#30017"
+msgid "Enable support for multiple keymap files"
+msgstr "启用多键映射文件支持"
+
+msgctxt "#30018"
+msgid "Keymaps are loaded alphabetically, and later loaded files override ones already loaded. DO NOT USE A FILENAME FOR A FILE GENERATED OUTSIDE KEYMAP EDITOR. This will almost certainly result in a crash or unexpected behavior."
+msgstr "键映射文件按字母顺序加载，后加载的文件会覆盖已加载的文件。请勿为键映射编辑器外生成的文件使用此命名方式，否则极有可能导致程序崩溃或运行异常。"
+
+msgctxt "#30019"
+msgid "Keymap Editor file name"
+msgstr "键映射编辑器文件名"
+
+msgctxt "#30020"
+msgid "Failed to load keymap file"
+msgstr "键映射文件加载失败"
+
+msgctxt "#30021"
+msgid "Rename keymap file"
+msgstr "重命名键映射文件"
+
+msgctxt "#30022"
+msgid "First run"
+msgstr "首次运行"
+
+msgctxt "#30023"
+msgid "By default this addon disables all other keymaps. If you want to use multiple keymap files, go to the settings and enable that option."
+msgstr "本插件默认禁用所有其他键映射配置。若需使用多键映射文件，请前往设置界面启用对应选项。"
+
+msgctxt "#30024"
+msgid "Settings"
+msgstr "设置"
+
+msgctxt "#30025"
+msgid "Continue"
+msgstr "继续"
+
+
+# empty strings from id 30026 to 30099
+
 # Window names
 msgctxt "#30100"
 msgid "Global"
@@ -468,7 +506,8 @@ msgctxt "#30349"
 msgid "Tempo Down"
 msgstr "节奏降低"
 
-# empty strings from id 30348 to 30399
+# empty strings from id 30350 to 30399
+
 # Audio
 msgctxt "#30400"
 msgid "Mute"
