@@ -130,7 +130,6 @@ msgctxt "#30025"
 msgid "Continue"
 msgstr "继续"
 
-
 # empty strings from id 30026 to 30099
 
 # Window names
