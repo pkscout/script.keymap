@@ -1426,3 +1426,27 @@ msgstr ""
 msgctxt "#32012"
 msgid "Add-ons"
 msgstr ""
+
+msgctxt "#33001"
+msgid "DialogSelectVideo"
+msgstr ""
+
+msgctxt "#33002"
+msgid "DialogSelectAudio"
+msgstr ""
+
+msgctxt "#332003"
+msgid "DialogSelectSubtitle"
+msgstr ""
+
+msgctxt "#33004"
+msgid "activatewindow(1148)"
+msgstr "Select Video (Only Fuse Skin)"
+
+msgctxt "#33005"
+msgid "activatewindow(1146)"
+msgstr "Select Audio (Only Fuse Skin)"
+
+msgctxt "#33006"
+msgid "activatewindow(1147)"
+msgstr "Select Subtitle (Only Fuse Skin)"
