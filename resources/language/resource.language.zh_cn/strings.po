@@ -1411,11 +1411,11 @@ msgstr "选择视频流（仅适配 kodi 22+）"
 
 msgctxt "#33002"
 msgid "DialogSelectAudio (Only kodi 22+)"
-msgstr "选择音频流（仅适配 kodi 22+）"
+msgstr "选择音轨（仅适配 kodi 22+）"
 
 msgctxt "#33003"
 msgid "DialogSelectSubtitle (Only kodi 22+)"
-msgstr "选择字幕流（仅适配 kodi 22+）"
+msgstr "选择字幕（仅适配 kodi 22+）"
 
 msgctxt "#33004"
 msgid "activatewindow(1148)"
@@ -1423,8 +1423,8 @@ msgstr "选择视频流（仅适配 导火线）"
 
 msgctxt "#33005"
 msgid "activatewindow(1146)"
-msgstr "选择音频流（仅适配 导火线）"
+msgstr "选择音轨（仅适配 导火线）"
 
 msgctxt "#33006"
 msgid "activatewindow(1147)"
-msgstr "选择字幕流（仅适配 导火线）"
+msgstr "选择字幕（仅适配 导火线）"
