@@ -1428,15 +1428,15 @@ msgid "Add-ons"
 msgstr ""
 
 msgctxt "#33001"
-msgid "DialogSelectVideo"
+msgid "DialogSelectVideo (Only kodi 22+)"
 msgstr ""
 
 msgctxt "#33002"
-msgid "DialogSelectAudio"
+msgid "DialogSelectAudio (Only kodi 22+)"
 msgstr ""
 
 msgctxt "#332003"
-msgid "DialogSelectSubtitle"
+msgid "DialogSelectSubtitle (Only kodi 22+)"
 msgstr ""
 
 msgctxt "#33004"
