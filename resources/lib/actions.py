@@ -87,7 +87,9 @@ _actions = [
         "stereomode", tr(30344),
         "nextstereomode", tr(30345),
         "previousstereomode", tr(30346),
-        "stereomodetomono", tr(30347)
+        "stereomodetomono", tr(30347),
+        "DialogSelectVideo", tr(33001),
+        "activatewindow(1148)", tr(33004)
     ]],
 # Audio, 
     [tr(32003), [
@@ -101,7 +103,9 @@ _actions = [
         "audiotoggledigital", tr(30407),
         "volampup", tr(30408),
         "volampdown", tr(30409),
-        "volumeamplification", tr(30410)
+        "volumeamplification", tr(30410),
+        "DialogSelectAudio", tr(33002),
+        "activatewindow(1146)", tr(33005)
     ]],
 # Pictures, 
     [tr(32004), [
@@ -133,7 +137,9 @@ _actions = [
         "subtitledelayplus", tr(30606),
         "subtitlealign", tr(30607),
         "subtitleshiftup", tr(30608),
-        "subtitleshiftdown", tr(30609)
+        "subtitleshiftdown", tr(30609),
+        "DialogSelectSubtitle", tr(33003),
+        "activatewindow(1147)", tr(33006)
     ]],
 # PVR, 
     [tr(32006), [
