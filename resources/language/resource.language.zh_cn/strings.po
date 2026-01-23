@@ -1406,15 +1406,15 @@ msgid "Add-ons"
 msgstr "插件"
 
 msgctxt "#33001"
-msgid "DialogSelectVideo"
+msgid "DialogSelectVideo (Only kodi 22+)"
 msgstr "选择视频流（仅适配 kodi 22+）"
 
 msgctxt "#33002"
-msgid "DialogSelectAudio"
+msgid "DialogSelectAudio (Only kodi 22+)"
 msgstr "选择音频流（仅适配 kodi 22+）"
 
 msgctxt "#33003"
-msgid "DialogSelectSubtitle"
+msgid "DialogSelectSubtitle (Only kodi 22+)"
 msgstr "选择字幕流（仅适配 kodi 22+）"
 
 msgctxt "#33004"
