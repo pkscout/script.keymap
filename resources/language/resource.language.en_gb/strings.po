@@ -1450,3 +1450,11 @@ msgstr "Select Audio (Only Fuse Skin)"
 msgctxt "#33006"
 msgid "activatewindow(1147)"
 msgstr "Select Subtitle (Only Fuse Skin)"
+
+msgctxt "#33007"
+msgid "RunScript(plugin.video.skipintro, ?mode=record_skip_point)"
+msgstr "Record skip point"
+
+msgctxt "#33008"
+msgid "RunScript(plugin.video.skipintro, ?mode=delete_skip_point)"
+msgstr "Delete Skip point"
