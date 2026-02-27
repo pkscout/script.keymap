@@ -1428,3 +1428,11 @@ msgstr "选择音轨（仅适配 导火线）"
 msgctxt "#33006"
 msgid "activatewindow(1147)"
 msgstr "选择字幕（仅适配 导火线）"
+
+msgctxt "#33007"
+msgid "RunScript(plugin.video.skipintro, ?mode=record_skip_point)"
+msgstr "记录当前时间为跳过点 (片头/片尾)"
+
+msgctxt "#33008"
+msgid "RunScript(plugin.video.skipintro, ?mode=delete_skip_point)"
+msgstr "删除当前剧集的跳过点记录"
