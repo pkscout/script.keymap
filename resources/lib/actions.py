@@ -60,7 +60,7 @@ _actions = [
         "stepback", tr(30310),
         "bigstepforward", tr(30311),
         "bigstepback", tr(30312),
-        "chapterorbigstepforward", tr(30313),
+        "chapterorbigstepforward"， tr(30313),
         "chapterorbigstepBack", tr(30314),
         "osd", tr(30315),
         "showtime", tr(30316),
@@ -89,7 +89,9 @@ _actions = [
         "previousstereomode", tr(30346),
         "stereomodetomono", tr(30347),
         "DialogSelectVideo", tr(33001),
-        "activatewindow(1148)", tr(33004)
+        "activatewindow(1148)", tr(33004),
+        "RunScript(plugin.video.skipintro, ?mode=record_skip_point)", tr(33007),
+        "RunScript(plugin.video.skipintro, ?mode=delete_skip_point)", tr(33008)
     ]],
 # Audio, 
     [tr(32003), [
