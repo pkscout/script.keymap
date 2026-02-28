@@ -60,7 +60,7 @@ _actions = [
         "stepback", tr(30310),
         "bigstepforward", tr(30311),
         "bigstepback", tr(30312),
-        "chapterorbigstepforward"， tr(30313),
+        "chapterorbigstepforward", tr(30313),
         "chapterorbigstepBack", tr(30314),
         "osd", tr(30315),
         "showtime", tr(30316),
