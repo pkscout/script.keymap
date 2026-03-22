@@ -19,7 +19,7 @@ msgid "An editor for keymap files"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "Keymap Editor is a GUI for configuring mappings for remotes, keyboard and other inputs supported by Kodi. Note: by default existing user defined key mappings will be renamed to .bak."
+msgid "Keymap Editor is a GUI for configuring mappings for remotes, keyboard and other inputs supported by Kodi."
 msgstr ""
 
 # Text Messages
