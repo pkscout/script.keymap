@@ -16,6 +16,7 @@ added ability to map TempoUp and TempoDown
 		<license>GPL-3.0-only</license>
 		<forum>https://forum.kodi.tv/showthread.php?tid=168767</forum>
 		<source>https://github.com/pkscout/script.keymap</source>
+		<summary lang="cs_CZ">Editor souborů mapování ovládání</summary>
 		<summary lang="da_DK">Et redigeringsværktøj for keymap-filer</summary>
 		<summary lang="de_DE">Ein Editor für Keymap-Dateien</summary>
 		<summary lang="en_GB">An editor for keymap files</summary>
@@ -34,6 +35,7 @@ added ability to map TempoUp and TempoDown
 		<summary lang="sk_SK">Editor keymap súborov</summary>
 		<summary lang="sv_SE">En redigerare för tangentbordsfiler</summary>
 		<summary lang="zh_CN">一个键映射文件的编辑器</summary>
+		<description lang="cs_CZ">Keymap Editor je grafické rozhraní pro konfiguraci mapování dálkových ovladačů, klávesnice a dalších vstupů podporovaných Kodi. Poznámka: stávající uživatelsky definovaná mapování ovládání budou přejmenována s příponou .bak.</description>
 		<description lang="da_DK">Keymap Editor er en GUI til konfiguration af mappinger for fjernbetjeninger, tastatur og andre input, der understøttes af Kodi. Bemærk: eksisterende brugerdefinerede nøglemappinger vil blive omdøbt til .bak.</description>
 		<description lang="de_DE">Keymap Editor ist eine grafische Oberfläche zum Konfigurieren von Tastenzuordnungen für Fernbedienungen, Tastaturen und anderen von Kodi unterstützten Eingabegeräten. Hinweis: Existierende benutzerdefinierte Tastenzuordnungen werden zu .bak umbenannt.</description>
 		<description lang="en_GB">Keymap Editor is a GUI for configuring mappings for remotes, keyboard and other inputs supported by Kodi. Note: existing user defined key mappings will be renamed to .bak.</description>
