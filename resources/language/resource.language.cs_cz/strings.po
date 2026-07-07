@@ -5,1281 +5,1284 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: XBMC Addons\n"
-"Report-Msgid-Bugs-To: pkscout@kodi.tv\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2026-07-07 08:31+0000\n"
 "Language: cs_cz\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"Last-Translator: Michal Várady <miko.vaji@gmail.com>\n"
+"Language-Team: Czech <https://kodi.weblate.cloud/projects/kodi-add-ons-scripts/script-keymap/cs_cz/>\n"
+"X-Generator: Weblate 2026.7\n"
 
 msgctxt "Addon Summary"
 msgid "An editor for keymap files"
-msgstr ""
+msgstr "Editor souborů mapování ovládání"
 
 msgctxt "Addon Description"
 msgid "Keymap Editor is a GUI for configuring mappings for remotes, keyboard and other inputs supported by Kodi. Note: existing user defined key mappings will be renamed to .bak."
-msgstr ""
+msgstr "Keymap Editor je grafické rozhraní pro konfiguraci mapování dálkových ovladačů, klávesnice a dalších vstupů podporovaných Kodi. Poznámka: stávající uživatelsky definovaná mapování ovládání budou přejmenována s příponou .bak."
 
 # Text Messages
 msgctxt "#30000"
 msgid "Keymap Editor"
-msgstr ""
+msgstr "Editor mapování ovládání"
 
 msgctxt "#30001"
 msgid "Failed to remove old keymap file"
-msgstr ""
+msgstr "Nepodařilo se odstranit starý soubor mapování ovládání"
 
 msgctxt "#30002"
 msgid "Press the key you want to assign now"
-msgstr ""
+msgstr "Stiskněte nyní klávesu nebo tlačítko, které chcete přiřadit"
 
 msgctxt "#30003"
 msgid "Edit"
-msgstr ""
+msgstr "Upravit"
 
 msgctxt "#30004"
 msgid "Reset to default"
-msgstr ""
+msgstr "Obnovit výchozí hodnoty"
 
 msgctxt "#30005"
 msgid "Save"
-msgstr ""
+msgstr "Uložit"
 
 msgctxt "#30006"
 msgid "Discard changes?"
-msgstr ""
+msgstr "Zahodit změny?"
 
 msgctxt "#30007"
 msgid "Select Window to manage shortcuts"
-msgstr ""
+msgstr "Vyberte okno pro správu zkratek"
 
 msgctxt "#30008"
 msgid "Select action category"
-msgstr ""
+msgstr "Vyberte kategorii akcí"
 
 msgctxt "#30009"
 msgid "Select the action to assign a key"
-msgstr ""
+msgstr "Vyberte akci, které chcete přiřadit klávesu nebo tlačítko"
 
 msgctxt "#30010"
 msgid "Timeout in %.0f seconds..."
-msgstr ""
+msgstr "Časový limit vyprší za %.0f s..."
 
 msgctxt "#30011"
 msgid "Edit key"
-msgstr ""
+msgstr "Upravit klávesu/tlačítko"
 
 msgctxt "#30012"
 msgid "Remove"
-msgstr ""
+msgstr "Odebrat"
 
 # empty strings from id 30013 to 30099
 # Window names
 msgctxt "#30100"
 msgid "Global"
-msgstr ""
+msgstr "Globální"
 
 msgctxt "#30101"
 msgid "Fullscreen Video"
-msgstr ""
+msgstr "Video na celou obrazovku"
 
 msgctxt "#30102"
 msgid "Fullscreen Live TV"
-msgstr ""
+msgstr "Živá TV na celou obrazovku"
 
 msgctxt "#30103"
 msgid "Fullscreen Radio"
-msgstr ""
+msgstr "Rádio na celou obrazovku"
 
 msgctxt "#30104"
 msgid "Fullscreen Game"
-msgstr ""
+msgstr "Hra na celou obrazovku"
 
 msgctxt "#30105"
 msgid "Home"
-msgstr ""
+msgstr "Domovská obrazovka"
 
 msgctxt "#30106"
 msgid "Programs"
-msgstr ""
+msgstr "Programy"
 
 msgctxt "#30107"
 msgid "Videos"
-msgstr ""
+msgstr "Videa"
 
 msgctxt "#30108"
 msgid "Music"
-msgstr ""
+msgstr "Hudba"
 
 msgctxt "#30109"
 msgid "Pictures"
-msgstr ""
+msgstr "Obrázky"
 
 msgctxt "#30110"
 msgid "PVR"
-msgstr ""
+msgstr "PVR"
 
 msgctxt "#30111"
 msgid "Filemanager"
-msgstr ""
+msgstr "Správce souborů"
 
 msgctxt "#30112"
 msgid "Virtual Keyboard"
-msgstr ""
+msgstr "Virtuální klávesnice"
 
 msgctxt "#30113"
 msgid "Player Controls"
-msgstr ""
+msgstr "Ovládání přehrávače"
 
 msgctxt "#30114"
 msgid "Seek bar"
-msgstr ""
+msgstr "Panel posunu"
 
 msgctxt "#30115"
 msgid "Music OSD"
-msgstr ""
+msgstr "Hudební OSD"
 
 msgctxt "#30116"
 msgid "Video OSD Settings"
-msgstr ""
+msgstr "Nastavení OSD videa"
 
 msgctxt "#30117"
 msgid "Audio OSD Settings"
-msgstr ""
+msgstr "Nastavení OSD zvuku"
 
 msgctxt "#30118"
 msgid "Visualisation"
-msgstr ""
+msgstr "Vizualizace"
 
 msgctxt "#30119"
 msgid "Slideshow"
-msgstr ""
+msgstr "Prezentace"
 
 # empty strings from id 30120 to 30199
 # Navigation
 msgctxt "#30200"
 msgid "Move Left"
-msgstr ""
+msgstr "Posunout doleva"
 
 msgctxt "#30201"
 msgid "Move Right"
-msgstr ""
+msgstr "Posunout doprava"
 
 msgctxt "#30202"
 msgid "Move Up"
-msgstr ""
+msgstr "Posunout nahoru"
 
 msgctxt "#30203"
 msgid "Move Down"
-msgstr ""
+msgstr "Posunout dolů"
 
 msgctxt "#30204"
 msgid "Page Up"
-msgstr ""
+msgstr "O stránku nahoru"
 
 msgctxt "#30205"
 msgid "Page Down"
-msgstr ""
+msgstr "O stránku dolů"
 
 msgctxt "#30206"
 msgid "Select Item"
-msgstr ""
+msgstr "Vybrat položku"
 
 msgctxt "#30207"
 msgid "Highlight Item"
-msgstr ""
+msgstr "Zvýraznit položku"
 
 msgctxt "#30208"
 msgid "Parent Directory"
-msgstr ""
+msgstr "Nadřazený adresář"
 
 msgctxt "#30209"
 msgid "Back"
-msgstr ""
+msgstr "Zpět"
 
 msgctxt "#30210"
 msgid "Previous Menu"
-msgstr ""
+msgstr "Předchozí nabídka"
 
 msgctxt "#30211"
 msgid "Show Info"
-msgstr ""
+msgstr "Zobrazit informace"
 
 msgctxt "#30212"
 msgid "Context Menu"
-msgstr ""
+msgstr "Kontextová nabídka"
 
 msgctxt "#30213"
 msgid "Menu"
-msgstr ""
+msgstr "Nabídka"
 
 msgctxt "#30214"
 msgid "First Page"
-msgstr ""
+msgstr "První stránka"
 
 msgctxt "#30215"
 msgid "Last Page"
-msgstr ""
+msgstr "Poslední stránka"
 
 msgctxt "#30216"
 msgid "Next Letter"
-msgstr ""
+msgstr "Další písmeno"
 
 msgctxt "#30217"
 msgid "Previous Letter"
-msgstr ""
+msgstr "Předchozí písmeno"
 
 msgctxt "#30218"
 msgid "Scroll Up"
-msgstr ""
+msgstr "Rolovat nahoru"
 
 msgctxt "#30219"
 msgid "Scroll Down"
-msgstr ""
+msgstr "Rolovat dolů"
 
 msgctxt "#30220"
 msgid "Cursor Left"
-msgstr ""
+msgstr "Kurzor vlevo"
 
 msgctxt "#30221"
 msgid "Cursor Right"
-msgstr ""
+msgstr "Kurzor vpravo"
 
 # empty strings from id 30222 to 30299
 # Playback
 msgctxt "#30300"
 msgid "Play"
-msgstr ""
+msgstr "Přehrát"
 
 msgctxt "#30301"
 msgid "Pause"
-msgstr ""
+msgstr "Pozastavit"
 
 msgctxt "#30302"
 msgid "Play/Pause"
-msgstr ""
+msgstr "Přehrát/pozastavit"
 
 msgctxt "#30303"
 msgid "Stop"
-msgstr ""
+msgstr "Zastavit"
 
 msgctxt "#30304"
 msgid "Next"
-msgstr ""
+msgstr "Další"
 
 msgctxt "#30305"
 msgid "Previous"
-msgstr ""
+msgstr "Předchozí"
 
 msgctxt "#30306"
 msgid "Fast Forward"
-msgstr ""
+msgstr "Přetočit vpřed"
 
 msgctxt "#30307"
 msgid "Rewind"
-msgstr ""
+msgstr "Přetočit zpět"
 
 msgctxt "#30308"
 msgid "Small Step Back"
-msgstr ""
+msgstr "Malý krok zpět"
 
 msgctxt "#30309"
 msgid "Step Forward"
-msgstr ""
+msgstr "Krok vpřed"
 
 msgctxt "#30310"
 msgid "Step Back"
-msgstr ""
+msgstr "Krok zpět"
 
 msgctxt "#30311"
 msgid "Big Step Forward"
-msgstr ""
+msgstr "Velký krok vpřed"
 
 msgctxt "#30312"
 msgid "Big Step Back"
-msgstr ""
+msgstr "Velký krok zpět"
 
 msgctxt "#30313"
 msgid "Next Chapter or Big Step Forward"
-msgstr ""
+msgstr "Další kapitola nebo velký krok vpřed"
 
 msgctxt "#30314"
 msgid "Previous Chapter or Big Step Back"
-msgstr ""
+msgstr "Předchozí kapitola nebo velký krok zpět"
 
 msgctxt "#30315"
 msgid "Show OSD"
-msgstr ""
+msgstr "Zobrazit OSD"
 
 msgctxt "#30316"
 msgid "Show current play time"
-msgstr ""
+msgstr "Zobrazit aktuální čas přehrávání"
 
 msgctxt "#30317"
 msgid "Show Playlist"
-msgstr ""
+msgstr "Zobrazit seznam stop"
 
 msgctxt "#30318"
 msgid "Toggle Fullscreen"
-msgstr ""
+msgstr "Přepnout režim celé obrazovky"
 
 msgctxt "#30319"
 msgid "Change Aspect Ratio"
-msgstr ""
+msgstr "Změnit poměr stran"
 
 msgctxt "#30320"
 msgid "Go to DVD Video Menu"
-msgstr ""
+msgstr "Přejít do nabídky DVD videa"
 
 msgctxt "#30321"
 msgid "Toggle Repeat"
-msgstr ""
+msgstr "Přepnout opakování"
 
 msgctxt "#30322"
 msgid "Repeat One"
-msgstr ""
+msgstr "Opakování jedné položky"
 
 msgctxt "#30323"
 msgid "Repeat All"
-msgstr ""
+msgstr "Opakování všeho"
 
 msgctxt "#30324"
 msgid "Repeat Off"
-msgstr ""
+msgstr "Opakování vypnuto"
 
 msgctxt "#30325"
 msgid "Toggle Random"
-msgstr ""
+msgstr "Přepnout náhodné přehrávání"
 
 msgctxt "#30326"
 msgid "Random On"
-msgstr ""
+msgstr "Náhodné přehrávání zapnuto"
 
 msgctxt "#30327"
 msgid "Random Off"
-msgstr ""
+msgstr "Náhodné přehrávání vypnuto"
 
 msgctxt "#30328"
 msgid "Playback Speed Faster"
-msgstr ""
+msgstr "Zrychlit přehrávání"
 
 msgctxt "#30329"
 msgid "Playback Speed Slower"
-msgstr ""
+msgstr "Zpomalit přehrávání"
 
 msgctxt "#30330"
 msgid "Create Bookmark"
-msgstr ""
+msgstr "Vytvořit záložku"
 
 msgctxt "#30331"
 msgid "Create Episode Bookmark"
-msgstr ""
+msgstr "Vytvořit záložku epizody"
 
 msgctxt "#30332"
 msgid "Toggle 3D/Stereoscopic mode"
-msgstr ""
+msgstr "Přepnout 3D/stereoskopický režim"
 
 msgctxt "#30333"
 msgid "Switch Player"
-msgstr ""
+msgstr "Přepnout přehrávač"
 
 msgctxt "#30334"
 msgid "Play Next"
-msgstr ""
+msgstr "Přehrát jako další"
 
 msgctxt "#30335"
 msgid "Select Program"
-msgstr ""
+msgstr "Vybrat program"
 
 msgctxt "#30336"
 msgid "Select Resolution"
-msgstr ""
+msgstr "Vybrat rozlišení"
 
 msgctxt "#30337"
 msgid "Shift Video Up"
-msgstr ""
+msgstr "Posunout video nahoru"
 
 msgctxt "#30338"
 msgid "Shift Video Down"
-msgstr ""
+msgstr "Posunout video dolů"
 
 msgctxt "#30339"
 msgid "Show Time"
-msgstr ""
+msgstr "Zobrazit čas"
 
 msgctxt "#30340"
 msgid "Next Scene"
-msgstr ""
+msgstr "Další scéna"
 
 msgctxt "#30341"
 msgid "Previous Scene"
-msgstr ""
+msgstr "Předchozí scéna"
 
 msgctxt "#30342"
 msgid "Next Video Stream"
-msgstr ""
+msgstr "Další video stream"
 
 msgctxt "#30343"
 msgid "Toggle HDHR"
-msgstr ""
+msgstr "Přepnout HDR"
 
 msgctxt "#30344"
 msgid "Cycle 3D Mode"
-msgstr ""
+msgstr "Cyklicky přepnout 3D režim"
 
 msgctxt "#30345"
 msgid "Next 3D Mode"
-msgstr ""
+msgstr "Další 3D režim"
 
 msgctxt "#30346"
 msgid "Previous 3D Mode"
-msgstr ""
+msgstr "Předchozí 3D režim"
 
 msgctxt "#30347"
 msgid "3D Mono"
-msgstr ""
+msgstr "3D mono"
 
 msgctxt "#30348"
 msgid "Tempo Up"
-msgstr ""
+msgstr "Zvýšit tempo"
 
 msgctxt "#30349"
 msgid "Tempo Down"
-msgstr ""
+msgstr "Snížit tempo"
 
 # empty strings from id 30348 to 30399
 # Audio
 msgctxt "#30400"
 msgid "Mute"
-msgstr ""
+msgstr "Ztlumit"
 
 msgctxt "#30401"
 msgid "Volume Up"
-msgstr ""
+msgstr "Zvýšit hlasitost"
 
 msgctxt "#30402"
 msgid "Volume Down"
-msgstr ""
+msgstr "Snížit hlasitost"
 
 msgctxt "#30403"
 msgid "Next Language"
-msgstr ""
+msgstr "Další jazyk"
 
 msgctxt "#30404"
 msgid "Delay"
-msgstr ""
+msgstr "Prodleva"
 
 msgctxt "#30405"
 msgid "Delay Minus"
-msgstr ""
+msgstr "Snížit prodlevu"
 
 msgctxt "#30406"
 msgid "Delay Plus"
-msgstr ""
+msgstr "Zvýšit prodlevu"
 
 msgctxt "#30407"
 msgid "Toggle Digital/Analog"
-msgstr ""
+msgstr "Přepnout digitální/analogový režim"
 
 msgctxt "#30408"
 msgid "Volume Amp Up"
-msgstr ""
+msgstr "Zvýšit zesílení hlasitosti"
 
 msgctxt "#30409"
 msgid "Volume Amp Down"
-msgstr ""
+msgstr "Snížit zesílení hlasitosti"
 
 msgctxt "#30410"
 msgid "Volume Amplification"
-msgstr ""
+msgstr "Zesílení hlasitosti"
 
 # empty strings from id 30411 to 30499
 # Pictures
 msgctxt "#30500"
 msgid "Next Picture"
-msgstr ""
+msgstr "Další obrázek"
 
 msgctxt "#30501"
 msgid "Previous Picture"
-msgstr ""
+msgstr "Předchozí obrázek"
 
 msgctxt "#30502"
 msgid "Rotate Picture"
-msgstr ""
+msgstr "Otočit obrázek"
 
 msgctxt "#30503"
 msgid "Rotate Picture CCW"
-msgstr ""
+msgstr "Otočit obrázek proti směru hodinových ručiček"
 
 msgctxt "#30504"
 msgid "Zoom Out"
-msgstr ""
+msgstr "Oddálit"
 
 msgctxt "#30505"
 msgid "Zoom In "
-msgstr ""
+msgstr "Přiblížit "
 
 msgctxt "#30506"
 msgid "Zoom level Normal"
-msgstr ""
+msgstr "Normální úroveň přiblížení"
 
 msgctxt "#30507"
 msgid "Zoom level 1"
-msgstr ""
+msgstr "Úroveň přiblížení 1"
 
 msgctxt "#30508"
 msgid "Zoom level 2"
-msgstr ""
+msgstr "Úroveň přiblížení 2"
 
 msgctxt "#30509"
 msgid "Zoom level 3"
-msgstr ""
+msgstr "Úroveň přiblížení 3"
 
 msgctxt "#30510"
 msgid "Zoom level 4"
-msgstr ""
+msgstr "Úroveň přiblížení 4"
 
 msgctxt "#30511"
 msgid "Zoom level 5"
-msgstr ""
+msgstr "Úroveň přiblížení 5"
 
 msgctxt "#30512"
 msgid "Zoom level 6"
-msgstr ""
+msgstr "Úroveň přiblížení 6"
 
 msgctxt "#30513"
 msgid "Zoom level 7"
-msgstr ""
+msgstr "Úroveň přiblížení 7"
 
 msgctxt "#30514"
 msgid "Zoom level 8"
-msgstr ""
+msgstr "Úroveň přiblížení 8"
 
 msgctxt "#30515"
 msgid "Zoom level 9"
-msgstr ""
+msgstr "Úroveň přiblížení 9"
 
 # empty strings from id 30516 to 30599
 # Subtitle
 msgctxt "#30600"
 msgid "Show Subtitles"
-msgstr ""
+msgstr "Zobrazit titulky"
 
 msgctxt "#30601"
 msgid "Next Subtitle"
-msgstr ""
+msgstr "Další titulková stopa"
 
 msgctxt "#30602"
 msgid "Browse Subtitle"
-msgstr ""
+msgstr "Vybrat titulky"
 
 msgctxt "#30603"
 msgid "Cycle Subtitle"
-msgstr ""
+msgstr "Cyklicky přepnout titulky"
 
 msgctxt "#30604"
 msgid "Delay"
-msgstr ""
+msgstr "Prodleva"
 
 msgctxt "#30605"
 msgid "Delay Minus"
-msgstr ""
+msgstr "Snížit prodlevu"
 
 msgctxt "#30606"
 msgid "Delay Plus"
-msgstr ""
+msgstr "Zvýšit prodlevu"
 
 msgctxt "#30607"
 msgid "Align"
-msgstr ""
+msgstr "Zarovnat"
 
 msgctxt "#30608"
 msgid "Shift Subtitle Up"
-msgstr ""
+msgstr "Posunout titulky nahoru"
 
 msgctxt "#30609"
 msgid "Shift Subtitle Down"
-msgstr ""
+msgstr "Posunout titulky dolů"
 
 # empty strings from id 30610 to 30699
 # PVR
 msgctxt "#30700"
 msgid "Channel Up"
-msgstr ""
+msgstr "Kanál nahoru"
 
 msgctxt "#30701"
 msgid "Channel Down"
-msgstr ""
+msgstr "Kanál dolů"
 
 msgctxt "#30702"
 msgid "Previous channel group"
-msgstr ""
+msgstr "Předchozí skupina kanálů"
 
 msgctxt "#30703"
 msgid "Next channel group"
-msgstr ""
+msgstr "Další skupina kanálů"
 
 msgctxt "#30704"
 msgid "PVR Play"
-msgstr ""
+msgstr "Přehrát PVR"
 
 msgctxt "#30705"
 msgid "PVR Play TV"
-msgstr ""
+msgstr "Přehrát PVR TV"
 
 msgctxt "#30706"
 msgid "PVR Play Radio"
-msgstr ""
+msgstr "Přehrát PVR rádio"
 
 msgctxt "#30707"
 msgid "Record"
-msgstr ""
+msgstr "Nahrávat"
 
 msgctxt "#30708"
 msgid "Toggle Commskip"
-msgstr ""
+msgstr "Přepnout přeskakování reklam"
 
 msgctxt "#30709"
 msgid "PVR Show Timer Rule"
-msgstr ""
+msgstr "Zobrazit pravidlo časovače PVR"
 
 msgctxt "#30710"
 msgid "Channel Number Separator"
-msgstr ""
+msgstr "Oddělovač čísla kanálu"
 
 # empty strings from id 30711 to 30799
 # Item Actions
 msgctxt "#30800"
 msgid "Queue item"
-msgstr ""
+msgstr "Zařadit položku do fronty"
 
 msgctxt "#30801"
 msgid "Delete item"
-msgstr ""
+msgstr "Odstranit položku"
 
 msgctxt "#30802"
 msgid "Copy item"
-msgstr ""
+msgstr "Kopírovat položku"
 
 msgctxt "#30803"
 msgid "Move item"
-msgstr ""
+msgstr "Přesunout položku"
 
 msgctxt "#30804"
 msgid "Move item up"
-msgstr ""
+msgstr "Přesunout položku nahoru"
 
 msgctxt "#30805"
 msgid "Move item down"
-msgstr ""
+msgstr "Přesunout položku dolů"
 
 msgctxt "#30806"
 msgid "Rename item"
-msgstr ""
+msgstr "Přejmenovat položku"
 
 msgctxt "#30807"
 msgid "Scan item"
-msgstr ""
+msgstr "Prohledat položku"
 
 msgctxt "#30808"
 msgid "Toggle Watched"
-msgstr ""
+msgstr "Přepnout stav zhlédnutí"
 
 msgctxt "#30809"
 msgid "Increase Rating"
-msgstr ""
+msgstr "Zvýšit hodnocení"
 
 msgctxt "#30810"
 msgid "Decrease Rating"
-msgstr ""
+msgstr "Snížit hodnocení"
 
 msgctxt "#30811"
 msgid "Set Rating"
-msgstr ""
+msgstr "Nastavit hodnocení"
 
 # empty strings from id 30812 to 30899
 # System
 msgctxt "#30900"
 msgid "Toggle Fullscreen"
-msgstr ""
+msgstr "Přepnout režim celé obrazovky"
 
 msgctxt "#30901"
 msgid "Minimise"
-msgstr ""
+msgstr "Minimalizovat"
 
 msgctxt "#30902"
 msgid "Shutdown"
-msgstr ""
+msgstr "Vypnout"
 
 msgctxt "#30903"
 msgid "Reboot"
-msgstr ""
+msgstr "Restartovat"
 
 msgctxt "#30904"
 msgid "Hibernate"
-msgstr ""
+msgstr "Hibernovat"
 
 msgctxt "#30905"
 msgid "Suspend"
-msgstr ""
+msgstr "Uspat"
 
 msgctxt "#30906"
 msgid "Restart Kodi"
-msgstr ""
+msgstr "Restartovat Kodi"
 
 msgctxt "#30907"
 msgid "Log off"
-msgstr ""
+msgstr "Odhlásit se"
 
 msgctxt "#30908"
 msgid "Quit Kodi"
-msgstr ""
+msgstr "Ukončit Kodi"
 
 msgctxt "#30909"
 msgid "Reset Settings"
-msgstr ""
+msgstr "Resetovat nastavení"
 
 msgctxt "#30910"
 msgid "Change Settings Level"
-msgstr ""
+msgstr "Změnit úroveň nastavení"
 
 msgctxt "#30911"
 msgid "Toggle Font"
-msgstr ""
+msgstr "Přepnout písmo"
 
 # empty strings from id 30912 to 30999
 # Virtual Keyboard
 msgctxt "#31000"
 msgid "Enter"
-msgstr ""
+msgstr "Enter"
 
 msgctxt "#31001"
 msgid "Shift"
-msgstr ""
+msgstr "Shift"
 
 msgctxt "#31002"
 msgid "Symbols"
-msgstr ""
+msgstr "Symboly"
 
 msgctxt "#31003"
 msgid "Backspace"
-msgstr ""
+msgstr "Backspace"
 
 msgctxt "#31004"
 msgid "0"
-msgstr ""
+msgstr "0"
 
 msgctxt "#31005"
 msgid "1"
-msgstr ""
+msgstr "1"
 
 msgctxt "#31006"
 msgid "2"
-msgstr ""
+msgstr "2"
 
 msgctxt "#31007"
 msgid "3"
-msgstr ""
+msgstr "3"
 
 msgctxt "#31008"
 msgid "4"
-msgstr ""
+msgstr "4"
 
 msgctxt "#31009"
 msgid "5"
-msgstr ""
+msgstr "5"
 
 msgctxt "#31010"
 msgid "6"
-msgstr ""
+msgstr "6"
 
 msgctxt "#31011"
 msgid "7"
-msgstr ""
+msgstr "7"
 
 msgctxt "#31012"
 msgid "8"
-msgstr ""
+msgstr "8"
 
 msgctxt "#31013"
 msgid "9"
-msgstr ""
+msgstr "9"
 
 msgctxt "#31014"
 msgid "Teletext Red"
-msgstr ""
+msgstr "Červené teletextové tlačítko"
 
 msgctxt "#31015"
 msgid "Teletext Green"
-msgstr ""
+msgstr "Zelené teletextové tlačítko"
 
 msgctxt "#31016"
 msgid "Teletext Yellow"
-msgstr ""
+msgstr "Žluté teletextové tlačítko"
 
 msgctxt "#31017"
 msgid "Teletext Blue"
-msgstr ""
+msgstr "Modré teletextové tlačítko"
 
 # empty strings from id 31018 to 31099
 # Other
 msgctxt "#31100"
 msgid "Update Video Library"
-msgstr ""
+msgstr "Aktualizovat knihovnu videí"
 
 msgctxt "#31101"
 msgid "Update Music Library"
-msgstr ""
+msgstr "Aktualizovat knihovnu hudby"
 
 msgctxt "#31102"
 msgid "Clean Video Library"
-msgstr ""
+msgstr "Vyčistit knihovnu videí"
 
 msgctxt "#31103"
 msgid "Clean Music Library"
-msgstr ""
+msgstr "Vyčistit knihovnu hudby"
 
 msgctxt "#31104"
 msgid "Player Process Info"
-msgstr ""
+msgstr "Informace o zpracování přehrávače"
 
 msgctxt "#31105"
 msgid "Player debug"
-msgstr ""
+msgstr "Ladění přehrávače"
 
 msgctxt "#31106"
 msgid "Take screenshot"
-msgstr ""
+msgstr "Pořídit snímek obrazovky"
 
 msgctxt "#31107"
 msgid "Reload Keymaps"
-msgstr ""
+msgstr "Znovu načíst mapování ovládání"
 
 msgctxt "#31108"
 msgid "Increase PAR"
-msgstr ""
+msgstr "Zvýšit PAR"
 
 msgctxt "#31109"
 msgid "Decrease PAR"
-msgstr ""
+msgstr "Snížit PAR"
 
 msgctxt "#31110"
 msgid "Change resolution"
-msgstr ""
+msgstr "Změnit rozlišení"
 
 msgctxt "#31111"
 msgid "Next calibration"
-msgstr ""
+msgstr "Další kalibrační prvek"
 
 msgctxt "#31112"
 msgid "Reset calibration"
-msgstr ""
+msgstr "Resetovat kalibraci"
 
 msgctxt "#31113"
 msgid "Show current visualisation preset"
-msgstr ""
+msgstr "Zobrazit aktuální předvolbu vizualizace"
 
 msgctxt "#31114"
 msgid "Show visualisation preset list"
-msgstr ""
+msgstr "Zobrazit seznam předvoleb vizualizace"
 
 msgctxt "#31115"
 msgid "Next visualisation preset"
-msgstr ""
+msgstr "Další předvolba vizualizace"
 
 msgctxt "#31116"
 msgid "Previous visualisation preset"
-msgstr ""
+msgstr "Předchozí předvolba vizualizace"
 
 msgctxt "#31117"
 msgid "Lock current visualisation preset"
-msgstr ""
+msgstr "Uzamknout aktuální předvolbu vizualizace"
 
 msgctxt "#31118"
 msgid "Switch to a new random preset"
-msgstr ""
+msgstr "Přepnout na novou náhodnou předvolbu"
 
 # empty strings from id 31119 to 31199
 # Activate Window
 msgctxt "#31200"
 msgid "Settings"
-msgstr ""
+msgstr "Nastavení"
 
 msgctxt "#31201"
 msgid "Player Settings"
-msgstr ""
+msgstr "Nastavení přehrávače"
 
 msgctxt "#31202"
 msgid "Programs Settings"
-msgstr ""
+msgstr "Nastavení programů"
 
 msgctxt "#31203"
 msgid "Information Provider Settings"
-msgstr ""
+msgstr "Nastavení poskytovatelů informací"
 
 msgctxt "#31204"
 msgid "Interface Settings"
-msgstr ""
+msgstr "Nastavení rozhraní"
 
 msgctxt "#31205"
 msgid "System Settings"
-msgstr ""
+msgstr "Nastavení systému"
 
 msgctxt "#31206"
 msgid "Media Settings"
-msgstr ""
+msgstr "Nastavení médií"
 
 msgctxt "#31207"
 msgid "Service Settings"
-msgstr ""
+msgstr "Nastavení služeb"
 
 msgctxt "#31208"
 msgid "Appearance Settings"
-msgstr ""
+msgstr "Nastavení vzhledu"
 
 msgctxt "#31209"
 msgid "Peripherals Settings"
-msgstr ""
+msgstr "Nastavení periferií"
 
 msgctxt "#31210"
 msgid "Library Export Settings"
-msgstr ""
+msgstr "Nastavení exportu knihovny"
 
 msgctxt "#31211"
 msgid "PVR Settings"
-msgstr ""
+msgstr "Nastavení PVR"
 
 msgctxt "#31212"
 msgid "PVR Recording Settings"
-msgstr ""
+msgstr "Nastavení nahrávání PVR"
 
 msgctxt "#31213"
 msgid "Game Settings"
-msgstr ""
+msgstr "Nastavení her"
 
 msgctxt "#31214"
 msgid "Advanced Game Settings"
-msgstr ""
+msgstr "Pokročilá nastavení her"
 
 msgctxt "#31215"
 msgid "Game Controllers"
-msgstr ""
+msgstr "Herní ovladače"
 
 msgctxt "#31216"
 msgid "Game Video Filters"
-msgstr ""
+msgstr "Video filtry her"
 
 msgctxt "#31217"
 msgid "Game Video Rotation"
-msgstr ""
+msgstr "Otočení videa hry"
 
 msgctxt "#31218"
 msgid "Game View Mode"
-msgstr ""
+msgstr "Režim zobrazení hry"
 
 msgctxt "#31219"
 msgid "Skin Settings"
-msgstr ""
+msgstr "Nastavení vzhledu"
 
 msgctxt "#31220"
 msgid "Addon Browser"
-msgstr ""
+msgstr "Prohlížeč doplňků"
 
 msgctxt "#31221"
 msgid "Addon Settings"
-msgstr ""
+msgstr "Nastavení doplňku"
 
 msgctxt "#31222"
 msgid "Profile Settings"
-msgstr ""
+msgstr "Nastavení profilu"
 
 msgctxt "#31223"
 msgid "Lock Settings"
-msgstr ""
+msgstr "Nastavení zámku"
 
 msgctxt "#31224"
 msgid "Content Settings"
-msgstr ""
+msgstr "Nastavení obsahu"
 
 msgctxt "#31225"
 msgid "Profiles"
-msgstr ""
+msgstr "Profily"
 
 msgctxt "#31226"
 msgid "System info"
-msgstr ""
+msgstr "Informace o systému"
 
 msgctxt "#31227"
 msgid "Test Pattern"
-msgstr ""
+msgstr "Testovací obrazec"
 
 msgctxt "#31228"
 msgid "Screen Calibration"
-msgstr ""
+msgstr "Kalibrace obrazovky"
 
 msgctxt "#31229"
 msgid "Login Screen"
-msgstr ""
+msgstr "Přihlašovací obrazovka"
 
 msgctxt "#31230"
 msgid "File Browser"
-msgstr ""
+msgstr "Prohlížeč souborů"
 
 msgctxt "#31231"
 msgid "Network Setup"
-msgstr ""
+msgstr "Nastavení sítě"
 
 msgctxt "#31232"
 msgid "Access Points"
-msgstr ""
+msgstr "Přístupové body"
 
 msgctxt "#31233"
 msgid "Mediasource Dialog"
-msgstr ""
+msgstr "Dialog zdroje médií"
 
 msgctxt "#31234"
 msgid "Start"
-msgstr ""
+msgstr "Start"
 
 msgctxt "#31235"
 msgid "Favourites"
-msgstr ""
+msgstr "Oblíbené"
 
 msgctxt "#31236"
 msgid "Context Menu"
-msgstr ""
+msgstr "Kontextová nabídka"
 
 msgctxt "#31237"
 msgid "Media filter"
-msgstr ""
+msgstr "Filtr médií"
 
 msgctxt "#31238"
 msgid "Visualisation Preset List"
-msgstr ""
+msgstr "Seznam předvoleb vizualizace"
 
 msgctxt "#31239"
 msgid "Smart Playlist Editor"
-msgstr ""
+msgstr "Editor chytrého seznamu stop"
 
 msgctxt "#31240"
 msgid "Smart Playlist Rule"
-msgstr ""
+msgstr "Pravidlo chytrého seznamu stop"
 
 msgctxt "#31241"
 msgid "Shutdown Menu"
-msgstr ""
+msgstr "Nabídka vypnutí"
 
 msgctxt "#31242"
 msgid "Fullscreen Info"
-msgstr ""
+msgstr "Informace v režimu celé obrazovky"
 
 msgctxt "#31243"
 msgid "Subtitle Search"
-msgstr ""
+msgstr "Hledání titulků"
 
 msgctxt "#31244"
 msgid "Weather"
-msgstr ""
+msgstr "Počasí"
 
 msgctxt "#31245"
 msgid "Screensaver"
-msgstr ""
+msgstr "Spořič obrazovky"
 
 msgctxt "#31246"
 msgid "Picture Info"
-msgstr ""
+msgstr "Informace o obrázku"
 
 msgctxt "#31247"
 msgid "Addon Info"
-msgstr ""
+msgstr "Informace o doplňku"
 
 # empty string 31248
 msgctxt "#31249"
 msgid "Music Playlist"
-msgstr ""
+msgstr "Hudební seznam stop"
 
 msgctxt "#31250"
 msgid "Music Playlist Editor"
-msgstr ""
+msgstr "Editor hudebního seznamu stop"
 
 msgctxt "#31251"
 msgid "Music Info"
-msgstr ""
+msgstr "Informace o hudbě"
 
 msgctxt "#31252"
 msgid "Song Info"
-msgstr ""
+msgstr "Informace o skladbě"
 
 msgctxt "#31253"
 msgid "Movie Info"
-msgstr ""
+msgstr "Informace o filmu"
 
 msgctxt "#31254"
 msgid "Player Process Info"
-msgstr ""
+msgstr "Informace o zpracování přehrávače"
 
 msgctxt "#31255"
 msgid "Video Menu"
-msgstr ""
+msgstr "Nabídka videa"
 
 msgctxt "#31256"
 msgid "Video OSD"
-msgstr ""
+msgstr "Video OSD"
 
 msgctxt "#31257"
 msgid "Colour Management Settings"
-msgstr ""
+msgstr "Nastavení správy barev"
 
 msgctxt "#31258"
 msgid "Subtitle Settings"
-msgstr ""
+msgstr "Nastavení titulků"
 
 msgctxt "#31259"
 msgid "Video Time Seek"
-msgstr ""
+msgstr "Přechod na čas ve videu"
 
 msgctxt "#31260"
 msgid "Video Bookmarks"
-msgstr ""
+msgstr "Záložky ve videu"
 
 msgctxt "#31261"
 msgid "Video Playlist"
-msgstr ""
+msgstr "Seznam video stop"
 
 msgctxt "#31262"
 msgid "PVR Guide Info"
-msgstr ""
+msgstr "Informace z programu PVR"
 
 msgctxt "#31263"
 msgid "PVR Recording Info"
-msgstr ""
+msgstr "Informace o nahrávce PVR"
 
 msgctxt "#31264"
 msgid "PVR Timer Setting"
-msgstr ""
+msgstr "Nastavení časovače PVR"
 
 msgctxt "#31265"
 msgid "PVR Group Manager"
-msgstr ""
+msgstr "Správce skupin PVR"
 
 msgctxt "#31266"
 msgid "PVR Channel Manager"
-msgstr ""
+msgstr "Správce kanálů PVR"
 
 msgctxt "#31267"
 msgid "PVR Guide Search"
-msgstr ""
+msgstr "Hledání v programu PVR"
 
 msgctxt "#31268"
 msgid "PVR Channel Scan"
-msgstr ""
+msgstr "Vyhledávání kanálů PVR"
 
 msgctxt "#31269"
 msgid "PVR Update Progress"
-msgstr ""
+msgstr "Průběh aktualizace PVR"
 
 msgctxt "#31270"
 msgid "PVR OSD Channels"
-msgstr ""
+msgstr "Kanály PVR v OSD"
 
 msgctxt "#31271"
 msgid "PVR OSD Guide"
-msgstr ""
+msgstr "Program PVR v OSD"
 
 msgctxt "#31272"
 msgid "TV Channels"
-msgstr ""
+msgstr "Televizní kanály"
 
 msgctxt "#31273"
 msgid "TV Recordings"
-msgstr ""
+msgstr "Televizní nahrávky"
 
 msgctxt "#31274"
 msgid "TV Guide"
-msgstr ""
+msgstr "TV program"
 
 msgctxt "#31275"
 msgid "TV Timers"
-msgstr ""
+msgstr "TV časovače"
 
 msgctxt "#31276"
 msgid "TV Search"
-msgstr ""
+msgstr "Hledání TV"
 
 msgctxt "#31277"
 msgid "Radio Channels"
-msgstr ""
+msgstr "Rádiové kanály"
 
 msgctxt "#31278"
 msgid "Radio Recordings"
-msgstr ""
+msgstr "Rádiové nahrávky"
 
 msgctxt "#31279"
 msgid "Radio Guide"
-msgstr ""
+msgstr "Rádiový program"
 
 msgctxt "#31280"
 msgid "Radio Timers"
-msgstr ""
+msgstr "Rádiové časovače"
 
 msgctxt "#31281"
 msgid "Radio Timer Rules"
-msgstr ""
+msgstr "Pravidla rádiových časovačů"
 
 msgctxt "#31282"
 msgid "Radio Search"
-msgstr ""
+msgstr "Hledání rádia"
 
 msgctxt "#31283"
 msgid "RDS Info"
-msgstr ""
+msgstr "Informace RDS"
 
 msgctxt "#31284"
 msgid "Movies"
-msgstr ""
+msgstr "Filmy"
 
 msgctxt "#31285"
 msgid "Movie Titles"
-msgstr ""
+msgstr "Názvy filmů"
 
 msgctxt "#31286"
 msgid "TV Shows"
-msgstr ""
+msgstr "Seriály"
 
 msgctxt "#31287"
 msgid "TV Show Titles"
-msgstr ""
+msgstr "Názvy seriálů"
 
 msgctxt "#31288"
 msgid "Music Videos"
-msgstr ""
+msgstr "Hudební videa"
 
 msgctxt "#31289"
 msgid "Recently Added Movies"
-msgstr ""
+msgstr "Nedávno přidané filmy"
 
 msgctxt "#31290"
 msgid "Recently Added Episodes"
-msgstr ""
+msgstr "Nedávno přidané epizody"
 
 msgctxt "#31291"
 msgid "Recently Added Music Videos"
-msgstr ""
+msgstr "Nedávno přidaná hudební videa"
 
 msgctxt "#31292"
 msgid "Games"
-msgstr ""
+msgstr "Hry"
 
 msgctxt "#31293"
 msgid "Games OSD"
-msgstr ""
+msgstr "Herní OSD"
 
 msgctxt "#31294"
 msgid "Game Pad Input"
-msgstr ""
+msgstr "Vstup herního ovladače"
 
 msgctxt "#31295"
 msgid "Game Volume"
-msgstr ""
+msgstr "Hlasitost hry"
